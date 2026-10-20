@@ -1,0 +1,15 @@
+{
+  "seed": 20261017,
+  "raw_data_default": "data/raw",
+  "raw_data_environment_variable": "LMF_DATA_ROOT",
+  "results": "artifacts/results",
+  "figures": "artifacts/figures",
+  "notebook_mode": "frozen aggregate results plus explicitly synthetic API demonstrations",
+  "maker_train": ["2025-12-01", "2026-01-31"],
+  "maker_validation": ["2026-02-01", "2026-02-28"],
+  "hidden_test_available": false,
+  "raw_data_published": false,
+  "fitted_weights_published": false,
+  "reason_weights_withheld": "Upstream redistribution rights for the supplied dataset are not documented. Retain learned weights locally pending clarification.",
+  "config_location": "Exact model parameters and threshold policies remain with the corresponding frozen results to preserve the working pipeline."
+}

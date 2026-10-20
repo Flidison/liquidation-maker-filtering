@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "liquidation-maker-filtering"
+version = "0.1.0"
+description = "Research on liquidation-driven adverse selection and hypothetical maker trade filtering"
+requires-python = ">=3.11,<3.12"
+license = "MIT"
+readme = "README.md"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+py-modules = ["research_paths", "research_report", "data_quality_audit",
+  "liquidation_bursts", "liquidation_burst_plots", "liquidation_followthrough",
+  "liquidation_followthrough_plots", "liquidation_early_warning",
+  "liquidation_early_warning_evaluation", "liquidation_early_warning_plots",
+  "liquidation_statistical_validation", "evt_log_cond_modeling",
+  "evt_log_cond_plots", "evt_log_cond_reduced_5s", "evt_log_cond_test_reduced_5s",
+  "evt_log_cond_calibration_5s"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src", "."]
+addopts = "-ra -m 'not integration'"
+markers = ["integration: requires original raw data, private caches, historical receipts or fitted models"]
