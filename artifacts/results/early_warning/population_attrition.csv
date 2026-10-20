@@ -1,0 +1,7 @@
+symbol,split,all_dc_events,nuisance_warmup,history_not_ready_after_warmup,known_burst_with_ready_history,forecast_eligible
+btcusdt,test,66577,0,133,675,65769
+btcusdt,train,172797,54179,530,1114,116974
+btcusdt,validation,131048,0,76,1502,129470
+ethusdt,test,95809,0,95,781,94933
+ethusdt,train,286691,89958,247,1927,194559
+ethusdt,validation,191096,0,57,1825,189214

@@ -1,0 +1,21 @@
+{
+  "version": "2026-10-11-bursts-v1",
+  "observation_window_s": 5,
+  "baseline_s": 1200,
+  "calibration_start": "2025-12-01 00:00:00+00:00",
+  "threshold_freeze": "2025-12-15 00:00:00+00:00",
+  "validation_start": "2026-02-01 00:00:00+00:00",
+  "interval": "[t-window,t)",
+  "ratio_threshold": 5,
+  "absolute_floor_quantile": 0.9,
+  "minimum_trade_ratio": 2,
+  "trade_quantile": 0.95,
+  "return_quantile": 0.99,
+  "minimum_abs_return_bps_5s": 2,
+  "max_quote_age_upper_s": 2,
+  "minimum_persistence_s": 10,
+  "minimum_persistence_windows": 2,
+  "near_zero_count_floor_5s": 1,
+  "near_zero_notional_floor_5s": 1000,
+  "choice_basis": "Interpretability and calibration-window rarity only; no market outcomes or validation tuning."
+}

@@ -1,0 +1,1242 @@
+[
+  {
+    "file": "src/evt_log_cond_calibration_5s.py",
+    "name": "bin_boundaries",
+    "source_ast_sha256": "2a230461b9201021739542c132d497586959c47b7e0166db4c3b07867b3fc486"
+  },
+  {
+    "file": "src/evt_log_cond_calibration_5s.py",
+    "name": "grouped_calibration",
+    "source_ast_sha256": "feb6b91d85b0fa7e05f1ff8f3b5baa1ec48b28512990b283a44ab83d5a449647"
+  },
+  {
+    "file": "src/evt_log_cond_calibration_5s.py",
+    "name": "summarize",
+    "source_ast_sha256": "98152189bf0b268d90f1eace2ba5ec18e5f09e5e015ce6368a15773e083c7171"
+  },
+  {
+    "file": "src/evt_log_cond_calibration_5s.py",
+    "name": "calibration_figure",
+    "source_ast_sha256": "12382f0260fd0f7e0d005e0b76d2fabb5949fc5421e38505475ea96019c4a809"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "digest",
+    "source_ast_sha256": "c9fe00ef26a712f77e1a01ec90be257410febe195b783a4cf02abd8de2cd01f7"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "dump",
+    "source_ast_sha256": "90822721db38f9b998f04afe135c545d0e54a22f3e1acb778f8b7031c76ee592"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "asof_quotes",
+    "source_ast_sha256": "19161e4db256a31983bfb15f8f593e567e496e08d14536a9214a0e3a82153708"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "raw_quote_snapshots",
+    "source_ast_sha256": "390159241bb3a319e094d9367e251e3b4f90921a5569ae321de9d04a942a7b07"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "queue_features",
+    "source_ast_sha256": "e7df8779c026b912deff266591c7dbf98f559de7cb80b1012a4e45eec5bb59a1"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "intensity",
+    "source_ast_sha256": "3ad5a55805cd9370d5c51a5e688f4db9a905e2d07608b8002dde96d3ec2883c7"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "lagged_returns",
+    "source_ast_sha256": "960229481088b9b7a8c89de57bc88a8b30851dfdeab123611e3ef0d21e679a6c"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "feature_names",
+    "source_ast_sha256": "eff02df469e3c569e0f95561b98858b73fba4ddee18eb38d416c59d22cd71ddd"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "period_labels",
+    "source_ast_sha256": "388d956af1dcf0b9ff10095994219df7ec2b660976572f0eb7a077f3f1babb60"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "build_features",
+    "source_ast_sha256": "a24fd41cf51e22c57eba60084c14f8c220710e1dcccdc8ddf8064a165c48766b"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "parameters",
+    "source_ast_sha256": "dba3753c69f4a7f000564c9acad904295eaa15fdaaf42246a4b03b8aac45bf07"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "evaluate",
+    "source_ast_sha256": "f6132ece9589e50e7c956a1dee461b8882851db9d3539798568ed8d6f05da74f"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "mse_eval",
+    "source_ast_sha256": "855434d32dfd666781fde2bed5c2bc18e09eec42dd4f3eedeeb38897f679abb1"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "tree_model",
+    "source_ast_sha256": "ba8b209de9795170042290113d5ad4ee740bfd718927aa6fd867defeb47f256c"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "tune",
+    "source_ast_sha256": "21265133320c1296745a91b24893a3cae75a12ac50ec6f0e0d8c88f6d28e6b8e"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "evaluate_test_once",
+    "source_ast_sha256": "6da15c78f4a03b2fc87ad141c58d85982e2eaa3371bc50bab00137043bfff274"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "verify_results",
+    "source_ast_sha256": "3a3096b1a3532403e19c26dc1575b1d5c02bdc718f4285a4c613456181130582"
+  },
+  {
+    "file": "src/evt_log_cond_modeling.py",
+    "name": "summarize_probabilities",
+    "source_ast_sha256": "d73680bffdd8bec11311fdb7a9eae0c2a210a0f4a557b04bc5b47716b4322995"
+  },
+  {
+    "file": "src/evt_log_cond_plots.py",
+    "name": "style",
+    "source_ast_sha256": "13ed17a17daa9133f034b97990389400d7f6ec6d86d8a96b9f1889c68783432b"
+  },
+  {
+    "file": "src/evt_log_cond_plots.py",
+    "name": "save",
+    "source_ast_sha256": "339c39d1e6e4f2632a719271f2b63388992c156e85d3e902e095f4da7352d18c"
+  },
+  {
+    "file": "src/evt_log_cond_plots.py",
+    "name": "search_figure",
+    "source_ast_sha256": "e6a20bacce0f9566a3da46d3be6783a6042d677879b34bea0b92efa3d52f1557"
+  },
+  {
+    "file": "src/evt_log_cond_plots.py",
+    "name": "mse_figure",
+    "source_ast_sha256": "0f870694639fa146e3eb6f04175fbdb84f2ba3c7c268502e541f2940e6c2019c"
+  },
+  {
+    "file": "src/evt_log_cond_plots.py",
+    "name": "calibration_figure",
+    "source_ast_sha256": "e90a615dae44940a9e2b30910a6f283e2768d269d64412e40ab494c0ff3dab4d"
+  },
+  {
+    "file": "src/evt_log_cond_reduced_5s.py",
+    "name": "reduced_model",
+    "source_ast_sha256": "a7fd113cd73a91e0ad731c642c75cdf60dcb15bc4a01a3eac7334bdbe9bb981a"
+  },
+  {
+    "file": "src/evt_log_cond_reduced_5s.py",
+    "name": "development_only",
+    "source_ast_sha256": "232536a9bf1e47159fa6c2c9cbc98e74bd00aa6d19e696986130f27e332880d3"
+  },
+  {
+    "file": "src/evt_log_cond_reduced_5s.py",
+    "name": "tree_depth",
+    "source_ast_sha256": "d637bc20590ad5b6835408a0af010de41a25cc888ac5bec43cc5a3d2a5ac57ae"
+  },
+  {
+    "file": "src/evt_log_cond_reduced_5s.py",
+    "name": "run",
+    "source_ast_sha256": "82443d25fe6cc91e40beb5dee1115b3cfe27ff1c525919428e2fdb88ffc6c51d"
+  },
+  {
+    "file": "src/evt_log_cond_test_reduced_5s.py",
+    "name": "paired_day_intervals",
+    "source_ast_sha256": "4064adf0e9236c9a235d72ca6c05f43bc20a541873425033070b40c7c9e36ebe"
+  },
+  {
+    "file": "src/evt_log_cond_test_reduced_5s.py",
+    "name": "evaluate_once",
+    "source_ast_sha256": "cedfee67eb601ae3aa3f7f5dd9ea492ec1b59531a0221439eec9f3771b29f57c"
+  },
+  {
+    "file": "src/liquidation_burst_plots.py",
+    "name": "setup_style",
+    "source_ast_sha256": "8245a9045486c234b8b89904f5415193f7300a1e53db50fb466ab855d87958b8"
+  },
+  {
+    "file": "src/liquidation_burst_plots.py",
+    "name": "save",
+    "source_ast_sha256": "4f68dcdf4d3d11311d483b0556aa69ed3d1aec444717ccf7375f3e9421dcfc86"
+  },
+  {
+    "file": "src/liquidation_burst_plots.py",
+    "name": "daily_events",
+    "source_ast_sha256": "e123e312e697d7683534359736b14f1b8627309b5b480d39f40be1f0550b3773"
+  },
+  {
+    "file": "src/liquidation_burst_plots.py",
+    "name": "market_association",
+    "source_ast_sha256": "e4edf89031c312c9d9b383e179145e5d667f7cd7e51b5981910371bb0d2cc153"
+  },
+  {
+    "file": "src/liquidation_burst_plots.py",
+    "name": "robustness",
+    "source_ast_sha256": "e87fecd2e114eec162b8d344ef60498d406037772d7e50c8c3947b04cc12f2d1"
+  },
+  {
+    "file": "src/liquidation_burst_plots.py",
+    "name": "selected_episodes",
+    "source_ast_sha256": "87dca348fe520654f73c045baa0faf4b9ba28670aa07c672112a2e1255a56fbd"
+  },
+  {
+    "file": "src/liquidation_burst_plots.py",
+    "name": "episode_plot",
+    "source_ast_sha256": "dae63144d86c1ccf0b6a67a73f060c479fe57bb3abe5bfbd397efe71e00a4308"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "source_path",
+    "source_ast_sha256": "9508241ea88dcc4249a80024f4428fe7df79fdfec1ca69070b29c0483d9c7ce5"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "utc",
+    "source_ast_sha256": "473f343d82e2efff09ffaba6562840f412952b32f14dd64dfbd456740d96eb49"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "prior_mean",
+    "source_ast_sha256": "ea96889d416d697865a8db5c109571c536e3ed881648a683f7a3558112edf24c"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "prior_quantile",
+    "source_ast_sha256": "1c981a92a9fddfc9d7339c018d24bc0076829d51e831546356a2adb35a690a84"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "prior_nanmean",
+    "source_ast_sha256": "eba5c1985eaee900c1e100d21819143374f1e0ccfa5d26a5580b80b21d05021d"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "verify_sources",
+    "source_ast_sha256": "8e678fbddde2fe12d3f9416be63f69702b7d3f8aaea6cc4078ddd4a34ea2a18c"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "build_second_cache",
+    "source_ast_sha256": "b764885cc585a0be27c59728927a6be8f9bc9275fb090441ea87123fe0859faf"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "load_liquidations",
+    "source_ast_sha256": "b6187cd44d972ff5a294a3666f63c4e5fbe9a7d213044a3c6a5ecfe54bcb0dc1"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "market_windows",
+    "source_ast_sha256": "dd612710a5e4158847ad4b406d661fc93b219bec1c30a1d84e86c3a80fe0896a"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "liquidation_windows",
+    "source_ast_sha256": "97046e773636aae7c54c15953a011ddc2a5303c8b3f12218062f4555866cc2e9"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "calibrate",
+    "source_ast_sha256": "60f5c6b241d7d342065502a61cbf3b189f21d9a23a8fc52f0872b7374ce94776"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "liquidation_features",
+    "source_ast_sha256": "c9589b1356aa0a6b06278f255c992a70c481911647cb5fabc759c3235bd49f7f"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "classify",
+    "source_ast_sha256": "c4d1b37068848e287908856b1d006db5dcb9cbc58e764c9e4d53ab08a91d0634"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "make_episodes",
+    "source_ast_sha256": "b795b8d4b67bd4d5f50008f98de2c98b7ef2bdd83c9b3090b1f562d9e435c651"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "phase",
+    "source_ast_sha256": "7d5ae300c24ae647cc2bd8ac8c1553763f2043268d3773866f9090c660a6c2ba"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "calibrate_and_explore",
+    "source_ast_sha256": "b4ed951da83e9de5a04397e092374808256e5d08a7c345a8dfbda0dd6d5ed4f8"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "run_scenario",
+    "source_ast_sha256": "477de2f4da792de3b50cc3230f6629aec974a063bc8566a047ca554f634677ce"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "episode_match",
+    "source_ast_sha256": "402a4966a290f97feb59283e4fbb6f09ea69a3a2d95840ab5fe78e99ca818e4a"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "sensitivity",
+    "source_ast_sha256": "cb0acdfa7625b4768d22ab009a53f5dbd55a013951ad56e6a1cab549bd389054"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "read_raw_window",
+    "source_ast_sha256": "cf054b6615f810d7110587f1e2913e9dfe7b83781e67db095b8dba850117cb07"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "reconcile_and_check_duplicates",
+    "source_ast_sha256": "192cec7de4bc8e655e27bcc383a0dd5768d999e02bb93f33c0cc12e0eb27c569"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "check_all_cascade_trade_confirmations",
+    "source_ast_sha256": "83647e1a04e0488eee4d70c845abc2334a15a76866a9d3eef721fdc9a0490802"
+  },
+  {
+    "file": "src/liquidation_bursts.py",
+    "name": "direction_comparison",
+    "source_ast_sha256": "d1555e62faa2cd77a45dd7041509f0e1d053ad39ef2feeb840fca94610193919"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "digest",
+    "source_ast_sha256": "d35654c53a84ec8537535017f242434d11d44695dd2da5b8cbcaafe59e7b2c62"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "partition",
+    "source_ast_sha256": "ea6901ae7e4822df2826ccef3a202f4ff63f526a5540097140e2b4dd55cfb07e"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "partition_end",
+    "source_ast_sha256": "0de57dc9e16e06c7e0c62805877ab54d52b90c2eccbcb3263d159f487edb4201"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "directional_changes",
+    "source_ast_sha256": "7917dd50f66ba15944d06232240c2cbdf603a7b53e7ef7008dbbe6a5cbf6322e"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "fit_transition_matrix",
+    "source_ast_sha256": "ccaf581bec615eb015b2c61551b8e8ff503f167797a491660fe53f2be8a5c40d"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "rolling_surprise",
+    "source_ast_sha256": "f132144c32c8851b6d52363813326c89bd9d910d746d45bf17a00d0913d41907"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "liquidity_scores",
+    "source_ast_sha256": "c0dc598a315689705ad17afa5dd2e10b179dca40b2dc0745fbdfe7fcbafed02b"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "trailing_sum",
+    "source_ast_sha256": "8f1c09e02f136c8861f89c6a97af8274eab4af80a635644662240bac5fcbe71a"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "trailing_price_features",
+    "source_ast_sha256": "1a1eb002aa951124cace34f87a4388ec171fe9b3c4b0b115fd306a31568a40ac"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "future_labels",
+    "source_ast_sha256": "ac1fb1133475284333cc0ec9227a7b602b17f47b46fa2b59a01848c876b40630"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "build_features",
+    "source_ast_sha256": "2f2e11efb9abf8ef87f5e6c64e0c4e9430d93fd4524430306696234bb1e78256"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "feature_columns",
+    "source_ast_sha256": "95fa9b6e851933c03f15ec72fe903f3715ea6ee303b262b17b18b4d7e6f76081"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "choose_threshold",
+    "source_ast_sha256": "1f1796bbdf44af01a96417e413e915e2e44ee9d466c0939bff5a5f6df40f05d3"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "metrics",
+    "source_ast_sha256": "d681bfa1c46ee6a99a6ac9177327cad1d471e37d8accf3b86386d32bb44257b6"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "event_metrics",
+    "source_ast_sha256": "b18988e5cf16e7c1c3c34558a99f361ea454f805c80beeab2c3f2168d0038d0a"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "train_models",
+    "source_ast_sha256": "1794a5b5254cfba722c0196f0179fa6c2175103e438f055a928e5481a3fcec91"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "record_specification",
+    "source_ast_sha256": "1f6d712d6a1e6aff809119889debd312a86a51192be98997c41aa3db8ad114d4"
+  },
+  {
+    "file": "src/liquidation_early_warning.py",
+    "name": "main",
+    "source_ast_sha256": "a864dc09e321c31b5946b190257a3fb5e6c135e4761e60d2d10c63561e2f7a39"
+  },
+  {
+    "file": "src/liquidation_early_warning_evaluation.py",
+    "name": "ap_cache",
+    "source_ast_sha256": "6e1b3bbf70d9f55fa248bf6b2bf56e47481becd68ecc93ccaa0a49c21185ee76"
+  },
+  {
+    "file": "src/liquidation_early_warning_evaluation.py",
+    "name": "weighted_ap",
+    "source_ast_sha256": "01f3745c75164eceee7075a3fa9f2aa01f24159ab9c10f05136f999061089a83"
+  },
+  {
+    "file": "src/liquidation_early_warning_evaluation.py",
+    "name": "analyze",
+    "source_ast_sha256": "c6865024a1e1f6d4b0923b8feffd5ccc571ce6573ba37efe4bf990a86e816543"
+  },
+  {
+    "file": "src/liquidation_early_warning_plots.py",
+    "name": "style",
+    "source_ast_sha256": "32308d14a649746e5f86fe73621703d502eaef2bd935b271800a1abdb2d1273a"
+  },
+  {
+    "file": "src/liquidation_early_warning_plots.py",
+    "name": "save",
+    "source_ast_sha256": "6669e1a739f091ff800f73525de33890540704ca494f6fcaf77b76524395e0f8"
+  },
+  {
+    "file": "src/liquidation_early_warning_plots.py",
+    "name": "transition_figure",
+    "source_ast_sha256": "861f361070cea16021ad7e0df745b84da5ffdf67a9e5716a5536fb4f6ff80258"
+  },
+  {
+    "file": "src/liquidation_early_warning_plots.py",
+    "name": "performance_figure",
+    "source_ast_sha256": "f5a54f803bcdbafe08f073410190447226f3631f8ffe402273b65fd91f1763ce"
+  },
+  {
+    "file": "src/liquidation_early_warning_plots.py",
+    "name": "calibration_figure",
+    "source_ast_sha256": "8134bb1625ec675676c12cf4c0ac6c291b9a2c924ea8a52b313c34d8b54f4b6e"
+  },
+  {
+    "file": "src/liquidation_early_warning_plots.py",
+    "name": "episode_figure",
+    "source_ast_sha256": "4d13733a627c2495def0b5c6cda66bf74a72b9045cd2f87b0d33a1f2aa70cd84"
+  },
+  {
+    "file": "src/liquidation_early_warning_plots.py",
+    "name": "all_figures",
+    "source_ast_sha256": "506c4cdbecff811c6c4f44c452f1cec02c830f89dab642120adb1babfc1c3789"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "PricePath",
+    "source_ast_sha256": "14d81a1067d8af0b8fcee1a62f225fde4c5dbd2b12d83039af1332c095033ae6"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "direction",
+    "source_ast_sha256": "b7fc86e8a0ea286a2acb76ad3890b39479b69155395e02d3b9f0ed9498f37b1e"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "change",
+    "source_ast_sha256": "c8a6d7f890194dde034b819253f7d8b867c837af8c0e55cd71e853450926ce57"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "safe_ratio",
+    "source_ast_sha256": "0dff56282aed9128dc001940173c6a6da380d3f656a891fd1f4509189ef970b3"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "catalogs",
+    "source_ast_sha256": "988c5df1e977f720836de5eac2dff252d3dda11d33b0d30ae9ea7b6997e58b85"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "phase_end",
+    "source_ast_sha256": "a9e50d35e8a2360ff1a64517142e1fba781cd102b83fd8c40e7d46513716b28c"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "measure_catalog",
+    "source_ast_sha256": "fe7cf0a4a431cc7f6b2004e8a234c8c81a49f2102faa68bff35040396135a5cc"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "measure_outcomes",
+    "source_ast_sha256": "a54e0b4b3ef0c86cf0827f2795853e076dad74b9365056b2830e86c748afb364"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "grouped",
+    "source_ast_sha256": "51ca80c9aeabba61f35e27ad75848a5684539d60500c2d52d6f9e06772a43bf0"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "cluster_mean_ci",
+    "source_ast_sha256": "1be27cea8b95bcf2b85526f28b9136e29fb6ed6712ecdd77fe6707afc5729994"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "summaries",
+    "source_ast_sha256": "322e25defca5ece2eddc3f907f51cb16bb89968ddac8ba2b578ff7ba21a13ae5"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "auxiliary_summaries",
+    "source_ast_sha256": "817771a23190def97d4491a1bad0cc4673f631080f98c6ec7afd088af7c5a5c2"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "write_episode_lookup",
+    "source_ast_sha256": "1c898261dc96a10a9a0ba79c604c2226f4f9953d6405e95b2ef619b72856a85d"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "reconcile_raw",
+    "source_ast_sha256": "6115c501f5a0c4f2d80bf0306379d4d2250c1c4b8bd6e83a305a9b8e8ad1ec6e"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "digest",
+    "source_ast_sha256": "d35654c53a84ec8537535017f242434d11d44695dd2da5b8cbcaafe59e7b2c62"
+  },
+  {
+    "file": "src/liquidation_followthrough.py",
+    "name": "run",
+    "source_ast_sha256": "5d53d2066d20cbf040dcaf2ea2f09d96a762ba475f4a33ec5230315e9e0b23fe"
+  },
+  {
+    "file": "src/liquidation_followthrough_plots.py",
+    "name": "setup_style",
+    "source_ast_sha256": "85913c1e70a98755b34af3cdf65c2cd17014aea117dd9b1c586b22302be02c91"
+  },
+  {
+    "file": "src/liquidation_followthrough_plots.py",
+    "name": "save",
+    "source_ast_sha256": "3187eba48dbb22f684139291bae109a008d3dfe18cf68623f0d85785893a2ab8"
+  },
+  {
+    "file": "src/liquidation_followthrough_plots.py",
+    "name": "post_end_price",
+    "source_ast_sha256": "46fbdcb52c6d7ff4c99f57ea183ddd34942a58e1eb9caa2496f7591b422a5afb"
+  },
+  {
+    "file": "src/liquidation_followthrough_plots.py",
+    "name": "anchor_comparison",
+    "source_ast_sha256": "c73e3435333c3fba23963122670e846d59a86009626f48ccdc56d441ed87f787"
+  },
+  {
+    "file": "src/liquidation_followthrough_plots.py",
+    "name": "volatility_changes",
+    "source_ast_sha256": "36de0c40ed15cc2799bf55292c39cb12cbc032987db6b05330f74098e29bbe7f"
+  },
+  {
+    "file": "src/liquidation_followthrough_plots.py",
+    "name": "return_distribution",
+    "source_ast_sha256": "d675c69100931b92e0172db14fcfdff5bfb2da549a5a5a533bd9378cc50a0fcd"
+  },
+  {
+    "file": "src/liquidation_followthrough_plots.py",
+    "name": "selected_examples",
+    "source_ast_sha256": "b80283ef3a18fe96fde46c479907f474113e6bfb700e9806ffaf25a2d2fb703d"
+  },
+  {
+    "file": "src/liquidation_followthrough_plots.py",
+    "name": "episode_example",
+    "source_ast_sha256": "4a3b0445decca2c2ba844fa90799e14bc228610b3c934ce9d3d9c29175d41f06"
+  },
+  {
+    "file": "src/liquidation_statistical_validation.py",
+    "name": "sha256",
+    "source_ast_sha256": "e0b2830a4590e684f7735eb71b5747a91c351f747e6021f15ad2c48df452591e"
+  },
+  {
+    "file": "src/liquidation_statistical_validation.py",
+    "name": "fixed_family",
+    "source_ast_sha256": "04f84c14fedd68376994568bb9eccac82d4dd10ddb522ad15c1907fb726fc00e"
+  },
+  {
+    "file": "src/liquidation_statistical_validation.py",
+    "name": "holm",
+    "source_ast_sha256": "4a6881bcd2e7b575787a69ae5920662e1d391a1b06b8156d913554d2bea3d254"
+  },
+  {
+    "file": "src/liquidation_statistical_validation.py",
+    "name": "signflip_p",
+    "source_ast_sha256": "b341b3cb12c72041eadcebf354396ef97d408ed8b532afee918d7a9ef3bb409b"
+  },
+  {
+    "file": "src/liquidation_statistical_validation.py",
+    "name": "cluster_inference",
+    "source_ast_sha256": "9697e4e1347f56586dbd13d6f25d61dedaba21c29714b09625ef38dfd96dcf09"
+  },
+  {
+    "file": "src/liquidation_statistical_validation.py",
+    "name": "input_specification",
+    "source_ast_sha256": "4c748369d742683a0d9a5ecf991a2639815c7ceb55427605d6346ba3efe7addd"
+  },
+  {
+    "file": "src/liquidation_statistical_validation.py",
+    "name": "main",
+    "source_ast_sha256": "1de5486c7b7d13506ece6e757adb70a0f633f1f27eef452d76eb9a152a2dfda8"
+  },
+  {
+    "file": "src/maker_hybrid/baseline60.py",
+    "name": "run",
+    "source_ast_sha256": "623019e6c582be7c5cae07c8bfdfeaf647caa554ffa6f8816009e20ae6fb78b8"
+  },
+  {
+    "file": "src/maker_hybrid/baselines.py",
+    "name": "totals_to_metrics",
+    "source_ast_sha256": "bb239095a278ef98c336edff1a4dc19cadd938a2336511b6b208a291fdd09113"
+  },
+  {
+    "file": "src/maker_hybrid/baselines.py",
+    "name": "run",
+    "source_ast_sha256": "7bfeb6e52aead4a550b6f31d379159bd5ac549a95dc3426a336550855be79000"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_check_inference.py",
+    "name": "run",
+    "source_ast_sha256": "50308ad3185b32ff3f6cb7ad0d39cc1f490ffd3fd1bc5a50a02b710f72fe38c5"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_evaluate.py",
+    "name": "load_e9_period",
+    "source_ast_sha256": "bceeb3728fa1acd2f286577f86c274c6e408ee0b054ccd71576732ca130ac804"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_evaluate.py",
+    "name": "paired_e9_e3",
+    "source_ast_sha256": "ec7f93a084bf6c66d948ed504e61f87b341a9143846f1e85113678bb15a7aa2f"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_evaluate.py",
+    "name": "run",
+    "source_ast_sha256": "eccee521badb6335b2a5ef08f5c3556cb0d755076865ba45a529bd807dd96c9e"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_experiment.py",
+    "name": "object_hash",
+    "source_ast_sha256": "702304e15ef4b1b28bb6dccf0e9152d5506094958934c225f12c2bcb418d62d6"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_experiment.py",
+    "name": "array_hash",
+    "source_ast_sha256": "a3c112b026c98091f81b2f5203512b4e214148982e76e9f6c549dce99c17d83d"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_experiment.py",
+    "name": "immutable_json",
+    "source_ast_sha256": "a857c5f10ac49df961b5b5845bdc606b0d9fa556551d3491a497a1fb27bf54d7"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_experiment.py",
+    "name": "checked_receipt",
+    "source_ast_sha256": "46fc67bf7fc396375fa554fc666ab7cec12d3fbd7742b5ca429addcf5bf367b0"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_experiment.py",
+    "name": "specification",
+    "source_ast_sha256": "39388a0781afbbb44e43999794386cc9a9781eb836cbfd65a80d51d835850aa1"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_experiment.py",
+    "name": "training_inputs",
+    "source_ast_sha256": "04b473baa2eafe5f3dbd3eeb4f13ccab8e0a19822dcdc4f53a74ea3ed83822e7"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_experiment.py",
+    "name": "train",
+    "source_ast_sha256": "82c20bb72650ae907e6dd4299c09f67594e78de8911eaf735a8a3cf61e9d9ac2"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_experiment.py",
+    "name": "predict",
+    "source_ast_sha256": "29f31da8f8b20b8e861b90590350a3b0bbae975fe13a1cf51d172599751b7e17"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_experiment.py",
+    "name": "main",
+    "source_ast_sha256": "98bd9175312406c0e499e7f5806ee323af09c6af792f15dd6a2093370cb01d34"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_submission.py",
+    "name": "_load_model",
+    "source_ast_sha256": "a6d1be3f665c3695588d9fadba02de9188dab930b9ab74e10e2319109bd3a133"
+  },
+  {
+    "file": "src/maker_hybrid/catboost_submission.py",
+    "name": "catboost_signal",
+    "source_ast_sha256": "c04bb0fd8b991c6a3bda0499a2639183fa9cb590532b74b02e5eda2eff0ff847"
+  },
+  {
+    "file": "src/maker_hybrid/check_inference.py",
+    "name": "run",
+    "source_ast_sha256": "7a7a7e64af6d97588b71e3c342268b03e788aaef2f5ac1f255309f713b345255"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "save_json",
+    "source_ast_sha256": "3b1b77418ccaea4d640daf1fad62b775250add59ad9236526adb1a97cbf0a24e"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "digest",
+    "source_ast_sha256": "d35654c53a84ec8537535017f242434d11d44695dd2da5b8cbcaafe59e7b2c62"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "uniform_hash",
+    "source_ast_sha256": "cda11cc466734ca722af7d9511bb765b6d2b2c0b54a1410ba6cafbde7128a3a9"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "policy_hash",
+    "source_ast_sha256": "89c095c779c87c281c5668167f4748b7d2961fc891be89b6883b6616b6edb3fc"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "source",
+    "source_ast_sha256": "ee09b416ab15745afca9a24fd202c6d86532d0584b62e31b14cc9a3e04841d46"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "as_pandas",
+    "source_ast_sha256": "f58ddce08eaa80c2674c8b643caf81cd8477c9c97b732c7226291c3eb0c63a1d"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "liquidation_arrays",
+    "source_ast_sha256": "883b60a2f6faaf739de4dd914955b722d8b25550720808de480414180525ce64"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "liquidation_window",
+    "source_ast_sha256": "6624e490dcb287c90c915bf7b804c5d9f99ac02c7fc9a283fb2430a6ae67608a"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "alignment",
+    "source_ast_sha256": "fd07cdc7eb915fbdfdb7448b7cf29b0ed4bbbf69c40c555fdeb066a98617e54e"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "maker_labels",
+    "source_ast_sha256": "d6883f3d2180af47b1ddbf42deddc1fc93ce016cd037be02fdbed2f84e81d69a"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "official_score",
+    "source_ast_sha256": "21205a970e9eb614179951c20101eef0c6a0b3710c16dd298a926f81e5ea3625"
+  },
+  {
+    "file": "src/maker_hybrid/core.py",
+    "name": "as_quotes",
+    "source_ast_sha256": "ede9f843734baab4093292a913605316b85f70d59795eb6c340aa7cb37e115d2"
+  },
+  {
+    "file": "src/maker_hybrid/diagnostics.py",
+    "name": "save",
+    "source_ast_sha256": "560aa51c5e1e5ba51ddeebae9f78314d250970e95646180f1acdf756aaa7d1a1"
+  },
+  {
+    "file": "src/maker_hybrid/diagnostics.py",
+    "name": "block_comparisons",
+    "source_ast_sha256": "a5ff4629bd12930aefb6c3ac073b34b29ab3bd7d0f7d5b55d01d0881e1f17363"
+  },
+  {
+    "file": "src/maker_hybrid/diagnostics.py",
+    "name": "tables",
+    "source_ast_sha256": "cfe881c11e5b674c18d44236d7bd901eed3f55b65bd36febdb11da38a879023a"
+  },
+  {
+    "file": "src/maker_hybrid/diagnostics.py",
+    "name": "plots",
+    "source_ast_sha256": "7d30c38a13424082d6907f6b68fe548e17ad108758c4de7bb392e8704ca192e0"
+  },
+  {
+    "file": "src/maker_hybrid/diagnostics.py",
+    "name": "distributions",
+    "source_ast_sha256": "1c894cbae9136179b9d452616b5f17534f1c86b78d623317f5c12eb8d8b43f83"
+  },
+  {
+    "file": "src/maker_hybrid/diagnostics.py",
+    "name": "lr_brier_uncertainty",
+    "source_ast_sha256": "e5aa9abbfde4c3fe7fb33eb11c482b60c780481f438360af5e8bd9cce8931a52"
+  },
+  {
+    "file": "src/maker_hybrid/diagnostics.py",
+    "name": "upper_probability_bins",
+    "source_ast_sha256": "d51d13dee8c859a66fcb1fd14c3cb08038f1ebfdbb110465a55e67b41f7df33a"
+  },
+  {
+    "file": "src/maker_hybrid/diagnostics.py",
+    "name": "ablation_plot",
+    "source_ast_sha256": "751b89c5562f785d619fe5f7272293d55c2141ac52fd27d1accb1452d0c1f50c"
+  },
+  {
+    "file": "src/maker_hybrid/evaluate.py",
+    "name": "load_period",
+    "source_ast_sha256": "5c4cadfba78d0632ffb42e47ca78dc307d13f3ba19857932eec4947d0a25b128"
+  },
+  {
+    "file": "src/maker_hybrid/evaluate.py",
+    "name": "daily_stats",
+    "source_ast_sha256": "ae58ac52ca6ec66892f2a62e75c3c60cfb454c1cf17a8de20360a0bc167307c8"
+  },
+  {
+    "file": "src/maker_hybrid/evaluate.py",
+    "name": "summarize_daily",
+    "source_ast_sha256": "3980682fa85e6cf4d66d12bff848eb4c9e01bfb7db6fbaa228bc726eef1e8d83"
+  },
+  {
+    "file": "src/maker_hybrid/evaluate.py",
+    "name": "paired_comparisons",
+    "source_ast_sha256": "536e6c34d8795d8dd87b5a3ac78ab37f936a408884a513b83d962cb6fdad0041"
+  },
+  {
+    "file": "src/maker_hybrid/evaluate.py",
+    "name": "run",
+    "source_ast_sha256": "84adb13b89723eac98466cb5539eb5199fca2c8dd4a66bcdd72aff0c0839b04b"
+  },
+  {
+    "file": "src/maker_hybrid/features.py",
+    "name": "trailing",
+    "source_ast_sha256": "b130b7cb868f38a1323a4fde34053d62b952cbc788e07ebed1751845939fb534"
+  },
+  {
+    "file": "src/maker_hybrid/features.py",
+    "name": "state_features",
+    "source_ast_sha256": "29e02b1b088b22dee04a5864c988cfcc4734135cdff5ecfc2e390de7d46043bb"
+  },
+  {
+    "file": "src/maker_hybrid/features.py",
+    "name": "feature_columns",
+    "source_ast_sha256": "6224fdb524a52cf7ed10c748a33322546c775109534d3e586584f62a6ab54c1f"
+  },
+  {
+    "file": "src/maker_hybrid/features.py",
+    "name": "trade_features",
+    "source_ast_sha256": "ed4453760f4d25355a389c0a31627d170bfd55e9b81ee178d1405bbb7c8f4dee"
+  },
+  {
+    "file": "src/maker_hybrid/features.py",
+    "name": "build",
+    "source_ast_sha256": "236755a0d283a0d81ed9b77bb5ff39385d1e030f506caa3612eeef0b0ce8cb34"
+  },
+  {
+    "file": "src/maker_hybrid/holdout_transfer.py",
+    "name": "run",
+    "source_ast_sha256": "3f0b34ef1f909bf730de20a3608e90ff328b9f59b47fb441265572cfe4924e89"
+  },
+  {
+    "file": "src/maker_hybrid/logistic.py",
+    "name": "future_burst",
+    "source_ast_sha256": "ed6af7c8d06cd19a03985bf42b5174a433d5397c403f3a998e64cafc7f35b0a1"
+  },
+  {
+    "file": "src/maker_hybrid/logistic.py",
+    "name": "load_train",
+    "source_ast_sha256": "8869980d5bc0fa45ccfe9c24f38da536a60fa17909c8ab4047234bac10cbdd02"
+  },
+  {
+    "file": "src/maker_hybrid/logistic.py",
+    "name": "fit_models",
+    "source_ast_sha256": "a4b559697e0d29a6dd09df271ecdb2a011e5cb87c7b211c722ac84acedbe0eb4"
+  },
+  {
+    "file": "src/maker_hybrid/logistic.py",
+    "name": "run",
+    "source_ast_sha256": "1959879b8ae78759006fe9468d6f26260c0c8a8ddd32a420468ca7d1f3949cdb"
+  },
+  {
+    "file": "src/maker_hybrid/logistic.py",
+    "name": "diagnostics",
+    "source_ast_sha256": "29d13dfecc825256a06bd20d9731302c9880103a2346bc76a311b928baff6bd8"
+  },
+  {
+    "file": "src/maker_hybrid/policy.py",
+    "name": "trade_hash",
+    "source_ast_sha256": "e6f72bda7ddd024eb344373236dfa9c564db26c64bf35d2b89f5b48049dee5aa"
+  },
+  {
+    "file": "src/maker_hybrid/policy.py",
+    "name": "liq_arrays",
+    "source_ast_sha256": "dfabe6f29e98b5fa49d4dbf5863d2e37267dcd2ed9ea03af337ee14c88e85159"
+  },
+  {
+    "file": "src/maker_hybrid/policy.py",
+    "name": "bbo_bounds",
+    "source_ast_sha256": "f15e12beb7477f4098ebd791279623b14f2ff53c3f5193c73683ceaba86ed62f"
+  },
+  {
+    "file": "src/maker_hybrid/policy.py",
+    "name": "boundary_trades",
+    "source_ast_sha256": "26841dffe3454737694fa4fa267ad41ff227e452634140c735340a89b6d587b0"
+  },
+  {
+    "file": "src/maker_hybrid/policy.py",
+    "name": "ranked_groups",
+    "source_ast_sha256": "c9554dc617e6a8701ac0828fe960641fff8806ecea761e69ae03558368e6868c"
+  },
+  {
+    "file": "src/maker_hybrid/policy.py",
+    "name": "calibrate",
+    "source_ast_sha256": "3b55a42e1dddf804026b59058a37ac8772a1ccaaaab783a61f96a208d8994eae"
+  },
+  {
+    "file": "src/maker_hybrid/policy.py",
+    "name": "full_group_keep",
+    "source_ast_sha256": "774a214b26c1cb635b6d21ce37ab34ee687be90e7f3d8bcd4d25ce14509a6d71"
+  },
+  {
+    "file": "src/maker_hybrid/prepare.py",
+    "name": "bounds",
+    "source_ast_sha256": "b908ba0907bfece68401631353918df827203cbea6ce17a78251cc289eb245da"
+  },
+  {
+    "file": "src/maker_hybrid/prepare.py",
+    "name": "bbo_slice",
+    "source_ast_sha256": "504a59cdae5608ac7b2c621d1a47b37faf6fd1559125970c00a2f55828dca788"
+  },
+  {
+    "file": "src/maker_hybrid/prepare.py",
+    "name": "prepare_day",
+    "source_ast_sha256": "b441cd3098a7320f4a7df5a306a5b8c72237843a8d4dbd2d33f60443e7bda617"
+  },
+  {
+    "file": "src/maker_hybrid/prepare.py",
+    "name": "run",
+    "source_ast_sha256": "f88a2f83a4152b85006e2d63012c4d909887b001fb1fdd310e246820798f6ee2"
+  },
+  {
+    "file": "src/maker_hybrid/price_audit.py",
+    "name": "run",
+    "source_ast_sha256": "57a21df692babff949467d3bfc961770bdd172d0ad0061785418ff4b50550e4c"
+  },
+  {
+    "file": "src/maker_hybrid/price_sensitivity.py",
+    "name": "run",
+    "source_ast_sha256": "b07adfed4b89ed20353814a0aa0a58c8e1b5009f19f8249c091d5045bba1b7a3"
+  },
+  {
+    "file": "src/maker_hybrid/regression.py",
+    "name": "sample_training",
+    "source_ast_sha256": "8f114bb09ee110a58804d8f5b4f08959177808ab9a96684da66e0401ca41ce7e"
+  },
+  {
+    "file": "src/maker_hybrid/regression.py",
+    "name": "train",
+    "source_ast_sha256": "f45848c98dc2c3b7af40192a5ebd7668425b77415d3ed042c0e08b3c2ebd0c1c"
+  },
+  {
+    "file": "src/maker_hybrid/regression.py",
+    "name": "predict",
+    "source_ast_sha256": "74b97fb5be4e95e637524991d48d797dcd21407b160fee3ec8fd4788e60eda4b"
+  },
+  {
+    "file": "src/maker_hybrid/submission.py",
+    "name": "flow_strength",
+    "source_ast_sha256": "863117cb55b5e81495dd504621b0a591494d921cdf62315355d6e6d3c200ec30"
+  },
+  {
+    "file": "src/maker_hybrid/submission.py",
+    "name": "_empty_liq",
+    "source_ast_sha256": "0d160731f4fba6a3296830409fe31d2aed5aa6683eb9704ff6210ac95e3bd11f"
+  },
+  {
+    "file": "src/maker_hybrid/submission.py",
+    "name": "_symbol",
+    "source_ast_sha256": "bd63053abc187eb44cf95c5c1fd33241d85d5001ebf540ae27be9b6fa4895abf"
+  },
+  {
+    "file": "src/maker_hybrid/submission.py",
+    "name": "_quotes",
+    "source_ast_sha256": "61caa673cc615d2735e1e8af8ae5a79b5917ef980bcd7dbdf676dccf3a0a4fa9"
+  },
+  {
+    "file": "src/maker_hybrid/submission.py",
+    "name": "market_batches",
+    "source_ast_sha256": "a12c40d6532e5de7b98542f0df2d3ab2312b60f58b65227ad4abea45038b7d76"
+  },
+  {
+    "file": "src/maker_hybrid/submission.py",
+    "name": "_configuration",
+    "source_ast_sha256": "d806dad60e3e6f5fc33edad5107a6d33cb251ed08261899af97faa19124fb725"
+  },
+  {
+    "file": "src/maker_hybrid/submission.py",
+    "name": "_model",
+    "source_ast_sha256": "7f214097c150148b28f5cc761cc5b91e72310eec9003e16cd4423d54bc12ed57"
+  },
+  {
+    "file": "src/maker_hybrid/submission.py",
+    "name": "signal_with_config",
+    "source_ast_sha256": "93201d958b4830ecf1f036e2705d197305f5911fba3c89defcd0e14022a058a4"
+  },
+  {
+    "file": "src/maker_hybrid/submission.py",
+    "name": "signal",
+    "source_ast_sha256": "8cf3526efe89c81a0f99086d69a76abf1cfb5ab86e4b6e02a76109ecdbf6ae26"
+  },
+  {
+    "file": "src/maker_hybrid/submission.py",
+    "name": "hybrid_signal",
+    "source_ast_sha256": "926246ae69d3cb58799a410410197645a2c23609b280d08a64d60b8769106adb"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "heading",
+    "source_ast_sha256": "d792f00c22bec5a1cbee184f7b2135619e2ef636302a477230ea4c8bc4aedcbf"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "sha256",
+    "source_ast_sha256": "f06ae5302d285dbc2507b84778297486b6057006135cc9d089e1de48ca82ba7a"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "utc",
+    "source_ast_sha256": "63da509321b32a44e13cb30be4c8d90176772a3183514d15e2372a4b39e4f3e6"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "symbol",
+    "source_ast_sha256": "d73541e886f0484e82193cedc92b695af18d8ae28b07f14f53095ef62b1882fe"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "file_kind",
+    "source_ast_sha256": "d7e57538c0c6dcf2a01d670a0a2ea46a9b821ffe327735cb07a12e5c18a08648"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "stat_quantiles",
+    "source_ast_sha256": "21d181bfdf09d6c0a66fd79179669d2e1067f95d985c83cd7b89f01abb6dbb90"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "ParquetSink",
+    "source_ast_sha256": "b0317b5bf220838cda36bfcbe897dda4f9d306dfd7ab0d5397b653aa341015f3"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "ExactDistribution",
+    "source_ast_sha256": "721d0b7d57de71fbd3cc49e2bdf38e37fb0ad626836ebc4cee90f0405312d960"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "emit_issue",
+    "source_ast_sha256": "a78bb52f501b0ddc497b508c9db83ba3e65736682e450666998372aa094fb3d1"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "raw_rows",
+    "source_ast_sha256": "5dd512fed355f906236d74a60fe6e5778e929e8eff4737ba7a9fea9528650a4f"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "show_context",
+    "source_ast_sha256": "7dc9044b3c0fa0c189f9fe568ff25a4943e01b7a4ab5db9d2cd1b18db5ecda16"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "original_batches",
+    "source_ast_sha256": "f60787972bd4b3be3084b08d0d9fba3d2c8067ea72e3eacc7590175b4baaecb4"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "schema_audit",
+    "source_ast_sha256": "0a7d461d916ec291b4d786cafd7d3deb66766493413bf7889ffbda8d059183e8"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "timestamp_audit",
+    "source_ast_sha256": "759c011467da7224a2df5fb184e147deb75536328ead12468d94406e0042e15b"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "bbo_audit",
+    "source_ast_sha256": "dfc3ac1a6d2e39d4a606cb4e52000634a644ac3e5f1bd7703d282a1308e8346e"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "trade_audit",
+    "source_ast_sha256": "27bcf7e867ef42bbdbb77db761663878e03bc2fe6f6f32d05b50e737e870d3af"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "liquidation_audit",
+    "source_ast_sha256": "c7653b48d304695f18f98169e9a1411ccbf38bfe9e0960a4cd2650842a9c9dfb"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "validation_masks",
+    "source_ast_sha256": "2e0f53984c9bb812e9cdf0d2227121d1a1cf463104247d3c3677d80276a35473"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "iter_cleaned",
+    "source_ast_sha256": "0186fe220910e5aaf724cac2beba9871b35310c3e1e88c00a1a11259ecdfc91b"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "second_features",
+    "source_ast_sha256": "da4ff02d782c3b350c7b249235dfa61e8fcbd6ba7d38ed5777ba80e5b45cf831"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "gap_analysis",
+    "source_ast_sha256": "a4bc9b3443dfe43597d89445210ad6a4052f9f5679d75ac3a51f69f5a01b609f"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "price_anomaly_analysis",
+    "source_ast_sha256": "8224c42427771f5ca4f82e1f5e6f50da5b1555efb68966139f9b7a05527489bd"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "merge_second_features",
+    "source_ast_sha256": "734591c8990f0634f9cd6084114ab3498a5a946b503ae2d970c106c12377b0ad"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "audit_file",
+    "source_ast_sha256": "2b531377806b1762a071458534e3928e91a93eb2355382e441cf31da61e35f58"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "read_seconds",
+    "source_ast_sha256": "e2cc895456558e92d82e5f2a9b2c0d3ba01bc960f69b5cb141c681b90e5fb035"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "cross_dataset_validation",
+    "source_ast_sha256": "20d26e330b9365b28da112b2dbfcaccf6053e26514609f1b727513c595e2a709"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "discover_events",
+    "source_ast_sha256": "62874f35f9f9b1bab5bb5f210e5876784dc5f3b43c0f3d34a77ff926cd6bcdfb"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "classify_events",
+    "source_ast_sha256": "af58d8471db8beaa7ec53ab1ddba55f31440d579e1aa5183c13f097a75eee63e"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "build_event_evidence",
+    "source_ast_sha256": "4d8cd33b6a62687c6302c5e90ac9cf7d147754d5d6908868b966d6fc6ae31382"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "exact_interval_activity",
+    "source_ast_sha256": "4757ed1f75ba99ba09e7658189ca4376e2b52a63d8aa6ce8db73239493dc5129"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "investigate_bbo_gaps",
+    "source_ast_sha256": "bbe3a3c100aba8de1a0343f0d7c9a5ace5f1d5e9362c3a6a6a5b20d550f5b351"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "investigate_trade_gaps",
+    "source_ast_sha256": "34e7125d337f9e37084e5569516fb41d92ba87c2ef7053c87d95d4540ec85a57"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "audit_page",
+    "source_ast_sha256": "931452c21e26eeaa1de2d241fe1004aef46cf441bfc20a17d72d794e5f280212"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "evidence_page",
+    "source_ast_sha256": "a7f3d2a43d014d30f3f3522b5ee9890c8370d5cd0d1a0c9e8d127e3a50c4af43"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "severity_counts",
+    "source_ast_sha256": "e94290fb5271459ddf0b59c7b7f1218b9382f2303adc762ca09d73b02483526f"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "summary_generation",
+    "source_ast_sha256": "3d5def1077276bc4e0bacc1ded44d35cb7c4494974b4f99ada95645e69e1614d"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "histogram",
+    "source_ast_sha256": "4338d0d8da47c1e985e44d3e7f2b7954466f0c47ada2a5c2c893bc1609aaedb6"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "render_schema",
+    "source_ast_sha256": "01355f440c4e90832b26e80af08903a9acd8abbb0fd65d009d47526c29e4612f"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "render_checks",
+    "source_ast_sha256": "6a5a0266a35227d16a04e1a5c4e53a9ad55fcad89a33919183009f41ddc42391"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "render_liquidations",
+    "source_ast_sha256": "b83777b95693ee46c045c743b6e297257f9b33cff2ae772a3cd90e921d1f5373"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "window_rows",
+    "source_ast_sha256": "79910ddad25c7ff58a8e1ff4b9fda47f5098d21a26ef052ebcc7afb8b0043678"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "diagnostic_window",
+    "source_ast_sha256": "537155d73b327649f891302a8c4553f5f316ca13e27f96aed66dacc67336bb1a"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "render_event_diagnostics",
+    "source_ast_sha256": "27778822b89baf2b8c3b7e1c6ccbb4f3667d7c21a844affa4c3a285e42b26bab"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "dataset_conclusion",
+    "source_ast_sha256": "9f8d2eb8ea51e53d5f9aa3c0331c5499d10777e3efe30b3d7a01dc71a43d5b30"
+  },
+  {
+    "file": "src/data_quality_audit.py",
+    "name": "validate_audit",
+    "source_ast_sha256": "9920cd77f032e37cd92901b945e149142d15d6e80f8ead372174ac5368aa73ae"
+  }
+]

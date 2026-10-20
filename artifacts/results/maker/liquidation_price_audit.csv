@@ -1,0 +1,5 @@
+symbol,exchange,rows,fresh_reference_rows,flagged_300bps,flagged_1000bps,flagged_raw_notional
+btcusdt,binance,114255,113836,11,2,2842.7772
+btcusdt,bybit,228655,222034,1,0,1950.0
+ethusdt,binance,131769,131319,36,11,3397156.61267
+ethusdt,bybit,160214,155845,3,1,11988.1983

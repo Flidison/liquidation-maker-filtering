@@ -1,0 +1,38 @@
+{
+  "created_utc": "2026-10-11T01:40:18.472024+00:00",
+  "lags_seconds": [
+    5,
+    10,
+    20,
+    30,
+    60
+  ],
+  "forecast_horizons_seconds": [
+    5,
+    20,
+    30,
+    120,
+    300
+  ],
+  "theta_bps": [
+    2.5,
+    5.0,
+    10.0
+  ],
+  "k_transitions": 20,
+  "price_sampling": "last BBO strictly before each second boundary; one-second sampled DC approximation",
+  "target": "new symbol-wide burst onset in (t,t+h]; onset is a retrospective label (detection - 5s), never a feature; current known burst excluded causally",
+  "strict_early_warning": "alert in [onset-h,onset), strictly before onset; detection-time coverage separately reported",
+  "split": "60/15/15 complete UTC dates; first 14 train days are nuisance calibration, not supervised training",
+  "test_caveat": "2026-02-14..28 was viewed in prior EDA; historical reuse, not virgin holdout",
+  "phi": "Gaussian CDF standardized by held-out calibration W_20; empirical survival as sensitivity feature",
+  "markov": "first-order approximation; not an established property of observed price states",
+  "open_interest": "absent from all 8 input files; omitted with user agreement, no volume substitution",
+  "liquidation_quality": "predictor counts exclude exact duplicate extras and causal suspect-price flags; target detector unchanged, hence labels remain provisional",
+  "lightgbm": "binary classifier; binary log loss; no class reweighting/downsampling; early stopping and threshold on validation only",
+  "external_sources": [
+    "https://arxiv.org/html/1402.2198",
+    "https://lightgbm.readthedocs.io/en/stable/pythonapi/lightgbm.LGBMClassifier.html",
+    "https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html"
+  ]
+}

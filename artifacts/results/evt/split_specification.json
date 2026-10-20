@@ -1,0 +1,28 @@
+{
+  "timestamp_unit": "microseconds UTC",
+  "interval": "[start, end)",
+  "split_timestamp": "effective_timestamp",
+  "bybit_delay_us": 200000,
+  "split_bounds_us": {
+    "train": [
+      1764547200000000,
+      1769731200000000
+    ],
+    "validation": [
+      1769731200000000,
+      1771027200000000
+    ],
+    "test": [
+      1771027200000000,
+      1772323200000000
+    ]
+  },
+  "days": 90,
+  "n_train_days": 60,
+  "n_validation_days": 15,
+  "n_test_days": 15,
+  "sha256_verified_files": 8,
+  "total_source_rows": 1315384304,
+  "rows_removed_in_data_quality": 0,
+  "model_trained": true
+}

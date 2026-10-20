@@ -1,0 +1,25 @@
+symbol,classification,metric,horizon_s,side,n_valid_episodes,n_valid_utc_days,mean_signed_return_bps,mean_raw_return_bps,median_signed_return_bps
+btcusdt,Normal activity,post_end_signed_return_bps,5,buy,14142,28,-0.42041100359193756,-0.42041100359193756,-0.3000058422486518
+btcusdt,Normal activity,post_end_signed_return_bps,5,sell,16158,28,-0.4092670651672163,0.4092670651672163,-0.23732939169462952
+btcusdt,Normal activity,post_end_signed_return_bps,20,buy,14141,28,-0.5833365826370794,-0.5833365826370794,-0.6952445996333267
+btcusdt,Normal activity,post_end_signed_return_bps,20,sell,16158,28,-0.3626686389108521,0.3626686389108521,-0.34870852419821574
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,buy,634,27,-1.2167887221312799,-1.2167887221312799,-0.9686519987806008
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,sell,753,28,-1.1975818597115089,1.1975818597115089,-0.4513786232429595
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,buy,634,27,-1.0422559999637595,-1.0422559999637595,-1.2078823662431404
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,sell,753,28,-1.2935583417762047,1.2935583417762047,-0.7801335982904334
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,buy,19,10,-2.8343282472535685,-2.8343282472535685,-4.72526248485039
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,sell,11,8,-8.768891258141439,8.768891258141439,-6.168478498480567
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,buy,19,10,-2.310159541893485,-2.310159541893485,-5.224860397579079
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,sell,11,8,-12.70447030048416,12.70447030048416,-6.623304279269604
+ethusdt,Normal activity,post_end_signed_return_bps,5,buy,14826,28,-0.6710333862776064,-0.6710333862776064,-0.47581887133496537
+ethusdt,Normal activity,post_end_signed_return_bps,5,sell,17614,28,-0.6087884006071341,0.6087884006071341,-0.4649930777667066
+ethusdt,Normal activity,post_end_signed_return_bps,20,buy,14824,28,-0.7945999983778967,-0.7945999983778967,-1.2466921650000629
+ethusdt,Normal activity,post_end_signed_return_bps,20,sell,17614,28,-0.6677721845616531,0.6677721845616531,-0.6124769148918574
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,buy,523,27,-1.2481157325439085,-1.2481157325439085,-1.2818082058618785
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,sell,720,28,-1.869100515745946,1.869100515745946,-1.2279086168298647
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,buy,523,27,-1.3700206254811174,-1.3700206254811174,-1.998890096626127
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,sell,720,28,-3.269194957516763,3.269194957516763,-2.551203107068467
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,buy,12,8,-11.78359625652566,-11.78359625652566,-14.554380704256964
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,sell,5,5,-9.35233836197824,9.35233836197824,-13.931857997810937
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,buy,12,8,-8.131425639787967,-8.131425639787967,-4.879947326061895
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,sell,5,5,-22.534475870754633,22.534475870754633,-23.11105512961653

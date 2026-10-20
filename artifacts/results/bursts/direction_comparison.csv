@@ -1,0 +1,33 @@
+symbol,exchange,side,phase,group,valid_windows,aligned_windows,flat_windows,alignment_share
+btcusdt,binance,buy,train,Normal active,13609,8206,1574,0.6029833198618562
+btcusdt,binance,buy,train,Burst (liquidations only),319,258,1,0.8087774294670846
+btcusdt,binance,buy,validation,Normal active,14839,9697,489,0.6534806927690545
+btcusdt,binance,buy,validation,Burst (liquidations only),391,328,1,0.8388746803069054
+btcusdt,binance,sell,train,Normal active,16998,9201,2426,0.5412989763501589
+btcusdt,binance,sell,train,Burst (liquidations only),453,346,6,0.7637969094922737
+btcusdt,binance,sell,validation,Normal active,17490,10693,652,0.6113779302458547
+btcusdt,binance,sell,validation,Burst (liquidations only),490,393,2,0.8020408163265306
+btcusdt,bybit,buy,train,Normal active,6021,3853,590,0.6399269224381332
+btcusdt,bybit,buy,train,Burst (liquidations only),303,254,1,0.8382838283828383
+btcusdt,bybit,buy,validation,Normal active,6611,4643,133,0.7023143246104977
+btcusdt,bybit,buy,validation,Burst (liquidations only),343,286,0,0.8338192419825073
+btcusdt,bybit,sell,train,Normal active,7466,4714,656,0.6313956603268149
+btcusdt,bybit,sell,train,Burst (liquidations only),417,345,0,0.8273381294964028
+btcusdt,bybit,sell,validation,Normal active,8727,6016,165,0.6893548756731981
+btcusdt,bybit,sell,validation,Burst (liquidations only),381,317,0,0.8320209973753281
+ethusdt,binance,buy,train,Normal active,16452,10147,1344,0.6167639192803307
+ethusdt,binance,buy,train,Burst (liquidations only),398,310,2,0.7788944723618091
+ethusdt,binance,buy,validation,Normal active,16395,10534,357,0.6425129612686795
+ethusdt,binance,buy,validation,Burst (liquidations only),374,305,1,0.8155080213903744
+ethusdt,binance,sell,train,Normal active,20270,11538,1782,0.5692155895411939
+ethusdt,binance,sell,train,Burst (liquidations only),519,387,3,0.7456647398843931
+ethusdt,binance,sell,validation,Normal active,19584,11815,477,0.6032986111111112
+ethusdt,binance,sell,validation,Burst (liquidations only),472,365,0,0.7733050847457628
+ethusdt,bybit,buy,train,Normal active,5152,3500,251,0.6793478260869565
+ethusdt,bybit,buy,train,Burst (liquidations only),219,185,0,0.8447488584474886
+ethusdt,bybit,buy,validation,Normal active,5389,3848,60,0.7140471330488031
+ethusdt,bybit,buy,validation,Burst (liquidations only),202,164,0,0.8118811881188119
+ethusdt,bybit,sell,train,Normal active,7319,4737,362,0.6472195655144145
+ethusdt,bybit,sell,train,Burst (liquidations only),458,356,0,0.777292576419214
+ethusdt,bybit,sell,validation,Normal active,7892,5368,81,0.6801824632539281
+ethusdt,bybit,sell,validation,Burst (liquidations only),326,266,0,0.8159509202453987

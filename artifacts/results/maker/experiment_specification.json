@@ -1,0 +1,70 @@
+{
+  "created_utc": "2026-10-17T10:12:50.350157+00:00",
+  "seed": 20261017,
+  "train": [
+    "2025-12-01",
+    "2026-02-01"
+  ],
+  "validation": [
+    "2026-02-01",
+    "2026-03-01"
+  ],
+  "hidden_test": "not supplied",
+  "validation_previously_inspected": true,
+  "detector_calibration_end": "2025-12-15",
+  "LR_first_oof_block": "2025-12-22",
+  "LR_folds": [
+    "2025-12-22",
+    "2025-12-29",
+    "2026-01-05",
+    "2026-01-12",
+    "2026-01-19",
+    "2026-01-26",
+    "2026-02-01"
+  ],
+  "LR_training": "uniform deterministic 20% of 5s clock observations; two side targets, C=.01, no class weights",
+  "LR_label_purge_s": 10,
+  "regression_purge_s": 301,
+  "regression_training": "uniform deterministic 1/16 of feature-equivalence groups; sum clipped-notional weights, normalized to mean 1",
+  "regression_policy_holdout_start": "2026-01-22",
+  "ridge_alpha": 100.0,
+  "LGBMRegressor": {
+    "objective": "regression",
+    "n_estimators": 32,
+    "num_leaves": 15,
+    "max_depth": 5,
+    "learning_rate": 0.05,
+    "min_child_samples": 200,
+    "reg_lambda": 1.0,
+    "n_jobs": 4
+  },
+  "models": [
+    "E0 keep_all",
+    "E1 reconstructed keep_with",
+    "E2 reconstructed Ridge",
+    "E3 reconstructed LGBM",
+    "E4 no liquidation features",
+    "E5 E3 + LR",
+    "E6 E3 + observable AS features",
+    "E7 E3 + LR + AS",
+    "E8 unavailable: no identifiable own inventory/execution model"
+  ],
+  "policy_budgets_usd_per_day": [
+    500000,
+    750000,
+    10000000,
+    250000000
+  ],
+  "official_score": "pnl_kept_bps - pnl_all_bps; w=min(price*amount,100000)",
+  "rebate_bps": 0.5,
+  "score_evaluation": "all raw trades, exact aggregation for identical decisions",
+  "feature_clock": "previous market state at strictly preceding integer-second boundary; exact 5s liquidation alignment at trade time",
+  "AS_horizon_seconds": 30,
+  "AS_components": "observable risk proxies only; no invented inventory or fitted k",
+  "paper": "https://math.nyu.edu/inmemoriam/avellaneda/HighFrequencyTrading.pdf",
+  "selection": "fixed feature ablations and model architecture; threshold budget calibration separated from model fitting; equal-turnover diagnostic reported explicitly",
+  "trade_distribution_sample": "systematic every 1000th source row with fixed offset17; plots only, not official Score",
+  "matching_precision": "At most one clipped trade (USD100000 over the entire period), with boundary trade resolved from raw data",
+  "primary_statistical_family": "E5-E3, E7-E3, E7-E1; combined USD250m/day; tau30/120/300; 9 Bonferroni comparisons",
+  "LR_training_clock_note": "New side-specific trade-risk architecture uses a uniform 20% hash sample of a 5s clock; historical DC-model outputs are not reused as calibrated trade-clock probabilities"
+}

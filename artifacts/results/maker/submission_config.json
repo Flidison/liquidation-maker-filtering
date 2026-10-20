@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "selection_reason": "Retain the simpler60s flow-ranked rule: hybrid incremental benefit is unconfirmed and its matched-budget point Scores are lower. This is a retrospective selection, not an independently confirmed winner across all candidates.",
+  "fallback": "fixed keep-all for missing configuration or unsupported ticker; this rule requires no fitted model",
+  "policies": {
+    "30": {
+      "combined": {
+        "model": "E1_60_strength",
+        "tau": 30,
+        "budget_per_day": 250000000.0,
+        "feasible": true,
+        "score_threshold": 2988858.75,
+        "group_tie_cut": 9786471844344529095,
+        "trade_tie_cut": 0.3462089747889623,
+        "boundary_symbol": "ethusdt",
+        "boundary_second": 1771895834,
+        "boundary_taker_sign": -1,
+        "boundary_alignment": 1,
+        "target_total_turnover": 7000000000.0,
+        "actual_total_turnover": 7000006592.442426,
+        "extra_turnover_over_budget": 6592.442425727844,
+        "parameter_selection": "scores, clipped weights and deterministic ties only; no markout values",
+        "policy_type": "fixed threshold; no ranking of future days at inference",
+        "scope": "combined",
+        "calibration_period": "validation"
+      }
+    },
+    "120": {
+      "combined": {
+        "model": "E1_60_strength",
+        "tau": 120,
+        "budget_per_day": 250000000.0,
+        "feasible": true,
+        "score_threshold": 2988858.75,
+        "group_tie_cut": 9786471844344529095,
+        "trade_tie_cut": 0.3462089747889623,
+        "boundary_symbol": "ethusdt",
+        "boundary_second": 1771895834,
+        "boundary_taker_sign": -1,
+        "boundary_alignment": 1,
+        "target_total_turnover": 7000000000.0,
+        "actual_total_turnover": 7000006592.442426,
+        "extra_turnover_over_budget": 6592.442425727844,
+        "parameter_selection": "scores, clipped weights and deterministic ties only; no markout values",
+        "policy_type": "fixed threshold; no ranking of future days at inference",
+        "scope": "combined",
+        "calibration_period": "validation"
+      }
+    },
+    "300": {
+      "combined": {
+        "model": "E1_60_strength",
+        "tau": 300,
+        "budget_per_day": 250000000.0,
+        "feasible": true,
+        "score_threshold": 2988858.75,
+        "group_tie_cut": 9786471844344529095,
+        "trade_tie_cut": 0.3462089747889623,
+        "boundary_symbol": "ethusdt",
+        "boundary_second": 1771895834,
+        "boundary_taker_sign": -1,
+        "boundary_alignment": 1,
+        "target_total_turnover": 7000000000.0,
+        "actual_total_turnover": 7000006592.442426,
+        "extra_turnover_over_budget": 6592.442425727844,
+        "parameter_selection": "scores, clipped weights and deterministic ties only; no markout values",
+        "policy_type": "fixed threshold; no ranking of future days at inference",
+        "scope": "combined",
+        "calibration_period": "validation"
+      }
+    }
+  }
+}

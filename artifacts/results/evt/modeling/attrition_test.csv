@@ -1,0 +1,3 @@
+period,symbol,dc_after_calibration,nonfinite_feature_rows,stale_quote_rows,active_burst_rows,boundary_purge_rows,usable_rows
+test,btcusdt,66577,4,0,675,9,65889
+test,ethusdt,95809,6,0,781,10,95012

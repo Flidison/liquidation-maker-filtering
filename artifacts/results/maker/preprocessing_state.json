@@ -1,0 +1,13 @@
+{
+  "timestamp_unit": "int64 UTC microseconds",
+  "bybit_delay_us": 200000,
+  "features_clock": "strictly before integer-second floor of current trade timestamp",
+  "alignment": "strictly preceding events in [t-window,t), both exchanges, signed price*amount",
+  "hybrid_alignment_window_s": 5,
+  "baseline_alignment_window_s": 60,
+  "AS_risk_horizon_s": 30,
+  "feature_missing_values": "zero plus stale/age indicators, no fitted imputation",
+  "inference_history": "1205s liquidation baseline and61s trade/BBO context for hybrid",
+  "sorting": "stable chronological; outputs restore original row positions",
+  "boundary_key": "uint64 injective symbol/second/side/alignment namespace"
+}

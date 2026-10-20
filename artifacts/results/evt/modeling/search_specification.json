@@ -1,0 +1,69 @@
+{
+  "windows_s": [
+    5,
+    10,
+    20
+  ],
+  "horizons_s": [
+    5,
+    20,
+    30,
+    120,
+    300
+  ],
+  "n_return_lags": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "logistic_C": [
+    0.01,
+    0.1,
+    1.0,
+    10.0,
+    100.0
+  ],
+  "n_trees": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "num_leaves": [
+    15,
+    20,
+    30
+  ],
+  "learning_rate": [
+    0.01,
+    0.05,
+    0.1
+  ],
+  "split_days": [
+    60,
+    15,
+    15
+  ],
+  "selection_metric": "validation MSE of predict_proba[:,1]",
+  "objective": "binary log loss",
+  "class_weight": null,
+  "downsampling": false,
+  "purge_seconds_all_horizons": 305,
+  "sampling": "directional change",
+  "dc_threshold_bps": [
+    2.5,
+    5.0,
+    10.0
+  ],
+  "test_previously_used_in_other_notebooks": true,
+  "seed": 20261012
+}

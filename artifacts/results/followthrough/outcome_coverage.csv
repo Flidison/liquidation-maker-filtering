@@ -1,0 +1,81 @@
+phase,symbol,classification,anchor,horizon_s,episodes,valid_price,within_phase,missing_price
+train,btcusdt,Liquidation burst,episode_end,5,1226,1226,1226,0
+train,btcusdt,Liquidation burst,episode_end,20,1226,1225,1226,1
+train,btcusdt,Liquidation burst,first_detection,5,1226,1226,1226,0
+train,btcusdt,Liquidation burst,first_detection,20,1226,1225,1226,1
+train,btcusdt,Liquidation burst,onset,5,1226,1226,1226,0
+train,btcusdt,Liquidation burst,onset,20,1226,1225,1226,1
+train,btcusdt,Normal activity,episode_end,5,30503,30498,30503,5
+train,btcusdt,Normal activity,episode_end,20,30503,30489,30503,14
+train,btcusdt,Normal activity,first_detection,5,30503,30498,30503,5
+train,btcusdt,Normal activity,first_detection,20,30503,30491,30503,12
+train,btcusdt,Normal activity,onset,5,30503,30501,30503,2
+train,btcusdt,Normal activity,onset,20,30503,30493,30503,10
+train,btcusdt,Potential liquidation cascade,cascade_detection,5,40,40,40,0
+train,btcusdt,Potential liquidation cascade,cascade_detection,20,40,40,40,0
+train,btcusdt,Potential liquidation cascade,episode_end,5,40,40,40,0
+train,btcusdt,Potential liquidation cascade,episode_end,20,40,40,40,0
+train,btcusdt,Potential liquidation cascade,first_detection,5,40,40,40,0
+train,btcusdt,Potential liquidation cascade,first_detection,20,40,40,40,0
+train,btcusdt,Potential liquidation cascade,onset,5,40,40,40,0
+train,btcusdt,Potential liquidation cascade,onset,20,40,40,40,0
+train,ethusdt,Liquidation burst,episode_end,5,1340,1339,1340,1
+train,ethusdt,Liquidation burst,episode_end,20,1340,1338,1340,2
+train,ethusdt,Liquidation burst,first_detection,5,1340,1339,1340,1
+train,ethusdt,Liquidation burst,first_detection,20,1340,1338,1340,2
+train,ethusdt,Liquidation burst,onset,5,1340,1340,1340,0
+train,ethusdt,Liquidation burst,onset,20,1340,1339,1340,1
+train,ethusdt,Normal activity,episode_end,5,34296,34288,34296,8
+train,ethusdt,Normal activity,episode_end,20,34296,34282,34295,14
+train,ethusdt,Normal activity,first_detection,5,34296,34288,34296,8
+train,ethusdt,Normal activity,first_detection,20,34296,34282,34295,14
+train,ethusdt,Normal activity,onset,5,34296,34285,34296,11
+train,ethusdt,Normal activity,onset,20,34296,34282,34296,14
+train,ethusdt,Potential liquidation cascade,cascade_detection,5,48,48,48,0
+train,ethusdt,Potential liquidation cascade,cascade_detection,20,48,48,48,0
+train,ethusdt,Potential liquidation cascade,episode_end,5,48,48,48,0
+train,ethusdt,Potential liquidation cascade,episode_end,20,48,48,48,0
+train,ethusdt,Potential liquidation cascade,first_detection,5,48,48,48,0
+train,ethusdt,Potential liquidation cascade,first_detection,20,48,48,48,0
+train,ethusdt,Potential liquidation cascade,onset,5,48,48,48,0
+train,ethusdt,Potential liquidation cascade,onset,20,48,48,48,0
+validation,btcusdt,Liquidation burst,episode_end,5,1387,1387,1387,0
+validation,btcusdt,Liquidation burst,episode_end,20,1387,1387,1387,0
+validation,btcusdt,Liquidation burst,first_detection,5,1387,1387,1387,0
+validation,btcusdt,Liquidation burst,first_detection,20,1387,1387,1387,0
+validation,btcusdt,Liquidation burst,onset,5,1387,1387,1387,0
+validation,btcusdt,Liquidation burst,onset,20,1387,1387,1387,0
+validation,btcusdt,Normal activity,episode_end,5,30302,30300,30302,2
+validation,btcusdt,Normal activity,episode_end,20,30302,30299,30302,3
+validation,btcusdt,Normal activity,first_detection,5,30302,30300,30302,2
+validation,btcusdt,Normal activity,first_detection,20,30302,30299,30302,3
+validation,btcusdt,Normal activity,onset,5,30302,30299,30302,3
+validation,btcusdt,Normal activity,onset,20,30302,30299,30302,3
+validation,btcusdt,Potential liquidation cascade,cascade_detection,5,30,30,30,0
+validation,btcusdt,Potential liquidation cascade,cascade_detection,20,30,30,30,0
+validation,btcusdt,Potential liquidation cascade,episode_end,5,30,30,30,0
+validation,btcusdt,Potential liquidation cascade,episode_end,20,30,30,30,0
+validation,btcusdt,Potential liquidation cascade,first_detection,5,30,30,30,0
+validation,btcusdt,Potential liquidation cascade,first_detection,20,30,30,30,0
+validation,btcusdt,Potential liquidation cascade,onset,5,30,30,30,0
+validation,btcusdt,Potential liquidation cascade,onset,20,30,30,30,0
+validation,ethusdt,Liquidation burst,episode_end,5,1243,1243,1243,0
+validation,ethusdt,Liquidation burst,episode_end,20,1243,1243,1243,0
+validation,ethusdt,Liquidation burst,first_detection,5,1243,1243,1243,0
+validation,ethusdt,Liquidation burst,first_detection,20,1243,1243,1243,0
+validation,ethusdt,Liquidation burst,onset,5,1243,1243,1243,0
+validation,ethusdt,Liquidation burst,onset,20,1243,1243,1243,0
+validation,ethusdt,Normal activity,episode_end,5,32441,32440,32441,1
+validation,ethusdt,Normal activity,episode_end,20,32441,32438,32441,3
+validation,ethusdt,Normal activity,first_detection,5,32441,32440,32441,1
+validation,ethusdt,Normal activity,first_detection,20,32441,32438,32441,3
+validation,ethusdt,Normal activity,onset,5,32441,32441,32441,0
+validation,ethusdt,Normal activity,onset,20,32441,32439,32441,2
+validation,ethusdt,Potential liquidation cascade,cascade_detection,5,17,17,17,0
+validation,ethusdt,Potential liquidation cascade,cascade_detection,20,17,17,17,0
+validation,ethusdt,Potential liquidation cascade,episode_end,5,17,17,17,0
+validation,ethusdt,Potential liquidation cascade,episode_end,20,17,17,17,0
+validation,ethusdt,Potential liquidation cascade,first_detection,5,17,17,17,0
+validation,ethusdt,Potential liquidation cascade,first_detection,20,17,17,17,0
+validation,ethusdt,Potential liquidation cascade,onset,5,17,17,17,0
+validation,ethusdt,Potential liquidation cascade,onset,20,17,17,17,0

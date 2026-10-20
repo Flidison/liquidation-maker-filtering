@@ -1,0 +1,25 @@
+{
+  "policies": {
+    "30": {
+      "combined": {
+        "model": "E1_60",
+        "native": true,
+        "window": 60
+      }
+    },
+    "120": {
+      "combined": {
+        "model": "E1_60",
+        "native": true,
+        "window": 60
+      }
+    },
+    "300": {
+      "combined": {
+        "model": "E1_60",
+        "native": true,
+        "window": 60
+      }
+    }
+  }
+}

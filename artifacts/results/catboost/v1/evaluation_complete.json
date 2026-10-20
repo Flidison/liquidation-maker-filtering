@@ -1,0 +1,20 @@
+{
+  "evaluation_fingerprint": "48cdb0c2239e4725a4984aa35af42e9492f7b1cfcbb64112b41314d714809d9f",
+  "outputs": {
+    "policy_daily.csv": "00ea9c5181d226f6bee2c340be2e4f25d48191da8f13e637c8c8e8dc73692c92",
+    "validation_report.csv": "68330c72f74c6a3d67ffa2271303ede85542534d299f8f08b7753b96fef5193a",
+    "comparison_report.csv": "f477d0b69769adb7518628c64964e7f6ed97c5192020ca8d59d6fc4f265e6048",
+    "paired_e9_e3.csv": "7535cbdc8a4bac95bf30d268a559c63ed0ca38a55b53d1e6f8331c317a315aa1",
+    "regression_error_diagnostics.csv": "a2cacabb4fc197bf1726b11b8fdab782e679ca37c63f22aebb63f21fadf8fa12",
+    "threshold_transfer_daily.csv": "f0d27c48599d133aef7a51e907cfc99e0092db4170fde3b0325b58f88b521ddc",
+    "threshold_transfer_report.csv": "04ed7c8fffbc0805507eae337a4cd1c91d61e02fc4561dbbfb5b87fdf67db5f6",
+    "catboost_config.json": "71b3ba9e3a0016f130bddf2e8d7e8f91e75e932083b0678626b7108ccabe4e44",
+    "budget_policies.json": "fc6aaa0c842dfd85e14d1ce000f0e7d6bdef007618bdc432ecd33eeb8175f394"
+  },
+  "scores_use_all_trades": true,
+  "hidden_test_available": false,
+  "model_fitting_uses_february": false,
+  "policy_calibration": "scores and weights only; no markout values",
+  "grouped_weighted_loss": "sum_i w_i(y_i-p)^2 = W(ybar-p)^2 + constant",
+  "benchmark_originals_unchanged": true
+}

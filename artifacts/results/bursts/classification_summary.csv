@@ -1,0 +1,17 @@
+symbol,exchange,side,phase,eligible_windows,active_windows,burst_windows,potential_cascade_windows,normal_windows,price_invalid_windows,near_zero_baseline_windows,near_zero_baseline_bursts,aligned_burst_windows,strong_trade_burst_windows,strong_price_burst_windows,persistent_burst_windows
+btcusdt,binance,buy,train,829440,13928,319,7,829121,112,829440,319,258,264,80,20
+btcusdt,binance,buy,validation,483841,15232,391,8,483450,86,483841,391,328,268,83,24
+btcusdt,binance,sell,train,829440,17451,453,4,828987,112,829319,452,346,338,92,32
+btcusdt,binance,sell,validation,483841,17980,490,2,483351,86,483682,487,393,308,45,31
+btcusdt,bybit,buy,train,829440,6325,303,18,829137,112,825044,269,254,280,133,65
+btcusdt,bybit,buy,validation,483841,6954,343,17,483498,86,478315,284,286,303,126,57
+btcusdt,bybit,sell,train,829440,7884,417,21,829023,112,816511,237,345,373,150,109
+btcusdt,bybit,sell,validation,483841,9109,381,10,483460,86,470052,207,317,339,107,76
+ethusdt,binance,buy,train,829440,16853,398,9,829042,130,829440,398,310,320,103,28
+ethusdt,binance,buy,validation,483841,16769,374,7,483467,72,483841,374,305,266,75,18
+ethusdt,binance,sell,train,829440,20795,519,4,828921,130,829340,518,387,407,96,28
+ethusdt,binance,sell,validation,483841,20056,472,1,483369,72,483651,472,365,332,68,15
+ethusdt,bybit,buy,train,829440,5372,219,11,829221,130,827903,207,185,212,119,41
+ethusdt,bybit,buy,validation,483841,5591,202,6,483639,72,482555,194,164,192,100,23
+ethusdt,bybit,sell,train,829440,7778,458,27,828982,130,817854,314,356,435,194,109
+ethusdt,bybit,sell,validation,483841,8218,326,5,483515,72,475617,218,266,302,118,58

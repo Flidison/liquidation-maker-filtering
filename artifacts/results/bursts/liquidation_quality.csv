@@ -1,0 +1,5 @@
+symbol,exchange,rows,missing_cells,invalid_rows,duplicate_extra_copies,timestamp_reversals,suspect_price_rows,suspect_notional,price_reference_missing
+btcusdt,binance,114255,0,0,0,0,1,177.1347,2
+btcusdt,bybit,228655,0,0,1,63,0,0.0,1
+ethusdt,binance,131769,0,0,0,0,3,297.53011,8
+ethusdt,bybit,160214,0,0,2,46,0,0.0,1

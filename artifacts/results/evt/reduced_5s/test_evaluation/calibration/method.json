@@ -1,0 +1,48 @@
+{
+  "quantiles": 10,
+  "edges_from": "validation predicted probabilities only",
+  "identical_probabilities_kept_together": true,
+  "edges": {
+    "lightgbm_reduced_5s": [
+      0.0,
+      0.0036689141801533797,
+      0.004021878262561132,
+      0.0042275147562227736,
+      0.004482326590091776,
+      0.0048796933119240994,
+      0.006036250868063115,
+      0.008433032801651863,
+      1.0
+    ],
+    "lightgbm_original": [
+      0.0,
+      0.00252838217392429,
+      0.002815253501140774,
+      0.003560962470581449,
+      0.0038201566086755083,
+      0.004682036451172802,
+      0.006125925671204347,
+      0.008601277186920966,
+      0.014266027357052883,
+      1.0
+    ],
+    "logistic_original": [
+      0.0,
+      0.0020338441621792374,
+      0.0023030380452020633,
+      0.0025832495778434815,
+      0.0029112012826972475,
+      0.0033476907884265545,
+      0.0039820313948464425,
+      0.005032336210465788,
+      0.007190668018095636,
+      0.013757836079322633,
+      1.0
+    ]
+  },
+  "prediction_source_sha256": "f6082216fda8a32bb5e07de9fd306755f9c283fcf2635682fc8a5490c53f6e6a",
+  "development_source_sha256": "0cecb72e863dd7fd0201686c1e631c6c49d6cf1692efa6f34cd7e254ad6eda9e",
+  "calibrator_fitted": false,
+  "new_prediction_calls": 0,
+  "interpretation": "Descriptive binned calibration; ECE depends on bins, is affected by class imbalance and is not a probability of correctness."
+}

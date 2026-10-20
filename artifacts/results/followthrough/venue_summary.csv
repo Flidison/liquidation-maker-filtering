@@ -1,0 +1,321 @@
+phase,symbol,exchange,side,classification,anchor,horizon_s,episodes,valid,mean_return_bps,median_return_bps,mean_signed_return_bps
+train,btcusdt,binance,buy,Liquidation burst,episode_end,5,294,294,-0.5612398368474,-0.6083457284233873,-0.5612398368474
+train,btcusdt,binance,buy,Liquidation burst,episode_end,20,294,294,-0.6299183549681285,-0.554308452640484,-0.6299183549681285
+train,btcusdt,binance,buy,Liquidation burst,first_detection,5,294,294,-0.564453399397251,-0.5589625571911228,-0.564453399397251
+train,btcusdt,binance,buy,Liquidation burst,first_detection,20,294,294,-0.5895930471244855,-0.554308452640484,-0.5895930471244855
+train,btcusdt,binance,buy,Liquidation burst,onset,5,294,294,3.8515328013619783,3.17360743069095,3.8515328013619783
+train,btcusdt,binance,buy,Liquidation burst,onset,20,294,294,2.9806981091728892,2.362884167341761,2.9806981091728892
+train,btcusdt,binance,buy,Normal activity,episode_end,5,9748,9748,-0.24396343406906637,0.0,-0.24396343406906637
+train,btcusdt,binance,buy,Normal activity,episode_end,20,9748,9747,-0.266707683994172,-0.1255699161895052,-0.266707683994172
+train,btcusdt,binance,buy,Normal activity,first_detection,5,9748,9748,-0.010440133299025779,0.0,-0.010440133299025779
+train,btcusdt,binance,buy,Normal activity,first_detection,20,9748,9747,-0.017468913537938374,0.0,-0.017468913537938374
+train,btcusdt,binance,buy,Normal activity,onset,5,9748,9748,1.2097273560773008,0.6507262137578351,1.2097273560773008
+train,btcusdt,binance,buy,Normal activity,onset,20,9748,9748,1.1978234953026756,0.5919064864468027,1.1978234953026756
+train,btcusdt,binance,buy,Potential liquidation cascade,cascade_detection,5,5,5,3.7317288506955038,-1.244487100375835,3.7317288506955038
+train,btcusdt,binance,buy,Potential liquidation cascade,cascade_detection,20,5,5,9.714881538695153,16.090680364122534,9.714881538695153
+train,btcusdt,binance,buy,Potential liquidation cascade,episode_end,5,5,5,1.9726288049533025,0.0,1.9726288049533025
+train,btcusdt,binance,buy,Potential liquidation cascade,episode_end,20,5,5,0.8371466482444134,2.811415951100571,0.8371466482444134
+train,btcusdt,binance,buy,Potential liquidation cascade,first_detection,5,5,5,11.227380729668113,13.179477889515567,11.227380729668113
+train,btcusdt,binance,buy,Potential liquidation cascade,first_detection,20,5,5,30.5004702390832,32.97207100729338,30.5004702390832
+train,btcusdt,binance,buy,Potential liquidation cascade,onset,5,5,5,8.240596557321567,9.247167246595467,8.240596557321567
+train,btcusdt,binance,buy,Potential liquidation cascade,onset,20,5,5,36.34450244708276,28.694101329413968,36.34450244708276
+train,btcusdt,binance,sell,Liquidation burst,episode_end,5,417,417,-0.12742725572055846,0.20498955976222533,0.12742725572055846
+train,btcusdt,binance,sell,Liquidation burst,episode_end,20,417,417,-0.22582047101133554,0.9635589842815762,0.22582047101133554
+train,btcusdt,binance,sell,Liquidation burst,first_detection,5,417,417,-0.167181750034168,0.11131934012809097,0.167181750034168
+train,btcusdt,binance,sell,Liquidation burst,first_detection,20,417,417,-0.14657160653024578,0.929643556055737,0.14657160653024578
+train,btcusdt,binance,sell,Liquidation burst,onset,5,417,417,-3.751870456577829,-2.577948018469556,3.751870456577829
+train,btcusdt,binance,sell,Liquidation burst,onset,20,417,417,-3.322634560916748,-1.590039897809703,3.322634560916748
+train,btcusdt,binance,sell,Normal activity,episode_end,5,11301,11299,0.15873308175029094,0.0,-0.15873308175029094
+train,btcusdt,binance,sell,Normal activity,episode_end,20,11301,11296,0.3319272377534194,0.10299544860536969,-0.3319272377534194
+train,btcusdt,binance,sell,Normal activity,first_detection,5,11301,11299,-0.006837133336039396,0.0,0.006837133336039396
+train,btcusdt,binance,sell,Normal activity,first_detection,20,11301,11297,0.13363395114579293,0.0,-0.13363395114579293
+train,btcusdt,binance,sell,Normal activity,onset,5,11301,11301,-0.8046252098677341,-0.24196543261467696,0.8046252098677341
+train,btcusdt,binance,sell,Normal activity,onset,20,11301,11297,-0.7486208200040666,-0.19869842077469002,0.7486208200040666
+train,btcusdt,binance,sell,Potential liquidation cascade,cascade_detection,5,4,4,3.799279327894034,-0.6686082405060745,-3.799279327894034
+train,btcusdt,binance,sell,Potential liquidation cascade,cascade_detection,20,4,4,-1.252243276277376,10.97541936699642,1.252243276277376
+train,btcusdt,binance,sell,Potential liquidation cascade,episode_end,5,4,4,4.176279394694227,-0.6686082405060745,-4.176279394694227
+train,btcusdt,binance,sell,Potential liquidation cascade,episode_end,20,4,4,1.75894085640671,6.393232130958992,-1.75894085640671
+train,btcusdt,binance,sell,Potential liquidation cascade,first_detection,5,4,4,-25.332599078997653,-23.721590642153956,25.332599078997653
+train,btcusdt,binance,sell,Potential liquidation cascade,first_detection,20,4,4,-17.78734950158789,-11.611233886279493,17.78734950158789
+train,btcusdt,binance,sell,Potential liquidation cascade,onset,5,4,4,-9.370214510364683,-8.959054039907599,9.370214510364683
+train,btcusdt,binance,sell,Potential liquidation cascade,onset,20,4,4,-25.13214333979441,-24.304705095410384,25.13214333979441
+train,btcusdt,bybit,buy,Liquidation burst,episode_end,5,225,225,-1.3045718500720227,-1.0806078921099527,-1.3045718500720227
+train,btcusdt,bybit,buy,Liquidation burst,episode_end,20,225,225,-1.576901497238797,-1.4264373038663791,-1.576901497238797
+train,btcusdt,bybit,buy,Liquidation burst,first_detection,5,225,225,-1.06086669416317,-0.7134019479870801,-1.06086669416317
+train,btcusdt,bybit,buy,Liquidation burst,first_detection,20,225,225,-1.9467248994994673,-1.4264373038663791,-1.9467248994994673
+train,btcusdt,bybit,buy,Liquidation burst,onset,5,225,225,7.542550314722895,6.292938132883563,7.542550314722895
+train,btcusdt,bybit,buy,Liquidation burst,onset,20,225,225,5.787385556412043,5.837217432187458,5.787385556412043
+train,btcusdt,bybit,buy,Normal activity,episode_end,5,4348,4347,-0.1966562500120608,0.0,-0.1966562500120608
+train,btcusdt,bybit,buy,Normal activity,episode_end,20,4348,4344,-0.3419487747428494,-0.2293140545717165,-0.3419487747428494
+train,btcusdt,bybit,buy,Normal activity,first_detection,5,4348,4347,0.020840952728518894,0.0,0.020840952728518894
+train,btcusdt,bybit,buy,Normal activity,first_detection,20,4348,4344,-0.046093131554868154,-0.05662234235259689,-0.046093131554868154
+train,btcusdt,bybit,buy,Normal activity,onset,5,4348,4347,1.6979342882185016,1.0447568018712161,1.6979342882185016
+train,btcusdt,bybit,buy,Normal activity,onset,20,4348,4345,1.6760778997315202,0.8728413813230418,1.6760778997315202
+train,btcusdt,bybit,buy,Potential liquidation cascade,cascade_detection,5,13,13,2.031210970681212,-0.14543436771319307,2.031210970681212
+train,btcusdt,bybit,buy,Potential liquidation cascade,cascade_detection,20,13,13,6.595006895884727,-0.4925526319787821,6.595006895884727
+train,btcusdt,bybit,buy,Potential liquidation cascade,episode_end,5,13,13,-3.8108843101734524,-5.368943518089253,-3.8108843101734524
+train,btcusdt,bybit,buy,Potential liquidation cascade,episode_end,20,13,13,-11.869929980839252,-15.858222273958944,-11.869929980839252
+train,btcusdt,bybit,buy,Potential liquidation cascade,first_detection,5,13,13,12.35323008945517,12.261449221853127,12.35323008945517
+train,btcusdt,bybit,buy,Potential liquidation cascade,first_detection,20,13,13,25.179703083249358,15.325270618333775,25.179703083249358
+train,btcusdt,bybit,buy,Potential liquidation cascade,onset,5,13,13,12.742418321347934,9.824649956211573,12.742418321347934
+train,btcusdt,bybit,buy,Potential liquidation cascade,onset,20,13,13,33.547588044932844,19.925479276388103,33.547588044932844
+train,btcusdt,bybit,sell,Liquidation burst,episode_end,5,290,290,2.0015698506238646,0.81177807551569,-2.0015698506238646
+train,btcusdt,bybit,sell,Liquidation burst,episode_end,20,290,289,2.819783937845775,1.8816600016258178,-2.819783937845775
+train,btcusdt,bybit,sell,Liquidation burst,first_detection,5,290,290,1.1879956129431493,0.25661984029312634,-1.1879956129431493
+train,btcusdt,bybit,sell,Liquidation burst,first_detection,20,290,289,2.9197557680545643,1.6819321541561294,-2.9197557680545643
+train,btcusdt,bybit,sell,Liquidation burst,onset,5,290,290,-7.8657711190088335,-6.154516015586253,7.8657711190088335
+train,btcusdt,bybit,sell,Liquidation burst,onset,20,290,289,-4.5837415049132755,-3.0496537197954865,4.5837415049132755
+train,btcusdt,bybit,sell,Normal activity,episode_end,5,5106,5104,0.206099798572085,0.0,-0.206099798572085
+train,btcusdt,bybit,sell,Normal activity,episode_end,20,5106,5102,0.484234016706779,0.2985075467876186,-0.484234016706779
+train,btcusdt,bybit,sell,Normal activity,first_detection,5,5106,5104,-0.06465832709865442,0.0,0.06465832709865442
+train,btcusdt,bybit,sell,Normal activity,first_detection,20,5106,5103,0.16424321965013658,0.10510124665685794,-0.16424321965013658
+train,btcusdt,bybit,sell,Normal activity,onset,5,5106,5105,-1.5577567403643562,-0.9813014091086814,1.5577567403643562
+train,btcusdt,bybit,sell,Normal activity,onset,20,5106,5103,-1.5154088835346131,-0.8181985290356408,1.5154088835346131
+train,btcusdt,bybit,sell,Potential liquidation cascade,cascade_detection,5,18,18,-2.246440372025581,2.294405434399849,2.246440372025581
+train,btcusdt,bybit,sell,Potential liquidation cascade,cascade_detection,20,18,18,4.151280492227609,6.650511158516892,-4.151280492227609
+train,btcusdt,bybit,sell,Potential liquidation cascade,episode_end,5,18,18,7.969410709173354,5.583710704817335,-7.969410709173354
+train,btcusdt,bybit,sell,Potential liquidation cascade,episode_end,20,18,18,8.710979430509703,8.590717893124378,-8.710979430509703
+train,btcusdt,bybit,sell,Potential liquidation cascade,first_detection,5,18,18,-15.738340767323203,-13.353031256553294,15.738340767323203
+train,btcusdt,bybit,sell,Potential liquidation cascade,first_detection,20,18,18,-15.011325974642672,-5.556196560414506,15.011325974642672
+train,btcusdt,bybit,sell,Potential liquidation cascade,onset,5,18,18,-9.644625114221878,-8.47155665795185,9.644625114221878
+train,btcusdt,bybit,sell,Potential liquidation cascade,onset,20,18,18,-30.200069784076277,-21.574875140393246,30.200069784076277
+train,ethusdt,binance,buy,Liquidation burst,episode_end,5,361,361,-1.2244327286317043,-0.7780769055010239,-1.2244327286317043
+train,ethusdt,binance,buy,Liquidation burst,episode_end,20,361,361,1.3620721203198976,-0.2793556197211444,1.3620721203198976
+train,ethusdt,binance,buy,Liquidation burst,first_detection,5,361,361,-1.0746005294375385,-0.7780769055010239,-1.0746005294375385
+train,ethusdt,binance,buy,Liquidation burst,first_detection,20,361,361,1.1894607857043722,-0.38943026357429744,1.1894607857043722
+train,ethusdt,binance,buy,Liquidation burst,onset,5,361,361,5.692134874858893,3.6308356750147652,5.692134874858893
+train,ethusdt,binance,buy,Liquidation burst,onset,20,361,361,6.393253058343755,3.4065000396932277,6.393253058343755
+train,ethusdt,binance,buy,Normal activity,episode_end,5,11829,11826,-0.28075450619909953,0.0,-0.28075450619909953
+train,ethusdt,binance,buy,Normal activity,episode_end,20,11829,11825,-0.30093400769988216,-0.37220381885916254,-0.30093400769988216
+train,ethusdt,binance,buy,Normal activity,first_detection,5,11829,11826,0.053911372393806306,0.0,0.053911372393806306
+train,ethusdt,binance,buy,Normal activity,first_detection,20,11829,11825,0.02668283309544159,-0.1692551419729682,0.02668283309544159
+train,ethusdt,binance,buy,Normal activity,onset,5,11829,11826,1.825587309975223,0.8970459808654851,1.825587309975223
+train,ethusdt,binance,buy,Normal activity,onset,20,11829,11826,1.8499212691878046,0.7306196838818835,1.8499212691878046
+train,ethusdt,binance,buy,Potential liquidation cascade,cascade_detection,5,9,9,-1.6030274994626046,-0.3071630421658256,-1.6030274994626046
+train,ethusdt,binance,buy,Potential liquidation cascade,cascade_detection,20,9,9,-5.797867545690573,-5.885865129915402,-5.797867545690573
+train,ethusdt,binance,buy,Potential liquidation cascade,episode_end,5,9,9,-1.6030274994626046,-0.3071630421658256,-1.6030274994626046
+train,ethusdt,binance,buy,Potential liquidation cascade,episode_end,20,9,9,-5.797867545690573,-5.885865129915402,-5.797867545690573
+train,ethusdt,binance,buy,Potential liquidation cascade,first_detection,5,9,9,15.84659023892401,14.813767699957126,15.84659023892401
+train,ethusdt,binance,buy,Potential liquidation cascade,first_detection,20,9,9,10.340731320043083,12.802690970001862,10.340731320043083
+train,ethusdt,binance,buy,Potential liquidation cascade,onset,5,9,9,6.70254855989051,2.220840375120048,6.70254855989051
+train,ethusdt,binance,buy,Potential liquidation cascade,onset,20,9,9,17.986550743309433,18.844387509826532,17.986550743309433
+train,ethusdt,binance,sell,Liquidation burst,episode_end,5,487,487,0.44386479590057215,0.7837684956335522,-0.44386479590057215
+train,ethusdt,binance,sell,Liquidation burst,episode_end,20,487,486,1.7608465426283573,2.483164406363869,-1.7608465426283573
+train,ethusdt,binance,sell,Liquidation burst,first_detection,5,487,487,0.32249798054297235,0.7080021951111348,-0.32249798054297235
+train,ethusdt,binance,sell,Liquidation burst,first_detection,20,487,486,1.8171764406543114,2.483164406363869,-1.8171764406543114
+train,ethusdt,binance,sell,Liquidation burst,onset,5,487,487,-4.1085952709481965,-2.7895828204815842,4.1085952709481965
+train,ethusdt,binance,sell,Liquidation burst,onset,20,487,487,-2.8282861767757326,-1.0418312041249322,2.8282861767757326
+train,ethusdt,binance,sell,Normal activity,episode_end,5,13539,13536,0.2667214843201357,0.0,-0.2667214843201357
+train,ethusdt,binance,sell,Normal activity,episode_end,20,13539,13533,0.34656282817270745,0.3700327311229046,-0.34656282817270745
+train,ethusdt,binance,sell,Normal activity,first_detection,5,13539,13536,-0.0813012532124669,0.0,0.0813012532124669
+train,ethusdt,binance,sell,Normal activity,first_detection,20,13539,13533,0.027290428206010887,0.17057103772089022,-0.027290428206010887
+train,ethusdt,binance,sell,Normal activity,onset,5,13539,13533,-1.2289740052144973,-0.5294179932757714,1.2289740052144973
+train,ethusdt,binance,sell,Normal activity,onset,20,13539,13531,-1.2444652468557449,-0.3857956473041213,1.2444652468557449
+train,ethusdt,binance,sell,Potential liquidation cascade,cascade_detection,5,4,4,7.797186136906387,4.286122848249363,-7.797186136906387
+train,ethusdt,binance,sell,Potential liquidation cascade,cascade_detection,20,4,4,10.513972427437235,13.463671055959914,-10.513972427437235
+train,ethusdt,binance,sell,Potential liquidation cascade,episode_end,5,4,4,7.797186136906387,4.286122848249363,-7.797186136906387
+train,ethusdt,binance,sell,Potential liquidation cascade,episode_end,20,4,4,10.513972427437235,13.463671055959914,-10.513972427437235
+train,ethusdt,binance,sell,Potential liquidation cascade,first_detection,5,4,4,-27.830232827701362,-22.678255758714627,27.830232827701362
+train,ethusdt,binance,sell,Potential liquidation cascade,first_detection,20,4,4,-8.017725193898428,-6.817918151251767,8.017725193898428
+train,ethusdt,binance,sell,Potential liquidation cascade,onset,5,4,4,-18.00170928015099,-14.728425194552308,18.00170928015099
+train,ethusdt,binance,sell,Potential liquidation cascade,onset,20,4,4,-26.93744624364447,-29.79520049127604,26.93744624364447
+train,ethusdt,bybit,buy,Liquidation burst,episode_end,5,167,167,-1.538203039947008,-1.8039801547864442,-1.538203039947008
+train,ethusdt,bybit,buy,Liquidation burst,episode_end,20,167,167,-3.294380981622278,-5.058229556658134,-3.294380981622278
+train,ethusdt,bybit,buy,Liquidation burst,first_detection,5,167,167,-0.964251059818096,-1.2315382174143963,-0.964251059818096
+train,ethusdt,bybit,buy,Liquidation burst,first_detection,20,167,167,-2.471883571832563,-4.892896287227444,-2.471883571832563
+train,ethusdt,bybit,buy,Liquidation burst,onset,5,167,167,14.167627751922359,12.343229337741235,14.167627751922359
+train,ethusdt,bybit,buy,Liquidation burst,onset,20,167,167,12.860320335485744,9.029484433673574,12.860320335485744
+train,ethusdt,bybit,buy,Normal activity,episode_end,5,3819,3818,-0.3875596950560199,-0.22221990440662864,-0.3875596950560199
+train,ethusdt,bybit,buy,Normal activity,episode_end,20,3819,3816,-0.14070130741648781,-0.4563681854286017,-0.14070130741648781
+train,ethusdt,bybit,buy,Normal activity,first_detection,5,3819,3818,0.08870724881509574,0.0,0.08870724881509574
+train,ethusdt,bybit,buy,Normal activity,first_detection,20,3819,3816,0.2933235576908995,-0.32134291165775153,0.2933235576908995
+train,ethusdt,bybit,buy,Normal activity,onset,5,3819,3818,3.4450633856533077,2.065571766980412,3.4450633856533077
+train,ethusdt,bybit,buy,Normal activity,onset,20,3819,3817,3.6261804178301213,1.6937490116220033,3.6261804178301213
+train,ethusdt,bybit,buy,Potential liquidation cascade,cascade_detection,5,11,11,1.8200402986016813,2.5094144446136113,1.8200402986016813
+train,ethusdt,bybit,buy,Potential liquidation cascade,cascade_detection,20,11,11,-0.40077817855855746,-6.686428289750523,-0.40077817855855746
+train,ethusdt,bybit,buy,Potential liquidation cascade,episode_end,5,11,11,-2.4070521760951893,-1.822756196361297,-2.4070521760951893
+train,ethusdt,bybit,buy,Potential liquidation cascade,episode_end,20,11,11,-2.6831646791772554,-8.078848713655162,-2.6831646791772554
+train,ethusdt,bybit,buy,Potential liquidation cascade,first_detection,5,11,11,15.202877815279273,14.755540754531893,15.202877815279273
+train,ethusdt,bybit,buy,Potential liquidation cascade,first_detection,20,11,11,16.915489728434547,13.292713578803017,16.915489728434547
+train,ethusdt,bybit,buy,Potential liquidation cascade,onset,5,11,11,28.540389440316492,29.987175376984254,28.540389440316492
+train,ethusdt,bybit,buy,Potential liquidation cascade,onset,20,11,11,46.61374335303105,48.990533857349305,46.61374335303105
+train,ethusdt,bybit,sell,Liquidation burst,episode_end,5,325,324,2.114208902428361,1.2879037487056877,-2.114208902428361
+train,ethusdt,bybit,sell,Liquidation burst,episode_end,20,325,324,3.0822861983283136,4.023437646551997,-3.0822861983283136
+train,ethusdt,bybit,sell,Liquidation burst,first_detection,5,325,324,2.256936769473062,1.1231646044818078,-2.256936769473062
+train,ethusdt,bybit,sell,Liquidation burst,first_detection,20,325,324,3.8566366670230763,4.302458818497001,-3.8566366670230763
+train,ethusdt,bybit,sell,Liquidation burst,onset,5,325,325,-12.582497617492987,-10.043783937625506,12.582497617492987
+train,ethusdt,bybit,sell,Liquidation burst,onset,20,325,324,-9.186166275389601,-5.079705482304853,9.186166275389601
+train,ethusdt,bybit,sell,Normal activity,episode_end,5,5109,5108,0.3595633661899358,0.20144597016269472,-0.3595633661899358
+train,ethusdt,bybit,sell,Normal activity,episode_end,20,5109,5108,0.6397456432774855,0.8542628608365632,-0.6397456432774855
+train,ethusdt,bybit,sell,Normal activity,first_detection,5,5109,5108,-0.011834568393313576,0.0,0.011834568393313576
+train,ethusdt,bybit,sell,Normal activity,first_detection,20,5109,5108,0.35507463854740845,0.6017093270038743,-0.35507463854740845
+train,ethusdt,bybit,sell,Normal activity,onset,5,5109,5108,-2.6750746759698436,-1.6804847596141315,2.6750746759698436
+train,ethusdt,bybit,sell,Normal activity,onset,20,5109,5108,-2.535835690982837,-1.2293667371210404,2.535835690982837
+train,ethusdt,bybit,sell,Potential liquidation cascade,cascade_detection,5,24,24,1.252085632755436,5.071998571861691,-1.252085632755436
+train,ethusdt,bybit,sell,Potential liquidation cascade,cascade_detection,20,24,24,14.466991115302436,12.089321630388561,-14.466991115302436
+train,ethusdt,bybit,sell,Potential liquidation cascade,episode_end,5,24,24,20.781788892081007,12.230842877558601,-20.781788892081007
+train,ethusdt,bybit,sell,Potential liquidation cascade,episode_end,20,24,24,15.282550979386725,12.858971421891852,-15.282550979386725
+train,ethusdt,bybit,sell,Potential liquidation cascade,first_detection,5,24,24,-28.88025574933025,-23.296748042076487,28.88025574933025
+train,ethusdt,bybit,sell,Potential liquidation cascade,first_detection,20,24,24,-23.868010764490634,-17.623488667970477,23.868010764490634
+train,ethusdt,bybit,sell,Potential liquidation cascade,onset,5,24,24,-26.689477400998104,-22.198590089681502,26.689477400998104
+train,ethusdt,bybit,sell,Potential liquidation cascade,onset,20,24,24,-41.58633327080885,-34.300640810380756,41.58633327080885
+validation,btcusdt,binance,buy,Liquidation burst,episode_end,5,360,360,-0.7599746651887093,-0.7553714660524236,-0.7599746651887093
+validation,btcusdt,binance,buy,Liquidation burst,episode_end,20,360,360,-0.35307028341178026,-0.9002138154290407,-0.35307028341178026
+validation,btcusdt,binance,buy,Liquidation burst,first_detection,5,360,360,-0.575700861173583,-0.450701365268813,-0.575700861173583
+validation,btcusdt,binance,buy,Liquidation burst,first_detection,20,360,360,-0.172847290185876,-0.8494543168957591,-0.172847290185876
+validation,btcusdt,binance,buy,Liquidation burst,onset,5,360,360,5.702287779981496,4.286846967742619,5.702287779981496
+validation,btcusdt,binance,buy,Liquidation burst,onset,20,360,360,5.444273310402635,4.518403224444967,5.444273310402635
+validation,btcusdt,binance,buy,Normal activity,episode_end,5,9768,9767,-0.4412631698750892,-0.2671897961903369,-0.4412631698750892
+validation,btcusdt,binance,buy,Normal activity,episode_end,20,9768,9766,-0.5334892542860381,-0.579650430720946,-0.5334892542860381
+validation,btcusdt,binance,buy,Normal activity,first_detection,5,9768,9767,0.09542381642028022,0.0,0.09542381642028022
+validation,btcusdt,binance,buy,Normal activity,first_detection,20,9768,9766,0.10942727661322676,-0.1456976446334579,0.10942727661322676
+validation,btcusdt,binance,buy,Normal activity,onset,5,9768,9766,1.9648789083296485,1.37611879344135,1.9648789083296485
+validation,btcusdt,binance,buy,Normal activity,onset,20,9768,9766,2.0928949187448174,1.1758781100645876,2.0928949187448174
+validation,btcusdt,binance,buy,Potential liquidation cascade,cascade_detection,5,7,7,1.5572682951590724,-2.437233855054899,1.5572682951590724
+validation,btcusdt,binance,buy,Potential liquidation cascade,cascade_detection,20,7,7,-4.067600755429827,-6.582969846107289,-4.067600755429827
+validation,btcusdt,binance,buy,Potential liquidation cascade,episode_end,5,7,7,-4.097487369601233,-4.340005124152668,-4.097487369601233
+validation,btcusdt,binance,buy,Potential liquidation cascade,episode_end,20,7,7,-7.341496194389459,-6.582969846107289,-7.341496194389459
+validation,btcusdt,binance,buy,Potential liquidation cascade,first_detection,5,7,7,17.024842281479888,14.676052432278652,17.024842281479888
+validation,btcusdt,binance,buy,Potential liquidation cascade,first_detection,20,7,7,15.894214583698536,8.113813766499334,15.894214583698536
+validation,btcusdt,binance,buy,Potential liquidation cascade,onset,5,7,7,8.407945955306266,3.4483626539127954,8.407945955306266
+validation,btcusdt,binance,buy,Potential liquidation cascade,onset,20,7,7,20.787754456966315,15.199608883680327,20.787754456966315
+validation,btcusdt,binance,sell,Liquidation burst,episode_end,5,457,457,0.6150097142437567,-0.013727778149785763,-0.6150097142437567
+validation,btcusdt,binance,sell,Liquidation burst,episode_end,20,457,457,0.3342644918119786,0.6029713252253543,-0.3342644918119786
+validation,btcusdt,binance,sell,Liquidation burst,first_detection,5,457,457,0.5015506268905714,-0.04259893247038349,-0.5015506268905714
+validation,btcusdt,binance,sell,Liquidation burst,first_detection,20,457,457,0.25110571108480306,0.6029713252253543,-0.25110571108480306
+validation,btcusdt,binance,sell,Liquidation burst,onset,5,457,457,-3.6654269594105053,-3.072848367402514,3.6654269594105053
+validation,btcusdt,binance,sell,Liquidation burst,onset,20,457,457,-3.0180893194939165,-2.4777459627145504,3.0180893194939165
+validation,btcusdt,binance,sell,Normal activity,episode_end,5,10743,10743,0.3593416380016424,0.17612184109339069,-0.3593416380016424
+validation,btcusdt,binance,sell,Normal activity,episode_end,20,10743,10743,0.2763432283838265,0.30368714153183873,-0.2763432283838265
+validation,btcusdt,binance,sell,Normal activity,first_detection,5,10743,10743,-0.05749759165989347,0.0,0.05749759165989347
+validation,btcusdt,binance,sell,Normal activity,first_detection,20,10743,10743,-0.06905368257010172,0.11747766638592338,0.06905368257010172
+validation,btcusdt,binance,sell,Normal activity,onset,5,10743,10743,-1.4019198910055803,-0.9300518510713118,1.4019198910055803
+validation,btcusdt,binance,sell,Normal activity,onset,20,10743,10743,-1.4656558149448717,-0.9313217791095951,1.4656558149448717
+validation,btcusdt,binance,sell,Potential liquidation cascade,cascade_detection,5,2,2,4.03661729562188,4.03661729562188,-4.03661729562188
+validation,btcusdt,binance,sell,Potential liquidation cascade,cascade_detection,20,2,2,-2.0940500343780144,-2.0940500343780144,2.0940500343780144
+validation,btcusdt,binance,sell,Potential liquidation cascade,episode_end,5,2,2,4.03661729562188,4.03661729562188,-4.03661729562188
+validation,btcusdt,binance,sell,Potential liquidation cascade,episode_end,20,2,2,-2.0940500343780144,-2.0940500343780144,2.0940500343780144
+validation,btcusdt,binance,sell,Potential liquidation cascade,first_detection,5,2,2,-9.479250204007528,-9.479250204007528,9.479250204007528
+validation,btcusdt,binance,sell,Potential liquidation cascade,first_detection,20,2,2,-9.053707172883563,-9.053707172883563,9.053707172883563
+validation,btcusdt,binance,sell,Potential liquidation cascade,onset,5,2,2,-11.433133492122494,-11.433133492122494,11.433133492122494
+validation,btcusdt,binance,sell,Potential liquidation cascade,onset,20,2,2,-16.34019562278155,-16.34019562278155,16.34019562278155
+validation,btcusdt,bybit,buy,Liquidation burst,episode_end,5,274,274,-1.8169823735886717,-1.3702798637105218,-1.8169823735886717
+validation,btcusdt,bybit,buy,Liquidation burst,episode_end,20,274,274,-1.9477554815649003,-2.098738634757069,-1.9477554815649003
+validation,btcusdt,bybit,buy,Liquidation burst,first_detection,5,274,274,-1.493564801268352,-1.241152206903351,-1.493564801268352
+validation,btcusdt,bybit,buy,Liquidation burst,first_detection,20,274,274,-1.635709798587701,-1.9257950589768313,-1.635709798587701
+validation,btcusdt,bybit,buy,Liquidation burst,onset,5,274,274,9.491559119829377,7.968984343804664,9.491559119829377
+validation,btcusdt,bybit,buy,Liquidation burst,onset,20,274,274,7.852648890976022,5.592719300659965,7.852648890976022
+validation,btcusdt,bybit,buy,Normal activity,episode_end,5,4375,4375,-0.3738594360290709,-0.36860270515859384,-0.3738594360290709
+validation,btcusdt,bybit,buy,Normal activity,episode_end,20,4375,4375,-0.6946072131916553,-0.9394681589469656,-0.6946072131916553
+validation,btcusdt,bybit,buy,Normal activity,first_detection,5,4375,4375,0.20580391987231955,0.0,0.20580391987231955
+validation,btcusdt,bybit,buy,Normal activity,first_detection,20,4375,4375,0.027681402640995754,-0.4484963773165873,0.027681402640995754
+validation,btcusdt,bybit,buy,Normal activity,onset,5,4375,4375,2.931046215484242,2.2155460525397075,2.931046215484242
+validation,btcusdt,bybit,buy,Normal activity,onset,20,4375,4375,3.0394972999527567,2.0598390730874883,3.0394972999527567
+validation,btcusdt,bybit,buy,Potential liquidation cascade,cascade_detection,5,12,12,2.207643182029114,-4.79863257599078,2.207643182029114
+validation,btcusdt,bybit,buy,Potential liquidation cascade,cascade_detection,20,12,12,1.9810280087210568,1.685210775788093,1.9810280087210568
+validation,btcusdt,bybit,buy,Potential liquidation cascade,episode_end,5,12,12,-2.097485425884097,-4.987634647459771,-2.097485425884097
+validation,btcusdt,bybit,buy,Potential liquidation cascade,episode_end,20,12,12,0.624786838729167,-1.2692788455925808,0.624786838729167
+validation,btcusdt,bybit,buy,Potential liquidation cascade,first_detection,5,12,12,17.12101685852711,18.157285241136023,17.12101685852711
+validation,btcusdt,bybit,buy,Potential liquidation cascade,first_detection,20,12,12,27.092229459984015,15.037911454669484,27.092229459984015
+validation,btcusdt,bybit,buy,Potential liquidation cascade,onset,5,12,12,14.928817356566112,12.888538266420113,14.928817356566112
+validation,btcusdt,bybit,buy,Potential liquidation cascade,onset,20,12,12,37.07043955442154,32.90370307264645,37.07043955442154
+validation,btcusdt,bybit,sell,Liquidation burst,episode_end,5,296,296,2.097026016734356,1.4211756577164891,-2.097026016734356
+validation,btcusdt,bybit,sell,Liquidation burst,episode_end,20,296,296,2.77463026553854,1.1658594463526128,-2.77463026553854
+validation,btcusdt,bybit,sell,Liquidation burst,first_detection,5,296,296,1.4177110700321185,0.887315659792165,-1.4177110700321185
+validation,btcusdt,bybit,sell,Liquidation burst,first_detection,20,296,296,2.377709423630425,0.9858393263684206,-2.377709423630425
+validation,btcusdt,bybit,sell,Liquidation burst,onset,5,296,296,-9.18892720330936,-7.705990040580701,9.18892720330936
+validation,btcusdt,bybit,sell,Liquidation burst,onset,20,296,296,-6.885690186319946,-5.718017547966525,6.885690186319946
+validation,btcusdt,bybit,sell,Normal activity,episode_end,5,5416,5415,0.5083157935217426,0.372717107754994,-0.5083157935217426
+validation,btcusdt,bybit,sell,Normal activity,episode_end,20,5416,5415,0.5339325143110065,0.4358099201162702,-0.5339325143110065
+validation,btcusdt,bybit,sell,Normal activity,first_detection,5,5416,5415,-0.03910471446922296,0.0,0.03910471446922296
+validation,btcusdt,bybit,sell,Normal activity,first_detection,20,5416,5415,0.039437060640496235,0.12744247035456624,-0.039437060640496235
+validation,btcusdt,bybit,sell,Normal activity,onset,5,5416,5415,-2.6794624069404676,-2.1174053530614856,2.6794624069404676
+validation,btcusdt,bybit,sell,Normal activity,onset,20,5416,5415,-2.6321735801789705,-2.066296920837374,2.6321735801789705
+validation,btcusdt,bybit,sell,Potential liquidation cascade,cascade_detection,5,9,9,3.096851247092284,5.626475382793927,-3.096851247092284
+validation,btcusdt,bybit,sell,Potential liquidation cascade,cascade_detection,20,9,9,11.997357321078539,6.623304279269604,-11.997357321078539
+validation,btcusdt,bybit,sell,Potential liquidation cascade,episode_end,5,9,9,9.820507694256897,6.168478498480567,-9.820507694256897
+validation,btcusdt,bybit,sell,Potential liquidation cascade,episode_end,20,9,9,15.993030374897977,6.623304279269604,-15.993030374897977
+validation,btcusdt,bybit,sell,Potential liquidation cascade,first_detection,5,9,9,-17.311044231471428,-15.919513821636144,17.311044231471428
+validation,btcusdt,bybit,sell,Potential liquidation cascade,first_detection,20,9,9,-14.495784993305469,-15.041927955472545,14.495784993305469
+validation,btcusdt,bybit,sell,Potential liquidation cascade,onset,5,9,9,-10.120358253343417,-7.9171264666833,10.120358253343417
+validation,btcusdt,bybit,sell,Potential liquidation cascade,onset,20,9,9,-29.254203597716746,-31.958645541063646,29.254203597716746
+validation,ethusdt,binance,buy,Liquidation burst,episode_end,5,350,350,-0.9067135215274595,-1.0180923659985908,-0.9067135215274595
+validation,ethusdt,binance,buy,Liquidation burst,episode_end,20,350,350,-1.859993842555977,-1.1663859263544296,-1.859993842555977
+validation,ethusdt,binance,buy,Liquidation burst,first_detection,5,350,350,-1.0237943266430096,-1.0180923659985908,-1.0237943266430096
+validation,ethusdt,binance,buy,Liquidation burst,first_detection,20,350,350,-1.7626194991067021,-1.1663859263544296,-1.7626194991067021
+validation,ethusdt,binance,buy,Liquidation burst,onset,5,350,350,7.9653950304098435,6.151719053391069,7.9653950304098435
+validation,ethusdt,binance,buy,Liquidation burst,onset,20,350,350,6.8985867100520535,4.602282014767312,6.8985867100520535
+validation,ethusdt,binance,buy,Normal activity,episode_end,5,11026,11026,-0.6539865926214998,-0.4325147137285157,-0.6539865926214998
+validation,ethusdt,binance,buy,Normal activity,episode_end,20,11026,11024,-0.8425424379813079,-1.154715828652897,-0.8425424379813079
+validation,ethusdt,binance,buy,Normal activity,first_detection,5,11026,11026,0.18439841503841628,0.0,0.18439841503841628
+validation,ethusdt,binance,buy,Normal activity,first_detection,20,11026,11024,0.01254467989059979,-0.6789969451892475,0.01254467989059979
+validation,ethusdt,binance,buy,Normal activity,onset,5,11026,11026,2.808844202389962,1.8206486880911754,2.808844202389962
+validation,ethusdt,binance,buy,Normal activity,onset,20,11026,11025,2.888574661243467,1.3921257266691356,2.888574661243467
+validation,ethusdt,binance,buy,Potential liquidation cascade,cascade_detection,5,6,6,-6.5139009906115914,-0.5312530027623552,-6.5139009906115914
+validation,ethusdt,binance,buy,Potential liquidation cascade,cascade_detection,20,6,6,0.8144550282344435,5.711199981206505,0.8144550282344435
+validation,ethusdt,binance,buy,Potential liquidation cascade,episode_end,5,6,6,-18.52918227518578,-16.580933466503467,-18.52918227518578
+validation,ethusdt,binance,buy,Potential liquidation cascade,episode_end,20,6,6,-1.9513368680534882,-4.879947326061895,-1.9513368680534882
+validation,ethusdt,binance,buy,Potential liquidation cascade,first_detection,5,6,6,25.693690516105743,23.957554134890202,25.693690516105743
+validation,ethusdt,binance,buy,Potential liquidation cascade,first_detection,20,6,6,19.766992187938055,11.666826028489119,19.766992187938055
+validation,ethusdt,binance,buy,Potential liquidation cascade,onset,5,6,6,19.68335062876007,19.828096425529296,19.68335062876007
+validation,ethusdt,binance,buy,Potential liquidation cascade,onset,20,6,6,35.891349930838125,35.633337695224476,35.891349930838125
+validation,ethusdt,binance,sell,Liquidation burst,episode_end,5,456,456,0.30874029484972393,0.817176444587453,-0.30874029484972393
+validation,ethusdt,binance,sell,Liquidation burst,episode_end,20,456,456,0.6897797803559724,1.4314084228050916,-0.6897797803559724
+validation,ethusdt,binance,sell,Liquidation burst,first_detection,5,456,456,0.7920816471422296,0.7587514518681004,-0.7920816471422296
+validation,ethusdt,binance,sell,Liquidation burst,first_detection,20,456,456,1.3131846150500883,1.4314084228050916,-1.3131846150500883
+validation,ethusdt,binance,sell,Liquidation burst,onset,5,456,456,-5.538565170504315,-4.1822785828316,5.538565170504315
+validation,ethusdt,binance,sell,Liquidation burst,onset,20,456,456,-4.477876240430411,-3.1697884187309455,4.477876240430411
+validation,ethusdt,binance,sell,Normal activity,episode_end,5,12370,12369,0.585665314974283,0.4272855027398492,-0.585665314974283
+validation,ethusdt,binance,sell,Normal activity,episode_end,20,12370,12369,0.5239524347409764,0.5455753837679822,-0.5239524347409764
+validation,ethusdt,binance,sell,Normal activity,first_detection,5,12370,12369,-0.01694097279252054,0.0,0.01694097279252054
+validation,ethusdt,binance,sell,Normal activity,first_detection,20,12370,12369,0.07053890899697278,0.30381362049247684,-0.07053890899697278
+validation,ethusdt,binance,sell,Normal activity,onset,5,12370,12370,-2.0464577334076077,-1.2127839634112902,2.0464577334076077
+validation,ethusdt,binance,sell,Normal activity,onset,20,12370,12369,-2.0092467617901875,-1.0995626500598377,2.0092467617901875
+validation,ethusdt,binance,sell,Potential liquidation cascade,cascade_detection,5,1,1,0.25486538011598725,0.25486538011598725,-0.25486538011598725
+validation,ethusdt,binance,sell,Potential liquidation cascade,cascade_detection,20,1,1,6.879086320994432,6.879086320994432,-6.879086320994432
+validation,ethusdt,binance,sell,Potential liquidation cascade,episode_end,5,1,1,0.25486538011598725,0.25486538011598725,-0.25486538011598725
+validation,ethusdt,binance,sell,Potential liquidation cascade,episode_end,20,1,1,6.879086320994432,6.879086320994432,-6.879086320994432
+validation,ethusdt,binance,sell,Potential liquidation cascade,first_detection,5,1,1,-19.0969009032127,-19.0969009032127,19.0969009032127
+validation,ethusdt,binance,sell,Potential liquidation cascade,first_detection,20,1,1,-12.421571347580596,-12.421571347580596,12.421571347580596
+validation,ethusdt,binance,sell,Potential liquidation cascade,onset,5,1,1,-16.0640563235237,-16.0640563235237,16.0640563235237
+validation,ethusdt,binance,sell,Potential liquidation cascade,onset,20,1,1,-27.31408296260618,-27.31408296260618,27.31408296260618
+validation,ethusdt,bybit,buy,Liquidation burst,episode_end,5,173,173,-1.938813847317071,-1.9179321799267512,-1.938813847317071
+validation,ethusdt,bybit,buy,Liquidation burst,episode_end,20,173,173,-0.37874533082099715,-3.3633058555793127,-0.37874533082099715
+validation,ethusdt,bybit,buy,Liquidation burst,first_detection,5,173,173,-0.6787027082188136,-1.5281523903265537,-0.6787027082188136
+validation,ethusdt,bybit,buy,Liquidation burst,first_detection,20,173,173,0.6353264575726691,-2.9599765459309424,0.6353264575726691
+validation,ethusdt,bybit,buy,Liquidation burst,onset,5,173,173,15.973357781278045,14.006950140741381,15.973357781278045
+validation,ethusdt,bybit,buy,Liquidation burst,onset,20,173,173,15.759887530114995,12.118061553136883,15.759887530114995
+validation,ethusdt,bybit,buy,Normal activity,episode_end,5,3800,3800,-0.7204960038702991,-0.656059489148042,-0.7204960038702991
+validation,ethusdt,bybit,buy,Normal activity,episode_end,20,3800,3800,-0.6555164578021054,-1.6890824468163146,-0.6555164578021054
+validation,ethusdt,bybit,buy,Normal activity,first_detection,5,3800,3800,0.35046573453022595,-0.09453204672382753,0.35046573453022595
+validation,ethusdt,bybit,buy,Normal activity,first_detection,20,3800,3800,0.4209176982336576,-0.9330528061202159,0.4209176982336576
+validation,ethusdt,bybit,buy,Normal activity,onset,5,3800,3800,5.524472459771454,3.60526762521296,5.524472459771454
+validation,ethusdt,bybit,buy,Normal activity,onset,20,3800,3800,5.778641848422795,3.125355868967006,5.778641848422795
+validation,ethusdt,bybit,buy,Potential liquidation cascade,cascade_detection,5,6,6,-11.263911901801352,-17.945356684356817,-11.263911901801352
+validation,ethusdt,bybit,buy,Potential liquidation cascade,cascade_detection,20,6,6,-35.34392411736883,-35.511748470105076,-35.34392411736883
+validation,ethusdt,bybit,buy,Potential liquidation cascade,episode_end,5,6,6,-5.038010237865542,-5.44767085173703,-5.038010237865542
+validation,ethusdt,bybit,buy,Potential liquidation cascade,episode_end,20,6,6,-14.311514411522452,-11.762412016249613,-14.311514411522452
+validation,ethusdt,bybit,buy,Potential liquidation cascade,first_detection,5,6,6,45.26360818081147,39.723352530876,45.26360818081147
+validation,ethusdt,bybit,buy,Potential liquidation cascade,first_detection,20,6,6,20.060190174443864,22.395164939252865,20.060190174443864
+validation,ethusdt,bybit,buy,Potential liquidation cascade,onset,5,6,6,27.023813994614027,21.937669354392675,27.023813994614027
+validation,ethusdt,bybit,buy,Potential liquidation cascade,onset,20,6,6,45.6883710658588,49.60928288377797,45.6883710658588
+validation,ethusdt,bybit,sell,Liquidation burst,episode_end,5,264,264,4.564268170021238,3.391348573869024,-4.564268170021238
+validation,ethusdt,bybit,sell,Liquidation burst,episode_end,20,264,264,7.724548445339948,5.257942033143337,-7.724548445339948
+validation,ethusdt,bybit,sell,Liquidation burst,first_detection,5,264,264,4.310510296474734,2.870215694286138,-4.310510296474734
+validation,ethusdt,bybit,sell,Liquidation burst,first_detection,20,264,264,7.801027278878522,5.449677319413482,-7.801027278878522
+validation,ethusdt,bybit,sell,Liquidation burst,onset,5,264,264,-16.46784093424807,-13.197506209832177,16.46784093424807
+validation,ethusdt,bybit,sell,Liquidation burst,onset,20,264,264,-9.708180441414392,-9.713731592002617,9.708180441414392
+validation,ethusdt,bybit,sell,Normal activity,episode_end,5,5245,5245,0.6633183236181416,0.59724817918827,-0.6633183236181416
+validation,ethusdt,bybit,sell,Normal activity,episode_end,20,5245,5245,1.0069345268937693,0.8095461688650829,-1.0069345268937693
+validation,ethusdt,bybit,sell,Normal activity,first_detection,5,5245,5245,-0.08943427268003017,0.14012798356333178,0.08943427268003017
+validation,ethusdt,bybit,sell,Normal activity,first_detection,20,5245,5245,0.4393618736373692,0.39661194253248766,-0.4393618736373692
+validation,ethusdt,bybit,sell,Normal activity,onset,5,5245,5245,-4.224217711650403,-3.011262682832694,4.224217711650403
+validation,ethusdt,bybit,sell,Normal activity,onset,20,5245,5245,-3.8390610691160116,-2.548975889213878,3.8390610691160116
+validation,ethusdt,bybit,sell,Potential liquidation cascade,cascade_detection,5,4,4,2.2982290985917864,11.858043367705129,-2.2982290985917864
+validation,ethusdt,bybit,sell,Potential liquidation cascade,cascade_detection,20,4,4,15.948539548182872,25.67771141485764,-15.948539548182872
+validation,ethusdt,bybit,sell,Potential liquidation cascade,episode_end,5,4,4,11.626706607443804,14.051516610198433,-11.626706607443804
+validation,ethusdt,bybit,sell,Potential liquidation cascade,episode_end,20,4,4,26.448323258194684,25.68593341414349,-26.448323258194684
+validation,ethusdt,bybit,sell,Potential liquidation cascade,first_detection,5,4,4,-18.833296359259677,-22.26822692608099,18.833296359259677
+validation,ethusdt,bybit,sell,Potential liquidation cascade,first_detection,20,4,4,-15.824787116438532,-11.40437638714964,15.824787116438532
+validation,ethusdt,bybit,sell,Potential liquidation cascade,onset,5,4,4,-22.679784565082795,-20.25733281468156,22.679784565082795
+validation,ethusdt,bybit,sell,Potential liquidation cascade,onset,20,4,4,-39.147561828680736,-33.84564523539968,39.147561828680736

@@ -1,0 +1,30 @@
+{
+  "review_date": "2026-10-20",
+  "python": "3.11",
+  "portable_tests_passed": 117,
+  "private_integration_cases_deselected": 47,
+  "notebooks_executed": 6,
+  "notebook_error_outputs": 0,
+  "notebook_browser_checks": {
+    "all_six_loaded": true,
+    "all_figures_loaded": true,
+    "horizontal_page_overflow": false,
+    "key_tables_and_figures_visually_inspected": true
+  },
+  "original_source_notebook_bytes_unchanged": true,
+  "original_raw_source_sha256_checks": 8,
+  "original_raw_rows": 1315384304,
+  "unchanged_original_function_class_ASTs": 248,
+  "fresh_environment_requirements_install": true,
+  "full_raw_refit_performed": false,
+  "raw_data_published": false,
+  "serialized_model_weights_published": false,
+  "github_ci": "See Research checks workflow on the current GitHub commit; this receipt records local validation.",
+  "packages": {
+    "numpy": "2.4.6",
+    "pandas": "3.0.3",
+    "pyarrow": "25.0.1",
+    "nbformat": "5.11.1",
+    "nbclient": "0.11.0"
+  }
+}

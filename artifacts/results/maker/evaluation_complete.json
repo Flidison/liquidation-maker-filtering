@@ -1,0 +1,8 @@
+{
+  "scores_use_all_trades": true,
+  "matching_precision": "budget rounded upward by <= one clipped trade, <=100000 USD per full period",
+  "validation_role": "fixed-threshold calibration using scores/weights only, then retrospective Score comparison",
+  "bootstrap": "5000 paired whole UTC days, both symbols kept together in combined scope",
+  "primary_family": "9 Bonferroni-adjusted E5/E7/E1/E3 comparisons, combined 250m/day across 3 horizons",
+  "hidden_test_available": false
+}

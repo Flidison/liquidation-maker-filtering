@@ -1,0 +1,1177 @@
+symbol,classification,metric,horizon_s,utc_day,sum_effect,episode_count
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-01T00:00:00+00:00,-662.7161144646366,1300
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-02T00:00:00+00:00,-787.0443681712302,1393
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-03T00:00:00+00:00,-239.55886474933408,1446
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-04T00:00:00+00:00,-581.0775995934847,1374
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-05T00:00:00+00:00,-1346.6490122663188,2711
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-06T00:00:00+00:00,-1068.445930164401,2513
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-07T00:00:00+00:00,-1037.3014191735663,1373
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-08T00:00:00+00:00,-274.6806441504823,920
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-09T00:00:00+00:00,-611.9531846724512,1085
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-10T00:00:00+00:00,-471.55583381087496,925
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-11T00:00:00+00:00,-822.9960062082853,1376
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-12T00:00:00+00:00,-655.7254128880174,1128
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-13T00:00:00+00:00,-247.1595896197165,877
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-14T00:00:00+00:00,-37.21531206650752,734
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-15T00:00:00+00:00,-201.04706027460395,825
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-16T00:00:00+00:00,-58.849055329641686,742
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-17T00:00:00+00:00,-427.6609228735673,784
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-18T00:00:00+00:00,-162.55048874041833,758
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-19T00:00:00+00:00,-329.72357483913584,690
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-20T00:00:00+00:00,-251.77226609473635,675
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-21T00:00:00+00:00,-118.74972189241717,287
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-22T00:00:00+00:00,-81.6669612613019,336
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-23T00:00:00+00:00,-285.48830722089133,1074
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-24T00:00:00+00:00,-266.5966829048827,970
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-25T00:00:00+00:00,-486.4433859392925,1152
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-26T00:00:00+00:00,-481.44913962884675,946
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-27T00:00:00+00:00,-313.6985230873712,852
+btcusdt,Normal activity,post_end_signed_return_bps,5,2026-02-28T00:00:00+00:00,-248.61426968264766,1054
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-01T00:00:00+00:00,-745.1334167823732,1300
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-02T00:00:00+00:00,-1245.8677317355616,1393
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-03T00:00:00+00:00,18.737687188838947,1445
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-04T00:00:00+00:00,-139.89956907403567,1374
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-05T00:00:00+00:00,-1580.9377605988927,2711
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-06T00:00:00+00:00,-1010.979613779508,2513
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-07T00:00:00+00:00,-948.3987592037657,1373
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-08T00:00:00+00:00,-425.92002031724974,920
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-09T00:00:00+00:00,-1471.8712146258283,1085
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-10T00:00:00+00:00,-1018.2866383316202,925
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-11T00:00:00+00:00,-1067.1384295545217,1376
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-12T00:00:00+00:00,-686.2171812383267,1128
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-13T00:00:00+00:00,-525.0777346373781,877
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-14T00:00:00+00:00,-171.79649121789708,734
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-15T00:00:00+00:00,-11.355933783452343,825
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-16T00:00:00+00:00,-205.46473568922252,742
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-17T00:00:00+00:00,-444.3827872272621,784
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-18T00:00:00+00:00,34.345066396124224,758
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-19T00:00:00+00:00,-389.6855266465593,690
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-20T00:00:00+00:00,-147.93519337500172,675
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-21T00:00:00+00:00,-155.06664080529475,287
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-22T00:00:00+00:00,-203.09607313178546,336
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-23T00:00:00+00:00,-273.32799947160424,1074
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-24T00:00:00+00:00,-39.1789938463738,970
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-25T00:00:00+00:00,258.03970141431876,1152
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-26T00:00:00+00:00,-820.7838225710518,946
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-27T00:00:00+00:00,-652.6874120330284,852
+btcusdt,Normal activity,post_end_signed_return_bps,20,2026-02-28T00:00:00+00:00,-39.59525791417562,1054
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-01T00:00:00+00:00,-724.833789889301,1300
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-02T00:00:00+00:00,-685.3150251651424,1393
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-03T00:00:00+00:00,-743.5035815582243,1446
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-04T00:00:00+00:00,-804.6415445644784,1374
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-05T00:00:00+00:00,-1837.8461158609337,2711
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-06T00:00:00+00:00,-1436.279631031343,2513
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-07T00:00:00+00:00,-895.3941506628767,1373
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-08T00:00:00+00:00,-444.4800349104753,920
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-09T00:00:00+00:00,-554.3895642089742,1085
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-10T00:00:00+00:00,-409.2286532748603,925
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-11T00:00:00+00:00,-772.9825364645171,1376
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-12T00:00:00+00:00,-541.2452959089435,1128
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-13T00:00:00+00:00,-329.99780018085204,877
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-14T00:00:00+00:00,-237.17932996907282,734
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-15T00:00:00+00:00,-339.67609516359386,825
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-16T00:00:00+00:00,-364.71414044310427,742
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-17T00:00:00+00:00,-419.0352152028093,784
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-18T00:00:00+00:00,-362.08362233168236,758
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-19T00:00:00+00:00,-578.006881160603,690
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-20T00:00:00+00:00,-326.0833404979873,675
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-21T00:00:00+00:00,-120.37801759733927,287
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-22T00:00:00+00:00,-198.23100644903366,336
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-23T00:00:00+00:00,-458.5394630438907,1073
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-24T00:00:00+00:00,-402.18355192338714,970
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-25T00:00:00+00:00,-572.1224971425974,1152
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-26T00:00:00+00:00,-421.2170584975482,946
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-27T00:00:00+00:00,-453.0022901994736,852
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-28T00:00:00+00:00,-563.3030650422618,1054
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-01T00:00:00+00:00,-643.5887861911044,1300
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-02T00:00:00+00:00,-886.5173979361181,1393
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-03T00:00:00+00:00,-969.3854275178945,1445
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-04T00:00:00+00:00,-946.1632992168978,1374
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-05T00:00:00+00:00,-1882.2114796879464,2711
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-06T00:00:00+00:00,-2016.7106642601068,2513
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-07T00:00:00+00:00,-1263.0776675676686,1373
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-08T00:00:00+00:00,-558.9144203339487,920
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-09T00:00:00+00:00,-781.873057961912,1084
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-10T00:00:00+00:00,-465.4153607186799,925
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-11T00:00:00+00:00,-1012.7848326666025,1376
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-12T00:00:00+00:00,-697.7847454879058,1128
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-13T00:00:00+00:00,-389.42496685574423,877
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-14T00:00:00+00:00,-424.1281666678721,734
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-15T00:00:00+00:00,-577.4668534542047,825
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-16T00:00:00+00:00,-564.9711134322998,742
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-17T00:00:00+00:00,-640.8094786442995,784
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-18T00:00:00+00:00,-568.5629935291224,758
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-19T00:00:00+00:00,-826.9181027071687,690
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-20T00:00:00+00:00,-746.5495701566985,675
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-21T00:00:00+00:00,-401.75275214111707,287
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-22T00:00:00+00:00,-277.8122783781131,336
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-23T00:00:00+00:00,-772.861310528672,1072
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-24T00:00:00+00:00,-610.217969362954,970
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-25T00:00:00+00:00,-892.5461815002428,1152
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-26T00:00:00+00:00,-657.7795156194403,946
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-27T00:00:00+00:00,-570.4705515644799,852
+btcusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-28T00:00:00+00:00,-759.1418308191714,1054
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-01T00:00:00+00:00,-160.15516095426312,1300
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-02T00:00:00+00:00,-156.61788354079454,1393
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-03T00:00:00+00:00,-628.1601362662014,1446
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-04T00:00:00+00:00,-388.45929407220535,1374
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-05T00:00:00+00:00,-674.4862294140952,2711
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-06T00:00:00+00:00,-799.7401761218669,2513
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-07T00:00:00+00:00,-494.0585444510962,1373
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-08T00:00:00+00:00,-138.02480741054043,920
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-09T00:00:00+00:00,-343.83961869792097,1085
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-10T00:00:00+00:00,-274.0855066934873,925
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-11T00:00:00+00:00,-425.18475753010637,1376
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-12T00:00:00+00:00,-277.9415973913514,1128
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-13T00:00:00+00:00,-60.08695170527175,877
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-14T00:00:00+00:00,-178.97388161946535,734
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-15T00:00:00+00:00,-358.18809862281734,825
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-16T00:00:00+00:00,-201.9630588016085,742
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-17T00:00:00+00:00,-226.52383290421076,784
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-18T00:00:00+00:00,-211.8075225017798,758
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-19T00:00:00+00:00,-296.5211249527512,690
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-20T00:00:00+00:00,-304.75392321475067,675
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-21T00:00:00+00:00,-133.62868626293601,287
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-22T00:00:00+00:00,-102.23223948585917,336
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-23T00:00:00+00:00,-257.0439976654687,1073
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-24T00:00:00+00:00,-191.51013457302406,970
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-25T00:00:00+00:00,-361.86290413769757,1152
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-26T00:00:00+00:00,-283.8701774848308,946
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-27T00:00:00+00:00,-296.4710106733428,852
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-28T00:00:00+00:00,-225.87304175625792,1054
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-01T00:00:00+00:00,315.15885957822354,1300
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-02T00:00:00+00:00,-25.102428643725254,1393
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-03T00:00:00+00:00,-192.71928262396787,1445
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-04T00:00:00+00:00,-27.43221849344659,1374
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-05T00:00:00+00:00,247.2619301908794,2711
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-06T00:00:00+00:00,-158.50881353735554,2513
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-07T00:00:00+00:00,110.74392672421885,1373
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-08T00:00:00+00:00,145.1407866632689,920
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-09T00:00:00+00:00,42.02757271015548,1084
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-10T00:00:00+00:00,-13.088921659472877,925
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-11T00:00:00+00:00,-67.71406046224115,1376
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-12T00:00:00+00:00,-72.70317727052935,1128
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-13T00:00:00+00:00,14.169735535560388,877
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-14T00:00:00+00:00,-121.71261427100724,734
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-15T00:00:00+00:00,-294.0127256436855,825
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-16T00:00:00+00:00,-40.13126553226833,742
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-17T00:00:00+00:00,-124.86449785031516,784
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-18T00:00:00+00:00,-95.07167213876326,758
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-19T00:00:00+00:00,-296.0397295085749,690
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-20T00:00:00+00:00,-242.42274214983198,675
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-21T00:00:00+00:00,-137.84358266427037,287
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-22T00:00:00+00:00,-10.55474126307324,336
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-23T00:00:00+00:00,-132.9704910076488,1071
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-24T00:00:00+00:00,-30.890935229383764,970
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-25T00:00:00+00:00,-25.38108384041884,1152
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-26T00:00:00+00:00,-158.7605194120378,946
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-27T00:00:00+00:00,-74.94405940038918,852
+btcusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-28T00:00:00+00:00,59.02627588870288,1054
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-01T00:00:00+00:00,306.5555565469511,1300
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-02T00:00:00+00:00,304.61838860069025,1393
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-03T00:00:00+00:00,157.8839105423145,1446
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-04T00:00:00+00:00,274.7269239942919,1374
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-05T00:00:00+00:00,705.017068165224,2711
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-06T00:00:00+00:00,459.024966303551,2513
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-07T00:00:00+00:00,317.09140362931254,1373
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-08T00:00:00+00:00,171.09038253362013,920
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-09T00:00:00+00:00,191.55898462659698,1085
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-10T00:00:00+00:00,106.06591292127291,925
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-11T00:00:00+00:00,248.21996394612606,1376
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-12T00:00:00+00:00,148.9571795295979,1128
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-13T00:00:00+00:00,159.93662558578583,877
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-14T00:00:00+00:00,56.419745300122585,734
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-15T00:00:00+00:00,52.566719747893835,825
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-16T00:00:00+00:00,101.78886623946941,742
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-17T00:00:00+00:00,129.99467788507337,784
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-18T00:00:00+00:00,117.22719415177448,758
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-19T00:00:00+00:00,168.28711803288078,690
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-20T00:00:00+00:00,115.65667218706571,675
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-21T00:00:00+00:00,33.51776348914078,287
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-22T00:00:00+00:00,69.09615140417571,336
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-23T00:00:00+00:00,185.27150030213332,1072
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-24T00:00:00+00:00,174.54783029428867,970
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-25T00:00:00+00:00,216.12137841685754,1152
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-26T00:00:00+00:00,145.53541970539686,946
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-27T00:00:00+00:00,129.19096702420185,852
+btcusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-28T00:00:00+00:00,223.59858903110313,1054
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-01T00:00:00+00:00,-111.74821859878392,46
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-02T00:00:00+00:00,-94.8474902942209,64
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-03T00:00:00+00:00,-60.06721364851586,65
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-04T00:00:00+00:00,-100.91402928450677,68
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-05T00:00:00+00:00,-236.8846700604621,211
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-06T00:00:00+00:00,-255.64865413686633,146
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-07T00:00:00+00:00,-132.26703861699107,48
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-08T00:00:00+00:00,-63.328793900989666,38
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-09T00:00:00+00:00,-18.89202637507026,42
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-10T00:00:00+00:00,-62.23946329262375,33
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-11T00:00:00+00:00,-17.143362282414643,61
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-12T00:00:00+00:00,-33.15692520002855,27
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-13T00:00:00+00:00,-32.86517221168239,37
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-14T00:00:00+00:00,-70.37706102595465,23
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-15T00:00:00+00:00,-47.263169305917785,32
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-16T00:00:00+00:00,-105.31724668776832,27
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-17T00:00:00+00:00,5.934137315666277,25
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-18T00:00:00+00:00,1.8125816476910472,35
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-19T00:00:00+00:00,-25.067411452130983,22
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-20T00:00:00+00:00,44.35241945650148,20
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-21T00:00:00+00:00,-9.29732205326772,8
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-22T00:00:00+00:00,-12.858626511818017,4
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-23T00:00:00+00:00,-139.93782624250883,54
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-24T00:00:00+00:00,40.56351167342598,51
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-25T00:00:00+00:00,-0.5705292084812186,62
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-26T00:00:00+00:00,16.71814471158939,25
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-27T00:00:00+00:00,-28.388210727534613,35
+btcusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-28T00:00:00+00:00,-123.52352388033339,78
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-01T00:00:00+00:00,-188.80361883157448,46
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-02T00:00:00+00:00,29.15402411135304,64
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-03T00:00:00+00:00,-125.84638174089946,65
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-04T00:00:00+00:00,28.528973615564723,68
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-05T00:00:00+00:00,-409.2386817341165,211
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-06T00:00:00+00:00,-577.0933784521936,146
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-07T00:00:00+00:00,-35.74278572676448,48
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-08T00:00:00+00:00,-143.1499716742657,38
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-09T00:00:00+00:00,-118.50434431654122,42
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-10T00:00:00+00:00,-85.68194374179328,33
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-11T00:00:00+00:00,-54.7842344725602,61
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-12T00:00:00+00:00,-24.95336232527734,27
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-13T00:00:00+00:00,45.34544053555578,37
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-14T00:00:00+00:00,-46.859452274521374,23
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-15T00:00:00+00:00,4.150129793547563,32
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-16T00:00:00+00:00,-60.16775296910026,27
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-17T00:00:00+00:00,-7.873783231708842,25
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-18T00:00:00+00:00,43.86407739405129,35
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-19T00:00:00+00:00,-29.921823945091575,22
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-20T00:00:00+00:00,10.13808178345954,20
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-21T00:00:00+00:00,-49.38372846090999,8
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-22T00:00:00+00:00,-16.237456797512095,4
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-23T00:00:00+00:00,-49.83339136023446,54
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-24T00:00:00+00:00,100.61604404143054,51
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-25T00:00:00+00:00,63.87985912956751,62
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-26T00:00:00+00:00,-0.9206130208916363,25
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-27T00:00:00+00:00,-23.598064313663514,35
+btcusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-28T00:00:00+00:00,88.07840365058439,78
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-01T00:00:00+00:00,-68.32601643339383,46
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-02T00:00:00+00:00,-87.00090152666365,64
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-03T00:00:00+00:00,-94.83469520010097,65
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-04T00:00:00+00:00,-112.2705737433087,68
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-05T00:00:00+00:00,-220.56210288195211,211
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-06T00:00:00+00:00,-214.21038362318052,146
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-07T00:00:00+00:00,-108.85711402125573,48
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-08T00:00:00+00:00,-106.44349874099079,38
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-09T00:00:00+00:00,-115.96714776058641,42
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-10T00:00:00+00:00,-121.3516694562656,33
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-11T00:00:00+00:00,-181.44559344834678,61
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-12T00:00:00+00:00,-41.02159146166454,27
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-13T00:00:00+00:00,-53.501518184526205,37
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-14T00:00:00+00:00,-49.919719325482774,23
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-15T00:00:00+00:00,-87.47347168461305,32
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-16T00:00:00+00:00,-121.45081364774181,27
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-17T00:00:00+00:00,-99.26017258895257,25
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-18T00:00:00+00:00,-61.234571246629486,35
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-19T00:00:00+00:00,-33.49573027297137,22
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-20T00:00:00+00:00,-54.92630258034942,20
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-21T00:00:00+00:00,-76.17935986958486,8
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-22T00:00:00+00:00,-43.23042834405455,4
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-23T00:00:00+00:00,-133.19102882677473,54
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-24T00:00:00+00:00,-88.46502858722302,51
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-25T00:00:00+00:00,-162.5139421574418,62
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-26T00:00:00+00:00,-102.20803320289123,25
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-27T00:00:00+00:00,-89.39734715742162,35
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-28T00:00:00+00:00,-136.970086181154,78
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-01T00:00:00+00:00,-58.88747290366162,46
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-02T00:00:00+00:00,-97.0756017669388,64
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-03T00:00:00+00:00,-96.19902318002914,65
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-04T00:00:00+00:00,-79.31535423395653,68
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-05T00:00:00+00:00,-90.62135947766015,211
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-06T00:00:00+00:00,-263.1527650203394,146
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-07T00:00:00+00:00,-74.53874000429047,48
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-08T00:00:00+00:00,-147.8716150534319,38
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-09T00:00:00+00:00,-103.77579871497676,42
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-10T00:00:00+00:00,-149.60225523549877,33
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-11T00:00:00+00:00,-190.0455672459875,61
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-12T00:00:00+00:00,-38.195358461375605,27
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-13T00:00:00+00:00,-91.44618215065238,37
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-14T00:00:00+00:00,-28.29207229235628,23
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-15T00:00:00+00:00,-164.18561935291083,32
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-16T00:00:00+00:00,-113.80474452564897,27
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-17T00:00:00+00:00,-87.04885660274587,25
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-18T00:00:00+00:00,-93.95096305573486,35
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-19T00:00:00+00:00,-57.07447630635945,22
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-20T00:00:00+00:00,-31.82474602868293,20
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-21T00:00:00+00:00,-64.58974664968812,8
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-22T00:00:00+00:00,-46.133273698619234,4
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-23T00:00:00+00:00,-50.40585924179887,54
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-24T00:00:00+00:00,-117.24647958430361,51
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-25T00:00:00+00:00,-135.4319959025711,62
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-26T00:00:00+00:00,-94.95551486839491,25
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-27T00:00:00+00:00,-128.68897009415488,35
+btcusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-28T00:00:00+00:00,-130.97315683993443,78
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-01T00:00:00+00:00,-15.137113198186562,46
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-02T00:00:00+00:00,-52.05506229493388,64
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-03T00:00:00+00:00,-3.0674453367241723,65
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-04T00:00:00+00:00,-85.35587938866782,68
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-05T00:00:00+00:00,9.529580264092811,211
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-06T00:00:00+00:00,-52.53920396453312,146
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-07T00:00:00+00:00,-45.7510179668898,48
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-08T00:00:00+00:00,-54.86572171685391,38
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-09T00:00:00+00:00,-0.733898908909163,42
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-10T00:00:00+00:00,-76.02429159322105,33
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-11T00:00:00+00:00,-86.82485856653244,61
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-12T00:00:00+00:00,-14.91540859105188,27
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-13T00:00:00+00:00,-6.721045725668679,37
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-14T00:00:00+00:00,4.158526579825633,23
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-15T00:00:00+00:00,-32.53236740028527,32
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-16T00:00:00+00:00,-10.731923266312641,27
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-17T00:00:00+00:00,-38.339475935473935,25
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-18T00:00:00+00:00,-61.67894216885851,35
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-19T00:00:00+00:00,-49.339303454876,22
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-20T00:00:00+00:00,12.223552976703452,20
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-21T00:00:00+00:00,-2.101749976742031,8
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-22T00:00:00+00:00,-5.003573261067069,4
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-23T00:00:00+00:00,0.3745682043014744,54
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-24T00:00:00+00:00,15.564352753549342,51
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-25T00:00:00+00:00,-39.62394819620582,62
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-26T00:00:00+00:00,-25.924472676389605,25
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-27T00:00:00+00:00,-54.951328458170444,35
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-28T00:00:00+00:00,-62.00760110162142,78
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-01T00:00:00+00:00,23.88680772289043,46
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-02T00:00:00+00:00,35.65587452781709,64
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-03T00:00:00+00:00,10.130191102891631,65
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-04T00:00:00+00:00,34.092578640972896,68
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-05T00:00:00+00:00,354.26498236844145,211
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-06T00:00:00+00:00,27.496604815398427,146
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-07T00:00:00+00:00,25.571500926501297,48
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-08T00:00:00+00:00,-59.85544041443206,38
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-09T00:00:00+00:00,18.54618471730207,42
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-10T00:00:00+00:00,-23.679239569590187,33
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-11T00:00:00+00:00,-17.786994803370995,61
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-12T00:00:00+00:00,-0.18501425449000397,27
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-13T00:00:00+00:00,-30.726974959808217,37
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-14T00:00:00+00:00,40.835330626886936,23
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-15T00:00:00+00:00,-41.47075525536226,32
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-16T00:00:00+00:00,13.809930809289833,27
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-17T00:00:00+00:00,10.292173720710018,25
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-18T00:00:00+00:00,-33.84795121146315,35
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-19T00:00:00+00:00,-36.448995775428735,22
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-20T00:00:00+00:00,49.89878190377223,20
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-21T00:00:00+00:00,4.81649735967282,8
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-22T00:00:00+00:00,0.7728340862643446,4
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-23T00:00:00+00:00,141.2981484629174,54
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-24T00:00:00+00:00,-11.57992497463814,51
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-25T00:00:00+00:00,22.128090154829536,62
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-26T00:00:00+00:00,5.391264184824774,25
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-27T00:00:00+00:00,-40.46022553849376,35
+btcusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-28T00:00:00+00:00,43.30105953187827,78
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-01T00:00:00+00:00,26.169106557953658,46
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-02T00:00:00+00:00,18.170722504417697,64
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-03T00:00:00+00:00,45.944286353819045,65
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-04T00:00:00+00:00,13.970215597073445,68
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-05T00:00:00+00:00,127.25537457777003,211
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-06T00:00:00+00:00,80.7899745956358,146
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-07T00:00:00+00:00,31.674389850123386,48
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-08T00:00:00+00:00,27.970063380780964,38
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-09T00:00:00+00:00,53.689189627566,42
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-10T00:00:00+00:00,21.72160322642162,33
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-11T00:00:00+00:00,46.166475341308534,61
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-12T00:00:00+00:00,11.675039906346099,27
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-13T00:00:00+00:00,23.8192186054637,37
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-14T00:00:00+00:00,27.810098550734075,23
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-15T00:00:00+00:00,29.142779931687414,32
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-16T00:00:00+00:00,51.58265721540927,27
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-17T00:00:00+00:00,29.31157922254558,25
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-18T00:00:00+00:00,2.0143869121379225,35
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-19T00:00:00+00:00,-7.085461328246278,22
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-20T00:00:00+00:00,33.260722313881125,20
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-21T00:00:00+00:00,33.12851426622149,8
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-22T00:00:00+00:00,17.095569306318673,4
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-23T00:00:00+00:00,65.00527941874705,54
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-24T00:00:00+00:00,47.28016923944754,51
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-25T00:00:00+00:00,55.30449940768675,62
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-26T00:00:00+00:00,38.486987420276634,25
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-27T00:00:00+00:00,23.07856774347726,35
+btcusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-28T00:00:00+00:00,29.519903078321235,78
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-01T00:00:00+00:00,-9.495877973293432,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-02T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-03T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-04T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-05T00:00:00+00:00,-47.77726822959849,3
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-06T00:00:00+00:00,-14.994165709580898,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-07T00:00:00+00:00,7.171822591249821,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-08T00:00:00+00:00,-4.666085277467147,2
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-09T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-10T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-11T00:00:00+00:00,-45.43344448959985,3
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-12T00:00:00+00:00,-5.626475382793927,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-13T00:00:00+00:00,-9.45052496970078,2
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-14T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-15T00:00:00+00:00,-5.103266627788372,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-16T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-17T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-18T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-19T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-20T00:00:00+00:00,4.333505781666247,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-21T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-22T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-23T00:00:00+00:00,-9.28389534697871,3
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-24T00:00:00+00:00,6.524049606664306,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-25T00:00:00+00:00,-5.972514171528331,5
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-26T00:00:00+00:00,-4.340005124152668,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-27T00:00:00+00:00,-6.056967317089601,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-28T00:00:00+00:00,-0.1389278973817909,3
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-01T00:00:00+00:00,-7.291598604446392,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-02T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-03T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-04T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-05T00:00:00+00:00,-68.72927782154648,3
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-06T00:00:00+00:00,-63.500484150633696,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-07T00:00:00+00:00,-6.582969846107289,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-08T00:00:00+00:00,-9.82757615691554,2
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-09T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-10T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-11T00:00:00+00:00,-21.10012204363798,3
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-12T00:00:00+00:00,-15.042593027292384,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-13T00:00:00+00:00,-1.0696466231507884,2
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-14T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-15T00:00:00+00:00,-8.473703237878993,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-16T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-17T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-18T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-19T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-20T00:00:00+00:00,14.661379784879358,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-21T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-22T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-23T00:00:00+00:00,18.258510113842163,3
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-24T00:00:00+00:00,9.480924086080478,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-25T00:00:00+00:00,23.005062918297625,5
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-26T00:00:00+00:00,-9.1351971589404,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-27T00:00:00+00:00,-2.3961047589082796,1
+btcusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-28T00:00:00+00:00,-35.89880807494339,3
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-01T00:00:00+00:00,1.0633421842758137,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-02T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-03T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-04T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-05T00:00:00+00:00,-0.1059812508852005,3
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-06T00:00:00+00:00,-5.300225846483304,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-07T00:00:00+00:00,-3.862248404927863,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-08T00:00:00+00:00,-23.027862265466275,2
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-09T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-10T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-11T00:00:00+00:00,-31.324619871512652,3
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-12T00:00:00+00:00,-4.973631728393637,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-13T00:00:00+00:00,-6.677471800512335,2
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-14T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-15T00:00:00+00:00,-2.1947619647536936,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-16T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-17T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-18T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-19T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-20T00:00:00+00:00,-5.6857700734784435,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-21T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-22T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-23T00:00:00+00:00,-11.244825543466025,3
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-24T00:00:00+00:00,7.233992195812807,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-25T00:00:00+00:00,12.009234725574945,5
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-26T00:00:00+00:00,-0.2741266110086409,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-27T00:00:00+00:00,-0.09380885931650695,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-28T00:00:00+00:00,-5.683016023072815,3
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-01T00:00:00+00:00,-5.292105758944011,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-02T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-03T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-04T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-05T00:00:00+00:00,-11.860216518685482,3
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-06T00:00:00+00:00,-16.057605529086647,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-07T00:00:00+00:00,-0.8260941582535217,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-08T00:00:00+00:00,-21.563905447184105,2
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-09T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-10T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-11T00:00:00+00:00,-32.426502596299116,3
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-12T00:00:00+00:00,-8.786675427416071,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-13T00:00:00+00:00,-0.40176513716480855,2
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-14T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-15T00:00:00+00:00,-6.1962741109446835,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-16T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-17T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-18T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-19T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-20T00:00:00+00:00,-3.9846970073384327,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-21T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-22T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-23T00:00:00+00:00,-15.076555321818763,3
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-24T00:00:00+00:00,-2.980754078160423,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-25T00:00:00+00:00,-11.941939454323903,5
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-26T00:00:00+00:00,-0.9660221061074017,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-27T00:00:00+00:00,-4.224058630616836,1
+btcusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-28T00:00:00+00:00,-14.941494836593897,3
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-01T00:00:00+00:00,5.4667862066524915,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-02T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-03T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-04T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-05T00:00:00+00:00,2.3653366869881474,3
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-06T00:00:00+00:00,9.920049422909877,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-07T00:00:00+00:00,10.937166514374606,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-08T00:00:00+00:00,2.84230855389309,2
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-09T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-10T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-11T00:00:00+00:00,13.538150017688622,3
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-12T00:00:00+00:00,-8.955900995791112,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-13T00:00:00+00:00,2.663234298137164,2
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-14T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-15T00:00:00+00:00,-0.38945403453480587,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-16T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-17T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-18T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-19T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-20T00:00:00+00:00,2.1233690798282643,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-21T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-22T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-23T00:00:00+00:00,2.037932221142026,3
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-24T00:00:00+00:00,17.18612318505513,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-25T00:00:00+00:00,37.68683190346702,5
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-26T00:00:00+00:00,1.7651670621432185,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-27T00:00:00+00:00,5.145061741991439,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-28T00:00:00+00:00,7.321685926757011,3
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-01T00:00:00+00:00,4.3737885142371855,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-02T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-03T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-04T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-05T00:00:00+00:00,9.677389445712635,3
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-06T00:00:00+00:00,13.681984146648707,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-07T00:00:00+00:00,12.447421041292024,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-08T00:00:00+00:00,4.6246602883126915,2
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-09T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-10T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-11T00:00:00+00:00,41.954891884417385,3
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-12T00:00:00+00:00,-3.462878393331817,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-13T00:00:00+00:00,7.39405613968856,2
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-14T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-15T00:00:00+00:00,-6.027502710436787,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-16T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-17T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-18T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-19T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-20T00:00:00+00:00,12.516396718357935,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-21T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-22T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-23T00:00:00+00:00,12.359713391205638,3
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-24T00:00:00+00:00,16.77009932284625,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-25T00:00:00+00:00,40.28849267554422,5
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-26T00:00:00+00:00,2.341503853874203,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-27T00:00:00+00:00,1.0888556972117787,1
+btcusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-28T00:00:00+00:00,15.130291592121349,3
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-01T00:00:00+00:00,3.495982379262422,1
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-02T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-03T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-04T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-05T00:00:00+00:00,7.278866845553268,3
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-06T00:00:00+00:00,6.6499744137895185,1
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-07T00:00:00+00:00,4.1839785791742985,1
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-08T00:00:00+00:00,7.915380530427777,2
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-09T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-10T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-11T00:00:00+00:00,18.79562554642812,3
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-12T00:00:00+00:00,-0.3578830151417982,1
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-13T00:00:00+00:00,2.7838790808877985,2
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-14T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-15T00:00:00+00:00,-0.16652618712932687,1
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-16T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-17T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-18T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-19T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-20T00:00:00+00:00,4.537446612541116,1
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-21T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-22T00:00:00+00:00,0.0,0
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-23T00:00:00+00:00,6.09890943018288,3
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-24T00:00:00+00:00,4.4164250818283834,1
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-25T00:00:00+00:00,13.138567751766072,5
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-26T00:00:00+00:00,1.0304271726548073,1
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-27T00:00:00+00:00,2.403440611341334,1
+btcusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-28T00:00:00+00:00,5.502040373411113,3
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-01T00:00:00+00:00,-534.9063342320903,1653
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-02T00:00:00+00:00,-1520.4625036072362,1794
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-03T00:00:00+00:00,-1484.5882270084587,1810
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-04T00:00:00+00:00,-1586.5748676058367,1643
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-05T00:00:00+00:00,-3372.7897597917877,2760
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-06T00:00:00+00:00,-2349.820641266067,2263
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-07T00:00:00+00:00,-2658.398534907942,1438
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-08T00:00:00+00:00,-418.65969110020274,960
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-09T00:00:00+00:00,-311.3708486447031,1072
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-10T00:00:00+00:00,-297.71982366738393,940
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-11T00:00:00+00:00,-761.5624502629626,1329
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-12T00:00:00+00:00,-715.239814434252,1107
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-13T00:00:00+00:00,-108.45333417668357,855
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-14T00:00:00+00:00,-143.31072801534006,728
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-15T00:00:00+00:00,-320.10633094824215,1002
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-16T00:00:00+00:00,-329.87485783084304,834
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-17T00:00:00+00:00,-351.72243896806066,832
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-18T00:00:00+00:00,-384.22466599304704,830
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-19T00:00:00+00:00,-583.428757488047,767
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-20T00:00:00+00:00,-326.215447438285,740
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-21T00:00:00+00:00,-119.54357926008186,321
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-22T00:00:00+00:00,-56.272808184631984,446
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-23T00:00:00+00:00,-119.18825688408852,1041
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-24T00:00:00+00:00,-324.4533184484677,954
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-25T00:00:00+00:00,-101.57329986688168,1200
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-26T00:00:00+00:00,-449.98010470612473,1011
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-27T00:00:00+00:00,-637.02631216759,997
+ethusdt,Normal activity,post_end_signed_return_bps,5,2026-02-28T00:00:00+00:00,-304.4721363405145,1113
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-01T00:00:00+00:00,-695.0340139511458,1653
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-02T00:00:00+00:00,-1970.881985713886,1794
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-03T00:00:00+00:00,-1548.399640984961,1810
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-04T00:00:00+00:00,-1242.289635904905,1643
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-05T00:00:00+00:00,-4189.064919549246,2760
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-06T00:00:00+00:00,-3447.075225855816,2263
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-07T00:00:00+00:00,-940.7106034968838,1438
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-08T00:00:00+00:00,-407.2057112750471,960
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-09T00:00:00+00:00,-1341.0859584964908,1072
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-10T00:00:00+00:00,-886.0466878916106,940
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-11T00:00:00+00:00,-1383.4015498132412,1329
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-12T00:00:00+00:00,-1300.8825482291275,1107
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-13T00:00:00+00:00,-451.3860974293582,855
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-14T00:00:00+00:00,67.65161852083423,728
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-15T00:00:00+00:00,-462.5085687060615,1002
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-16T00:00:00+00:00,-458.1968867448438,834
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-17T00:00:00+00:00,-318.481803159294,832
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-18T00:00:00+00:00,-317.0769466463685,830
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-19T00:00:00+00:00,-436.4973254898441,767
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-20T00:00:00+00:00,-400.68520481296946,740
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-21T00:00:00+00:00,-271.6649192639586,321
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-22T00:00:00+00:00,-192.54216864173833,446
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-23T00:00:00+00:00,122.19048271919775,1039
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-24T00:00:00+00:00,-539.1087838281816,954
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-25T00:00:00+00:00,1359.0810250724417,1200
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-26T00:00:00+00:00,-1135.4227839735831,1011
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-27T00:00:00+00:00,-820.116099561563,997
+ethusdt,Normal activity,post_end_signed_return_bps,20,2026-02-28T00:00:00+00:00,65.5533082847537,1113
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-01T00:00:00+00:00,-1245.457514307121,1653
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-02T00:00:00+00:00,-2005.5511114458848,1794
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-03T00:00:00+00:00,-1680.9281718126836,1810
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-04T00:00:00+00:00,-1782.5113527778442,1643
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-05T00:00:00+00:00,-2695.955634596677,2760
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-06T00:00:00+00:00,-2337.113315029446,2263
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-07T00:00:00+00:00,-2369.8996674986174,1438
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-08T00:00:00+00:00,-810.5994507149002,960
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-09T00:00:00+00:00,-1006.470504977834,1072
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-10T00:00:00+00:00,-687.456257528851,940
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-11T00:00:00+00:00,-946.0593738887816,1329
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-12T00:00:00+00:00,-991.3976924928518,1107
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-13T00:00:00+00:00,-538.1421233105882,855
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-14T00:00:00+00:00,-373.66144738212023,728
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-15T00:00:00+00:00,-773.4455286096737,1002
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-16T00:00:00+00:00,-807.0273745452965,834
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-17T00:00:00+00:00,-651.0143630613758,832
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-18T00:00:00+00:00,-722.1871033691309,830
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-19T00:00:00+00:00,-775.8284174178372,767
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-20T00:00:00+00:00,-568.9992913398378,740
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-21T00:00:00+00:00,-308.1976794641257,321
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-22T00:00:00+00:00,-158.5806842814218,446
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-23T00:00:00+00:00,-765.581821489054,1041
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-24T00:00:00+00:00,-430.4655795121063,954
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-25T00:00:00+00:00,-1105.0688521910995,1200
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-26T00:00:00+00:00,-733.3430714284234,1011
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-27T00:00:00+00:00,-709.7088023984761,997
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,5,2026-02-28T00:00:00+00:00,-962.8641496117043,1113
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-01T00:00:00+00:00,-1811.8546127273862,1653
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-02T00:00:00+00:00,-2738.174231328247,1794
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-03T00:00:00+00:00,-2490.1644197771852,1810
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-04T00:00:00+00:00,-2475.4249727702895,1643
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-05T00:00:00+00:00,-3778.565007638584,2760
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-06T00:00:00+00:00,-3673.5223604623784,2263
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-07T00:00:00+00:00,-2495.9236784093955,1438
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-08T00:00:00+00:00,-1243.8599386524672,960
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-09T00:00:00+00:00,-1762.4482264078847,1072
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-10T00:00:00+00:00,-1337.0103302168673,940
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-11T00:00:00+00:00,-1983.1008690803596,1329
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-12T00:00:00+00:00,-1220.080523568177,1107
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-13T00:00:00+00:00,-741.1554555155908,855
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-14T00:00:00+00:00,-450.771323791552,728
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-15T00:00:00+00:00,-1606.5190295840764,1002
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-16T00:00:00+00:00,-1072.7812628609026,834
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-17T00:00:00+00:00,-1060.1255313830602,832
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-18T00:00:00+00:00,-1152.0494925082016,830
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-19T00:00:00+00:00,-1143.1065220578535,767
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-20T00:00:00+00:00,-786.9389892063335,740
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-21T00:00:00+00:00,-587.2203937538463,321
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-22T00:00:00+00:00,-367.76021700872195,446
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-23T00:00:00+00:00,-957.365011456046,1037
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-24T00:00:00+00:00,-800.6753985699478,954
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-25T00:00:00+00:00,-1365.7765972172742,1200
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-26T00:00:00+00:00,-1276.1111829758315,1011
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-27T00:00:00+00:00,-1102.4601758723368,997
+ethusdt,Normal activity,post_minus_pre_end_rv_bps,20,2026-02-28T00:00:00+00:00,-1534.4417222775312,1113
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-01T00:00:00+00:00,-314.96511918363825,1653
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-02T00:00:00+00:00,-1097.1109304790696,1794
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-03T00:00:00+00:00,-1334.039360023034,1810
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-04T00:00:00+00:00,-737.2624717725398,1643
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-05T00:00:00+00:00,-1572.2244332923658,2760
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-06T00:00:00+00:00,-1617.8892660592473,2263
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-07T00:00:00+00:00,-930.1554077755113,1438
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-08T00:00:00+00:00,-438.3167392777642,960
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-09T00:00:00+00:00,-857.5841658105776,1072
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-10T00:00:00+00:00,-540.275188411736,940
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-11T00:00:00+00:00,-534.2058995752217,1329
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-12T00:00:00+00:00,-586.5360850488796,1107
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-13T00:00:00+00:00,-301.12503140211106,855
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-14T00:00:00+00:00,-229.99855956315028,728
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-15T00:00:00+00:00,-642.7017416565994,1002
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-16T00:00:00+00:00,-185.3305234965507,834
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-17T00:00:00+00:00,-451.30016098870306,832
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-18T00:00:00+00:00,-361.53219625580755,830
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-19T00:00:00+00:00,-384.7765426164375,767
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-20T00:00:00+00:00,-396.61070129101535,740
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-21T00:00:00+00:00,-209.64300617676943,321
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-22T00:00:00+00:00,-156.60656778716412,446
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-23T00:00:00+00:00,-266.3588995723378,1040
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-24T00:00:00+00:00,-188.65407712970918,954
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-25T00:00:00+00:00,-619.9393293128209,1200
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-26T00:00:00+00:00,-476.16931640066616,1011
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-27T00:00:00+00:00,-368.4116583407357,997
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,5,2026-02-28T00:00:00+00:00,-596.6217620565245,1113
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-01T00:00:00+00:00,448.1280169442375,1653
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-02T00:00:00+00:00,-137.69375008319875,1794
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-03T00:00:00+00:00,-535.1334194001942,1809
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-04T00:00:00+00:00,293.3517741921277,1643
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-05T00:00:00+00:00,-238.59754948938024,2760
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-06T00:00:00+00:00,-870.8933930920491,2263
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-07T00:00:00+00:00,1.674725177774862,1438
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-08T00:00:00+00:00,-40.74454085740376,960
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-09T00:00:00+00:00,-463.7731755930262,1072
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-10T00:00:00+00:00,-201.59751229129432,940
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-11T00:00:00+00:00,-442.46121625425,1329
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-12T00:00:00+00:00,-299.11587722745134,1107
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-13T00:00:00+00:00,3.2812661406004295,855
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-14T00:00:00+00:00,-29.190349955533442,728
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-15T00:00:00+00:00,-610.9419072599376,1002
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-16T00:00:00+00:00,49.232413799299316,834
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-17T00:00:00+00:00,-146.67048526866898,832
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-18T00:00:00+00:00,-270.6097113746208,830
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-19T00:00:00+00:00,-271.11346800634306,767
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-20T00:00:00+00:00,-185.85418304521036,740
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-21T00:00:00+00:00,-248.6571672809871,321
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-22T00:00:00+00:00,-103.68632003507982,446
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-23T00:00:00+00:00,-7.60102584422661,1037
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-24T00:00:00+00:00,-48.52456883743515,954
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-25T00:00:00+00:00,90.52199616706886,1200
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-26T00:00:00+00:00,-262.94259371691595,1011
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-27T00:00:00+00:00,-126.2863804041358,997
+ethusdt,Normal activity,post_minus_pre_onset_rv_bps,20,2026-02-28T00:00:00+00:00,-29.387764861344984,1113
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-01T00:00:00+00:00,674.1526771448807,1653
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-02T00:00:00+00:00,699.9475887507726,1794
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-03T00:00:00+00:00,489.0907685885213,1810
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-04T00:00:00+00:00,749.8606378290937,1643
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-05T00:00:00+00:00,858.1649803208594,2760
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-06T00:00:00+00:00,644.8193356685897,2263
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-07T00:00:00+00:00,867.1125220022883,1438
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-08T00:00:00+00:00,288.1520426747655,960
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-09T00:00:00+00:00,238.7549184754202,1072
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-10T00:00:00+00:00,264.0022902960269,942
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-11T00:00:00+00:00,283.6278136625913,1327
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-12T00:00:00+00:00,252.81319305217644,1107
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-13T00:00:00+00:00,184.7632256739803,855
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-14T00:00:00+00:00,101.68878367694153,728
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-15T00:00:00+00:00,185.43836621779016,1002
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-16T00:00:00+00:00,371.9893781787297,834
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-17T00:00:00+00:00,224.88735400083604,832
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-18T00:00:00+00:00,265.6927483337919,830
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-19T00:00:00+00:00,266.61526325669155,767
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-20T00:00:00+00:00,172.1121532137003,740
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-21T00:00:00+00:00,70.98182702683016,321
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-22T00:00:00+00:00,28.529177921486745,446
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-23T00:00:00+00:00,282.0724557694792,1041
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-24T00:00:00+00:00,157.4656005118867,954
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-25T00:00:00+00:00,330.0689961247668,1201
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-26T00:00:00+00:00,243.19600079193293,1010
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-27T00:00:00+00:00,262.3502021989909,997
+ethusdt,Normal activity,during_minus_pre_equal_duration_rms_bps,0,2026-02-28T00:00:00+00:00,323.06469694187615,1113
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-01T00:00:00+00:00,-263.9512286954027,65
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-02T00:00:00+00:00,-85.35592184366614,56
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-03T00:00:00+00:00,-23.014753439190017,82
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-04T00:00:00+00:00,-196.76968088797153,70
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-05T00:00:00+00:00,-265.8445658805331,131
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-06T00:00:00+00:00,-245.5577333972858,86
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-07T00:00:00+00:00,-207.2664429404103,33
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-08T00:00:00+00:00,-15.368907652586472,34
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-09T00:00:00+00:00,-50.865250351579405,50
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-10T00:00:00+00:00,-97.41522224037347,37
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-11T00:00:00+00:00,-206.08429267591433,55
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-12T00:00:00+00:00,-37.72049403270472,28
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-13T00:00:00+00:00,-85.25299090922367,35
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-14T00:00:00+00:00,-0.4812871584825018,13
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-15T00:00:00+00:00,-82.51999081976713,43
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-16T00:00:00+00:00,-44.49129300081012,29
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-17T00:00:00+00:00,20.281142695219856,20
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-18T00:00:00+00:00,-25.772342847849572,28
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-19T00:00:00+00:00,50.372266839397994,23
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-20T00:00:00+00:00,9.511976374190212,24
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-21T00:00:00+00:00,-10.247375489544908,7
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-22T00:00:00+00:00,-4.290796912806982,7
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-23T00:00:00+00:00,-51.20000343306508,54
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-24T00:00:00+00:00,-32.81436361052492,28
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-25T00:00:00+00:00,-88.91717275385069,64
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-26T00:00:00+00:00,22.337540805903444,34
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-27T00:00:00+00:00,25.749077532681852,48
+ethusdt,Liquidation burst,post_end_signed_return_bps,5,2026-02-28T00:00:00+00:00,-5.566792731395154,59
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-01T00:00:00+00:00,-581.3925157745725,65
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-02T00:00:00+00:00,10.001157855095144,56
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-03T00:00:00+00:00,-242.66531928559766,82
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-04T00:00:00+00:00,-322.420691434786,70
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-05T00:00:00+00:00,-455.32986568169065,131
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-06T00:00:00+00:00,-121.93317243828439,86
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-07T00:00:00+00:00,-298.19680014951723,33
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-08T00:00:00+00:00,44.20339476087776,34
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-09T00:00:00+00:00,-137.44358760423125,50
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-10T00:00:00+00:00,-149.43368688734358,37
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-11T00:00:00+00:00,-473.08762984453523,55
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-12T00:00:00+00:00,-95.9577173652093,28
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-13T00:00:00+00:00,-139.75278859390096,35
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-14T00:00:00+00:00,13.510082049936756,13
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-15T00:00:00+00:00,-144.08700589767065,43
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-16T00:00:00+00:00,8.025409072685008,29
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-17T00:00:00+00:00,48.453531563534824,20
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-18T00:00:00+00:00,-8.185003192462403,28
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-19T00:00:00+00:00,48.74991602377143,23
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-20T00:00:00+00:00,-71.64748696043333,24
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-21T00:00:00+00:00,-6.473288345496542,7
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-22T00:00:00+00:00,-15.77636301584917,7
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-23T00:00:00+00:00,-87.91511176956313,54
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-24T00:00:00+00:00,19.03062993108051,28
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-25T00:00:00+00:00,-9.59740020888944,64
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-26T00:00:00+00:00,38.75818102906159,34
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-27T00:00:00+00:00,1.2876461603994471,48
+ethusdt,Liquidation burst,post_end_signed_return_bps,20,2026-02-28T00:00:00+00:00,58.93432946489696,59
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-01T00:00:00+00:00,-306.7460208666894,65
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-02T00:00:00+00:00,-75.73929040858324,56
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-03T00:00:00+00:00,-191.3875647376523,82
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-04T00:00:00+00:00,-301.7963150516885,70
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-05T00:00:00+00:00,-467.1933917684984,131
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-06T00:00:00+00:00,-251.20988055688468,86
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-07T00:00:00+00:00,-65.40151464140091,33
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-08T00:00:00+00:00,-117.38842693802812,34
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-09T00:00:00+00:00,-130.88288342368745,50
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-10T00:00:00+00:00,-110.03666242604724,37
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-11T00:00:00+00:00,-483.16214170978895,55
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-12T00:00:00+00:00,-65.14343531860693,28
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-13T00:00:00+00:00,-154.8438613912455,35
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-14T00:00:00+00:00,-42.74344089442083,13
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-15T00:00:00+00:00,-325.8189327483331,43
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-16T00:00:00+00:00,-86.7515747066986,29
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-17T00:00:00+00:00,-58.528217062210466,20
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-18T00:00:00+00:00,-151.90345899986576,28
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-19T00:00:00+00:00,-25.362409099814375,23
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-20T00:00:00+00:00,-70.65313837039382,24
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-21T00:00:00+00:00,-52.3197983748582,7
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-22T00:00:00+00:00,-55.78343622951252,7
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-23T00:00:00+00:00,-160.94483220883882,54
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-24T00:00:00+00:00,-98.44998630768183,28
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-25T00:00:00+00:00,-263.8623584007746,64
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-26T00:00:00+00:00,-162.27675619629542,34
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-27T00:00:00+00:00,-149.65024869575558,48
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,5,2026-02-28T00:00:00+00:00,-175.87238525560784,59
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-01T00:00:00+00:00,-328.4090625743901,65
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-02T00:00:00+00:00,-14.585971097616993,56
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-03T00:00:00+00:00,-476.31682483969394,82
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-04T00:00:00+00:00,-366.86961662391104,70
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-05T00:00:00+00:00,-396.56847094108844,131
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-06T00:00:00+00:00,-187.11717782851682,86
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-07T00:00:00+00:00,-168.38454809937897,33
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-08T00:00:00+00:00,-66.7567410093665,34
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-09T00:00:00+00:00,-297.5808202612658,50
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-10T00:00:00+00:00,-235.42823645099733,37
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-11T00:00:00+00:00,-475.32284039675585,55
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-12T00:00:00+00:00,-127.49190631875169,28
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-13T00:00:00+00:00,-218.897093830221,35
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-14T00:00:00+00:00,-60.767612496996186,13
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-15T00:00:00+00:00,-373.0532969629601,43
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-16T00:00:00+00:00,-99.09901588198093,29
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-17T00:00:00+00:00,-67.4678539338638,20
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-18T00:00:00+00:00,-213.69349074358936,28
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-19T00:00:00+00:00,-100.03003847240902,23
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-20T00:00:00+00:00,-44.27858250059654,24
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-21T00:00:00+00:00,-88.67205743093606,7
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-22T00:00:00+00:00,-55.32678761379794,7
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-23T00:00:00+00:00,-260.8220468546414,54
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-24T00:00:00+00:00,-147.96356504146988,28
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-25T00:00:00+00:00,-270.300495513157,64
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-26T00:00:00+00:00,-172.98808365243033,34
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-27T00:00:00+00:00,-226.05582803768982,48
+ethusdt,Liquidation burst,post_minus_pre_end_rv_bps,20,2026-02-28T00:00:00+00:00,-187.84857726031046,59
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-01T00:00:00+00:00,-99.21654129709182,65
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-02T00:00:00+00:00,-46.336270454905524,56
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-03T00:00:00+00:00,-270.87306484711814,82
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-04T00:00:00+00:00,-174.01604366727943,70
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-05T00:00:00+00:00,-60.35286573686764,131
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-06T00:00:00+00:00,-13.317454181400253,86
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-07T00:00:00+00:00,-85.56466818535412,33
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-08T00:00:00+00:00,18.564928271904293,34
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-09T00:00:00+00:00,-135.9177189949386,50
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-10T00:00:00+00:00,-73.45969657701782,37
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-11T00:00:00+00:00,-162.24641367528713,55
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-12T00:00:00+00:00,-51.89756744276524,28
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-13T00:00:00+00:00,-36.52894679256565,35
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-14T00:00:00+00:00,-26.630656712744177,13
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-15T00:00:00+00:00,-161.02173980915353,43
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-16T00:00:00+00:00,-1.5835399248331226,29
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-17T00:00:00+00:00,-6.970594507402533,20
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-18T00:00:00+00:00,-52.22972058976922,28
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-19T00:00:00+00:00,-57.32718383849203,23
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-20T00:00:00+00:00,-8.872599711892317,24
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-21T00:00:00+00:00,-25.109877683453625,7
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-22T00:00:00+00:00,-11.37650429231203,7
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-23T00:00:00+00:00,-83.55815740118932,54
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-24T00:00:00+00:00,-44.40249291012095,28
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-25T00:00:00+00:00,-100.0600863384587,64
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-26T00:00:00+00:00,-75.04745909880863,34
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-27T00:00:00+00:00,-64.88011585770161,48
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,5,2026-02-28T00:00:00+00:00,-34.830370812244524,59
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-01T00:00:00+00:00,-48.000651989890365,65
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-02T00:00:00+00:00,160.98946426766278,56
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-03T00:00:00+00:00,-254.00183071810835,82
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-04T00:00:00+00:00,-117.09193135965366,70
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-05T00:00:00+00:00,167.26535525393777,131
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-06T00:00:00+00:00,184.29398847127152,86
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-07T00:00:00+00:00,-29.14371127629975,33
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-08T00:00:00+00:00,79.62197950889517,34
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-09T00:00:00+00:00,-145.45734098241576,50
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-10T00:00:00+00:00,-76.92371933110107,37
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-11T00:00:00+00:00,-86.50951921177251,55
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-12T00:00:00+00:00,-47.54658068371936,28
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-13T00:00:00+00:00,-44.958284392932754,35
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-14T00:00:00+00:00,-2.0056760121147668,13
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-15T00:00:00+00:00,-116.65281801287477,43
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-16T00:00:00+00:00,-16.979296664563726,29
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-17T00:00:00+00:00,-14.367231136989695,20
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-18T00:00:00+00:00,-34.5862764169337,28
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-19T00:00:00+00:00,-60.460229272665856,23
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-20T00:00:00+00:00,30.432415637922027,24
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-21T00:00:00+00:00,-33.580532009710346,7
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-22T00:00:00+00:00,-4.103969446738743,7
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-23T00:00:00+00:00,2.380473794537251,54
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-24T00:00:00+00:00,-51.37844088063562,28
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-25T00:00:00+00:00,3.222589611217499,64
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-26T00:00:00+00:00,-17.090597099808356,34
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-27T00:00:00+00:00,-69.66256140520908,48
+ethusdt,Liquidation burst,post_minus_pre_onset_rv_bps,20,2026-02-28T00:00:00+00:00,21.821147151523153,59
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-01T00:00:00+00:00,99.39207788724406,65
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-02T00:00:00+00:00,15.39758445453024,56
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-03T00:00:00+00:00,-20.249403040797063,82
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-04T00:00:00+00:00,69.6197377351507,70
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-05T00:00:00+00:00,193.1454993192199,131
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-06T00:00:00+00:00,110.89042347382075,86
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-07T00:00:00+00:00,-10.405167869220824,33
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-08T00:00:00+00:00,62.97529370126995,34
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-09T00:00:00+00:00,2.3033289508426815,50
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-10T00:00:00+00:00,23.245007067403257,37
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-11T00:00:00+00:00,147.9162902463008,55
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-12T00:00:00+00:00,5.923732198272554,28
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-13T00:00:00+00:00,56.78842284103076,35
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-14T00:00:00+00:00,17.021850162866162,13
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-15T00:00:00+00:00,68.95658400296067,43
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-16T00:00:00+00:00,38.08830305646354,29
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-17T00:00:00+00:00,23.057269758165383,20
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-18T00:00:00+00:00,57.26686960348762,28
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-19T00:00:00+00:00,-14.295081840230267,23
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-20T00:00:00+00:00,27.34970594541278,24
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-21T00:00:00+00:00,12.16864646567174,7
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-22T00:00:00+00:00,19.85938369675734,7
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-23T00:00:00+00:00,57.74427524967626,54
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-24T00:00:00+00:00,22.800907091332647,28
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-25T00:00:00+00:00,79.97417432724303,64
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-26T00:00:00+00:00,39.01012758790111,34
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-27T00:00:00+00:00,47.65851156818028,48
+ethusdt,Liquidation burst,during_minus_pre_equal_duration_rms_bps,0,2026-02-28T00:00:00+00:00,63.819906135910806,59
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-01T00:00:00+00:00,-27.742946682680625,2
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-02T00:00:00+00:00,-61.79325285705417,2
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-03T00:00:00+00:00,-106.23483736899253,3
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-04T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-05T00:00:00+00:00,-14.17117522258593,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-06T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-07T00:00:00+00:00,-15.704600724273376,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-08T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-09T00:00:00+00:00,4.964047260385129,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-10T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-11T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-12T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-13T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-14T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-15T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-16T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-17T00:00:00+00:00,27.093495529362244,2
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-18T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-19T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-20T00:00:00+00:00,-21.18402112143869,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-21T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-22T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-23T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-24T00:00:00+00:00,-4.065007210938276,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-25T00:00:00+00:00,44.60530950782804,2
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-26T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-27T00:00:00+00:00,-13.931857997810937,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,5,2026-02-28T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-01T00:00:00+00:00,-61.94297452497999,2
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-02T00:00:00+00:00,-11.03133791758637,2
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-03T00:00:00+00:00,-119.82097397487124,3
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-04T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-05T00:00:00+00:00,-23.11105512961653,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-06T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-07T00:00:00+00:00,-13.459575763343778,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-08T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-09T00:00:00+00:00,-2.4829480022958705,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-10T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-11T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-12T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-13T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-14T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-15T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-16T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-17T00:00:00+00:00,3.278252472815879,2
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-18T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-19T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-20T00:00:00+00:00,-7.27694664982792,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-21T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-22T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-23T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-24T00:00:00+00:00,-12.683946352396447,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-25T00:00:00+00:00,80.01949866296876,2
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-26T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-27T00:00:00+00:00,-41.737479852095305,1
+ethusdt,Potential liquidation cascade,post_end_signed_return_bps,20,2026-02-28T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-01T00:00:00+00:00,-1.7221427234667726,2
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-02T00:00:00+00:00,2.511780753152415,2
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-03T00:00:00+00:00,-14.958299937893724,3
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-04T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-05T00:00:00+00:00,-20.873221343029577,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-06T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-07T00:00:00+00:00,-5.179054371841065,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-08T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-09T00:00:00+00:00,-4.43119230102463,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-10T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-11T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-12T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-13T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-14T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-15T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-16T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-17T00:00:00+00:00,-6.062414312033017,2
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-18T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-19T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-20T00:00:00+00:00,-2.8444729691572874,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-21T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-22T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-23T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-24T00:00:00+00:00,-8.90236734323217,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-25T00:00:00+00:00,-3.3759945090960244,2
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-26T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-27T00:00:00+00:00,-7.284718494383737,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,5,2026-02-28T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-01T00:00:00+00:00,-24.15543230204033,2
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-02T00:00:00+00:00,25.86016143247747,2
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-03T00:00:00+00:00,-77.69996662568336,3
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-04T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-05T00:00:00+00:00,-19.7709368751729,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-06T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-07T00:00:00+00:00,-2.3986481346657182,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-08T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-09T00:00:00+00:00,0.570006628940515,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-10T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-11T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-12T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-13T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-14T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-15T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-16T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-17T00:00:00+00:00,-3.7456576038582856,2
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-18T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-19T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-20T00:00:00+00:00,-9.342292860906849,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-21T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-22T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-23T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-24T00:00:00+00:00,2.0639649796760793,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-25T00:00:00+00:00,20.545521977475858,2
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-26T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-27T00:00:00+00:00,-16.191301766343393,1
+ethusdt,Potential liquidation cascade,post_minus_pre_end_rv_bps,20,2026-02-28T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-01T00:00:00+00:00,14.047741423290125,2
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-02T00:00:00+00:00,2.3924715500511553,2
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-03T00:00:00+00:00,-24.051085563509908,3
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-04T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-05T00:00:00+00:00,3.0254318857300326,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-06T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-07T00:00:00+00:00,4.833679803204139,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-08T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-09T00:00:00+00:00,-0.64964190938265,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-10T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-11T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-12T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-13T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-14T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-15T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-16T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-17T00:00:00+00:00,7.301025506833925,2
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-18T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-19T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-20T00:00:00+00:00,-9.996335505843197,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-21T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-22T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-23T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-24T00:00:00+00:00,10.013603816049308,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-25T00:00:00+00:00,47.96505763488662,2
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-26T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-27T00:00:00+00:00,-1.2783788156748876,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,5,2026-02-28T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-01T00:00:00+00:00,8.208800829143755,2
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-02T00:00:00+00:00,15.949899469690273,2
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-03T00:00:00+00:00,-31.438732107873356,3
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-04T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-05T00:00:00+00:00,-3.936373107350473,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-06T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-07T00:00:00+00:00,1.8917862934285488,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-08T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-09T00:00:00+00:00,9.864368134140589,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-10T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-11T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-12T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-13T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-14T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-15T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-16T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-17T00:00:00+00:00,12.372505095521223,2
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-18T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-19T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-20T00:00:00+00:00,1.3766836710761972,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-21T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-22T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-23T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-24T00:00:00+00:00,25.79004749642516,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-25T00:00:00+00:00,75.53401499969878,2
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-26T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-27T00:00:00+00:00,-36.053063656298754,1
+ethusdt,Potential liquidation cascade,post_minus_pre_onset_rv_bps,20,2026-02-28T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-01T00:00:00+00:00,8.923273444472475,2
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-02T00:00:00+00:00,2.98227960680875,2
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-03T00:00:00+00:00,11.404509431633608,3
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-04T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-05T00:00:00+00:00,3.663134094191891,1
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-06T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-07T00:00:00+00:00,2.774183470866593,1
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-08T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-09T00:00:00+00:00,3.0610451265820933,1
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-10T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-11T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-12T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-13T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-14T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-15T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-16T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-17T00:00:00+00:00,6.019319060718896,2
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-18T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-19T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-20T00:00:00+00:00,1.217866642634033,1
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-21T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-22T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-23T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-24T00:00:00+00:00,3.802914625863333,1
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-25T00:00:00+00:00,15.519533680781938,2
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-26T00:00:00+00:00,0.0,0
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-27T00:00:00+00:00,4.937839662086043,1
+ethusdt,Potential liquidation cascade,during_minus_pre_equal_duration_rms_bps,0,2026-02-28T00:00:00+00:00,0.0,0

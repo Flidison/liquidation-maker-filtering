@@ -1,0 +1,12 @@
+model,status
+E0,full exact keep-all
+E1_60,documented60s rule reconstructed; raw-price cleaning discrepancy disclosed
+E1_60_strength,source-informed fixed flow ranking; additional baseline
+E2,new Ridge; historical fitted artifact unavailable
+E3,new LightGBM; historical V4 fitted artifact unavailable
+E4,same LightGBM without liquidation features
+E5,E3 plus chronological OOF LR probabilities
+E6,E3 plus observable AS-inspired risk features
+E7,E3 plus both feature sets
+E8,not identifiable: no own inventory/queue/fills/k
+Huber/Ranker/ensemble,V4 slides found; exact trained artifacts/code unavailable

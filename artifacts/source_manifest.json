@@ -1,0 +1,1317 @@
+[
+  {
+    "source": "liquidation_early_warning.py",
+    "published": "src/liquidation_early_warning.py",
+    "source_sha256": "54dc298625ea0c6f264436ceb8ecd66d5505295cbcbe3352fd659ee5e7eb4556",
+    "published_sha256": "d3185ad436ed4079bbc8112d05710a81a545c2bb53e7d6ad22f125bc1f0cd803",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "liquidation_early_warning_evaluation.py",
+    "published": "src/liquidation_early_warning_evaluation.py",
+    "source_sha256": "e7c7afdcdd9cb88ec94d3d62d14c2f4915646522de112cc113fe6bee7e056fc7",
+    "published_sha256": "e7c7afdcdd9cb88ec94d3d62d14c2f4915646522de112cc113fe6bee7e056fc7",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "liquidation_bursts.py",
+    "published": "src/liquidation_bursts.py",
+    "source_sha256": "b742c2684d7654f4cbf8751f4d93103cd3ed25d9b44927c41a11aa30446b9ede",
+    "published_sha256": "755880f3a942a7e975917abcac79041f7aabd7e7b284aba1ccee70d1b8aa0b5a",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "liquidation_burst_plots.py",
+    "published": "src/liquidation_burst_plots.py",
+    "source_sha256": "999054f2d59a35693fcad27c7416c3689a2c16bac12ecc05b6ec77450e250823",
+    "published_sha256": "999054f2d59a35693fcad27c7416c3689a2c16bac12ecc05b6ec77450e250823",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "liquidation_early_warning_plots.py",
+    "published": "src/liquidation_early_warning_plots.py",
+    "source_sha256": "56c5f963480e234b3389bb9dbb9f1e2502631ce39a24c16ed79d1226013652aa",
+    "published_sha256": "56c5f963480e234b3389bb9dbb9f1e2502631ce39a24c16ed79d1226013652aa",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "liquidation_statistical_validation.py",
+    "published": "src/liquidation_statistical_validation.py",
+    "source_sha256": "a7e073f2f3e5af38369a13427650c8f4f88a863d8bf65218ca0d5338f7218d7f",
+    "published_sha256": "c60dbef5f992824cb9b6fa830db416879fa1cfe7d31465ac664cbf604b3f55b9",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "liquidation_followthrough_plots.py",
+    "published": "src/liquidation_followthrough_plots.py",
+    "source_sha256": "9879e15ad0646ed0cc552dfe072790e9e601e422b6247770871ab52057ba6e6b",
+    "published_sha256": "9879e15ad0646ed0cc552dfe072790e9e601e422b6247770871ab52057ba6e6b",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "liquidation_followthrough.py",
+    "published": "src/liquidation_followthrough.py",
+    "source_sha256": "a3687e27d1c68c523cc3defb42109daf7838079f621e85b3478573751da5eb80",
+    "published_sha256": "19f9f7e78c83d40b08c253b671e0f322cdfce225330f79233c8a9ffd1073a461",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "evt_log_cond_modeling.py",
+    "published": "src/evt_log_cond_modeling.py",
+    "source_sha256": "d6655d60a5f8566a44e5274cc73bbd42039926f29d515b0baf1312a281723bc6",
+    "published_sha256": "a2f3a3ea8dc32226d93c86d5e91b8e9df2e9805c0028faba6207d323b0819d57",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "evt_log_cond_plots.py",
+    "published": "src/evt_log_cond_plots.py",
+    "source_sha256": "e7f7c764f6d590e20b0634a44d2022f7cd53a879e89d8f60c03a1a4722780a17",
+    "published_sha256": "e7f7c764f6d590e20b0634a44d2022f7cd53a879e89d8f60c03a1a4722780a17",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "evt_log_cond_test_reduced_5s.py",
+    "published": "src/evt_log_cond_test_reduced_5s.py",
+    "source_sha256": "27aeb8084eef98b345904eca57ada96be0ffdb6046529a1303a655bb89db2a86",
+    "published_sha256": "0f8acc8aefb01e73284333e3d949407b6ad818d766e9a736542440489c97aa5b",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "evt_log_cond_calibration_5s.py",
+    "published": "src/evt_log_cond_calibration_5s.py",
+    "source_sha256": "899a19e961f386acc28c12502c8fe63474f00f67c4954a4fd98d3be23cc49eb7",
+    "published_sha256": "899a19e961f386acc28c12502c8fe63474f00f67c4954a4fd98d3be23cc49eb7",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "evt_log_cond_reduced_5s.py",
+    "published": "src/evt_log_cond_reduced_5s.py",
+    "source_sha256": "9e2650704e0ca6142e1c5b946b6041caeefaf3f65704b3e63fc7ac39934a18b5",
+    "published_sha256": "0fe6c50221e785fccfcdc53df12eba50bf4be1668981ef5a69f79f671f88823c",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/catboost_evaluate.py",
+    "published": "src/maker_hybrid/catboost_evaluate.py",
+    "source_sha256": "91ac6ddc55fe7dd98c19274c4a6bd3cad2dd4ef37702450b85972ca744da5a47",
+    "published_sha256": "91ac6ddc55fe7dd98c19274c4a6bd3cad2dd4ef37702450b85972ca744da5a47",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/price_audit.py",
+    "published": "src/maker_hybrid/price_audit.py",
+    "source_sha256": "a47e1dc8acc48114de4f5bd90f94470362a586887160ba7c3b0f03acc7fbfd07",
+    "published_sha256": "a47e1dc8acc48114de4f5bd90f94470362a586887160ba7c3b0f03acc7fbfd07",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/baselines.py",
+    "published": "src/maker_hybrid/baselines.py",
+    "source_sha256": "a9616c23de695af787c578cf70c3d83e60963214afb9a38196075293fe51a13d",
+    "published_sha256": "a9616c23de695af787c578cf70c3d83e60963214afb9a38196075293fe51a13d",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/catboost_submission.py",
+    "published": "src/maker_hybrid/catboost_submission.py",
+    "source_sha256": "1dc565abe78f6e4567e1e72fe935ad3ea23f60d71d91225f54a908d74df2caf7",
+    "published_sha256": "1bde35b360d9eef4375cafd4d2fce9b4473dcd59f23802b3d97245cc00b2ece5",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/regression.py",
+    "published": "src/maker_hybrid/regression.py",
+    "source_sha256": "af92fd3fc308bf682ed27f8380d13346090ebbc977b5012513ff4e91b1267e29",
+    "published_sha256": "af92fd3fc308bf682ed27f8380d13346090ebbc977b5012513ff4e91b1267e29",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/holdout_transfer.py",
+    "published": "src/maker_hybrid/holdout_transfer.py",
+    "source_sha256": "dda7e499e53343c209f762b7abc4204fe7b16143af3a07fbd80cba0973bd50e4",
+    "published_sha256": "dda7e499e53343c209f762b7abc4204fe7b16143af3a07fbd80cba0973bd50e4",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/prepare60.py",
+    "published": "src/maker_hybrid/prepare60.py",
+    "source_sha256": "7e387d192e4a4bca2138b4bec1cb422b8f9b34d1a1b0e06bbc9111c50e0b0389",
+    "published_sha256": "7e387d192e4a4bca2138b4bec1cb422b8f9b34d1a1b0e06bbc9111c50e0b0389",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/diagnostics.py",
+    "published": "src/maker_hybrid/diagnostics.py",
+    "source_sha256": "9ab716889e6a5c83dbe901fd488719a58fbdc0d8bfbf73007ae26c4ceaacc9b8",
+    "published_sha256": "9ab716889e6a5c83dbe901fd488719a58fbdc0d8bfbf73007ae26c4ceaacc9b8",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/logistic.py",
+    "published": "src/maker_hybrid/logistic.py",
+    "source_sha256": "36ec5b93d6586a383d0c327129d6d7c7f3dc36d12b843188ee29dac350790043",
+    "published_sha256": "df40d74b5cbbb72e4b3652b59ef4770ac6649fc6bb54299141a9265816d406bb",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/submission.py",
+    "published": "src/maker_hybrid/submission.py",
+    "source_sha256": "4bac649e89e917a43c66cb0c29686d4c8fd861550e91879ccbcf6639b446a32a",
+    "published_sha256": "4bac649e89e917a43c66cb0c29686d4c8fd861550e91879ccbcf6639b446a32a",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/policy.py",
+    "published": "src/maker_hybrid/policy.py",
+    "source_sha256": "02612973f318a181afc67b4fc1f620a48debea475eeaa754607001773072c6b2",
+    "published_sha256": "02612973f318a181afc67b4fc1f620a48debea475eeaa754607001773072c6b2",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/baseline60.py",
+    "published": "src/maker_hybrid/baseline60.py",
+    "source_sha256": "fb5cc4875dfdee89a0d9587dbea18f10c4d8e90bd8cc20859f02b60eb022d3ea",
+    "published_sha256": "fb5cc4875dfdee89a0d9587dbea18f10c4d8e90bd8cc20859f02b60eb022d3ea",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/__init__.py",
+    "published": "src/maker_hybrid/__init__.py",
+    "source_sha256": "cc9db42fda1c8408336160895d7e45b6e0fb6e8eeeb02acd1c86cd198defb396",
+    "published_sha256": "cc9db42fda1c8408336160895d7e45b6e0fb6e8eeeb02acd1c86cd198defb396",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/features.py",
+    "published": "src/maker_hybrid/features.py",
+    "source_sha256": "15e55aff0e39de2b46a7a06fd24cd277273c7d35f4cca3e8bff31b8c16c41405",
+    "published_sha256": "15e55aff0e39de2b46a7a06fd24cd277273c7d35f4cca3e8bff31b8c16c41405",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/core.py",
+    "published": "src/maker_hybrid/core.py",
+    "source_sha256": "a50ba46833e08123ef9caf1487c671c7714ee3238b64cc423d4756bc1c89e534",
+    "published_sha256": "ad313ea8f2848838879439a4d1e9cd9ac9ffed99cc9a727c8a2f612596937717",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/catboost_check_inference.py",
+    "published": "src/maker_hybrid/catboost_check_inference.py",
+    "source_sha256": "6bb1943074d5bab0554da4171f1f9ee7d1e327fcaa716c6926af80dfee1b6c94",
+    "published_sha256": "6bb1943074d5bab0554da4171f1f9ee7d1e327fcaa716c6926af80dfee1b6c94",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/check_inference.py",
+    "published": "src/maker_hybrid/check_inference.py",
+    "source_sha256": "450c97ff992f28e1be5fcd3626c0fab64da9089d2a2adef28969ccd7c05679ce",
+    "published_sha256": "450c97ff992f28e1be5fcd3626c0fab64da9089d2a2adef28969ccd7c05679ce",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/evaluate.py",
+    "published": "src/maker_hybrid/evaluate.py",
+    "source_sha256": "a9b518f5e0fef8658164ea6e8df893538cdf81c02c8b8881b8b18e4a350b894e",
+    "published_sha256": "a9b518f5e0fef8658164ea6e8df893538cdf81c02c8b8881b8b18e4a350b894e",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/price_sensitivity.py",
+    "published": "src/maker_hybrid/price_sensitivity.py",
+    "source_sha256": "47af0592bd0e8845f8394945f7c290a37e155afbd97b59e7752d617193490c3a",
+    "published_sha256": "47af0592bd0e8845f8394945f7c290a37e155afbd97b59e7752d617193490c3a",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/catboost_experiment.py",
+    "published": "src/maker_hybrid/catboost_experiment.py",
+    "source_sha256": "a3ff90d4d14c5bcdaa9ffd3b47d51197ece0fe775c8f4f01e7624d6024739a2d",
+    "published_sha256": "67e531e70201908d390a7370b38ed5440e6cb85a0b24357cf3e1b7233b01bf00",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "maker_hybrid/prepare.py",
+    "published": "src/maker_hybrid/prepare.py",
+    "source_sha256": "b65dd3eb8f449a658020dafadcad52df405160a3f0f01b4f2ee440b9e262c489",
+    "published_sha256": "b65dd3eb8f449a658020dafadcad52df405160a3f0f01b4f2ee440b9e262c489",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "submission.py",
+    "published": "submission.py",
+    "source_sha256": "9dda9cdcd59d8b076d5edef534e23ae3fae32ba10bb0bcd7b3514908624550c9",
+    "published_sha256": "aaeacfc8c173b7198a81c6eb38ca0810cafaab0874b41d4607aa4502bb07415e",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "catboost_submission.py",
+    "published": "catboost_submission.py",
+    "source_sha256": "04db51f14cfb019e0190a9ff9590d460afe09e7318c7f206e23e4c9a238c38b5",
+    "published_sha256": "04db51f14cfb019e0190a9ff9590d460afe09e7318c7f206e23e4c9a238c38b5",
+    "kind": "source: relocation only"
+  },
+  {
+    "source": "Data Quality.ipynb",
+    "published": "src/data_quality_audit.py",
+    "source_sha256": "30fa9aad51ff77fcc02402d5ca9d8d4a366a888e3df938edbfa093772ec82494",
+    "published_sha256": "a5e60760005dcb50cf3c8f731b03454a747fdacf6ce3d54a3e54574c39ed6cdf",
+    "kind": "extracted functions; see cell mapping in docs/publication_audit.md"
+  },
+  {
+    "source": "data_quality_artifacts/environment.json",
+    "published": "artifacts/results/quality/environment.json",
+    "source_sha256": "53f4402469b0ed9a2a9854bd5922e9871a31bb35e7bf8c91945003df799f999c",
+    "published_sha256": "53f4402469b0ed9a2a9854bd5922e9871a31bb35e7bf8c91945003df799f999c",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "data_quality_artifacts/source_integrity_verification.csv",
+    "published": "artifacts/results/quality/source_integrity_verification.csv",
+    "source_sha256": "c9bc5c04d006c71a1fbb82444340e267569d7fc6d478008b925ae4776d9b6b2f",
+    "published_sha256": "856050abbf671dd8df39c10cda2698cbcfcd4698964114ae1ac1ab80f600dc37",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "data_quality_artifacts/source_manifest.csv",
+    "published": "artifacts/results/quality/source_manifest.csv",
+    "source_sha256": "4a87eb5fd53dfee5d2b6f541244e5b8e18f42b298e5aefb9127b8291066c6535",
+    "published_sha256": "baedf5d4cb31c3e4ebc08f407fac0c68c532504f7af6b8becde8020f55cecefb",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "data_quality_artifacts/summary.csv",
+    "published": "artifacts/results/quality/summary.csv",
+    "source_sha256": "990dc1c81f8c9c5dbc764c7f1635a5805d15e116a537130cf2025181b4f8d830",
+    "published_sha256": "1822e9e87d1f962694418f5f2ad61e9d5434bb53b4f115dd652f3926991201f7",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "data_quality_artifacts/window_reconciliation.csv",
+    "published": "artifacts/results/quality/window_reconciliation.csv",
+    "source_sha256": "83269e244f9b9556572bf4278aa2116495e529150c6594254eefe4315b97965c",
+    "published_sha256": "83269e244f9b9556572bf4278aa2116495e529150c6594254eefe4315b97965c",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/classification_summary.csv",
+    "published": "artifacts/results/bursts/classification_summary.csv",
+    "source_sha256": "2376d376dbde3686cf2423c0a6e8168504c7199f81393b18f2bd15ba6ef515df",
+    "published_sha256": "2376d376dbde3686cf2423c0a6e8168504c7199f81393b18f2bd15ba6ef515df",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/daily_market_comparison.csv",
+    "published": "artifacts/results/bursts/daily_market_comparison.csv",
+    "source_sha256": "e639eebff950f900a69196e97363a39562bf182eeb9f09d9af1af7b291019385",
+    "published_sha256": "e639eebff950f900a69196e97363a39562bf182eeb9f09d9af1af7b291019385",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/direction_comparison.csv",
+    "published": "artifacts/results/bursts/direction_comparison.csv",
+    "source_sha256": "7c7654f095e17b1e5730f9d00d950554a2133cc3e72675ad3cd33ad92f72c651",
+    "published_sha256": "7c7654f095e17b1e5730f9d00d950554a2133cc3e72675ad3cd33ad92f72c651",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/frozen_config.json",
+    "published": "artifacts/results/bursts/frozen_config.json",
+    "source_sha256": "9182c9b74dc2804799e5ca806a9ab6c55392f4a4ba0f23cdd97ef6de90bf88f2",
+    "published_sha256": "9182c9b74dc2804799e5ca806a9ab6c55392f4a4ba0f23cdd97ef6de90bf88f2",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/liquidation_quality.csv",
+    "published": "artifacts/results/bursts/liquidation_quality.csv",
+    "source_sha256": "efd19c96f6348a082f7a9059ba3769b725bdb98f2abdf099d250b198d3605668",
+    "published_sha256": "efd19c96f6348a082f7a9059ba3769b725bdb98f2abdf099d250b198d3605668",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/market_comparison.csv",
+    "published": "artifacts/results/bursts/market_comparison.csv",
+    "source_sha256": "4f706b2184862cf03929ab0913a9370c091ed66a1aad862999c3b3b8d9006792",
+    "published_sha256": "4f706b2184862cf03929ab0913a9370c091ed66a1aad862999c3b3b8d9006792",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/quality_summary.csv",
+    "published": "artifacts/results/bursts/quality_summary.csv",
+    "source_sha256": "3bf833181f59cf23bc220160aa6c6cc38d659f4bc1f8ba91d61294eca4734e63",
+    "published_sha256": "07f9fbf0bea085e7a47babbb8318d169b069e7262bdfc147f4f1cf1fb08ee3b3",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/raw_reconciliation.csv",
+    "published": "artifacts/results/bursts/raw_reconciliation.csv",
+    "source_sha256": "e980ab14a194c99033b0650b83ac2bcd57f05b5cf21d6038bfb675294dbd5d06",
+    "published_sha256": "e980ab14a194c99033b0650b83ac2bcd57f05b5cf21d6038bfb675294dbd5d06",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/sensitivity.csv",
+    "published": "artifacts/results/bursts/sensitivity.csv",
+    "source_sha256": "4ea4fbb8247d0579d30aee9fe0f5c065f18855b37d499d8ac6fb9e370bc526a4",
+    "published_sha256": "4ea4fbb8247d0579d30aee9fe0f5c065f18855b37d499d8ac6fb9e370bc526a4",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/source_verification.csv",
+    "published": "artifacts/results/bursts/source_verification.csv",
+    "source_sha256": "4bed0603191ab7ec73eff13de3d792b4f6fbb39b99c60f9896273b2a607d3407",
+    "published_sha256": "46d7bf6753f58b368ae67e91a8466289e64f2ba66f91334578971d1718e9bd3a",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/thresholds.csv",
+    "published": "artifacts/results/bursts/thresholds.csv",
+    "source_sha256": "29384151a56b1e1014823389df23178a711641257a732733163c5a069cb13a6a",
+    "published_sha256": "29384151a56b1e1014823389df23178a711641257a732733163c5a069cb13a6a",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/trade_duplicate_confirmation_sensitivity.csv",
+    "published": "artifacts/results/bursts/trade_duplicate_confirmation_sensitivity.csv",
+    "source_sha256": "3f0bc79541b9ca8f1c6e4b78379ec8bd2dcb21a7c7f56ad34bb7a85fe9943826",
+    "published_sha256": "3f0bc79541b9ca8f1c6e4b78379ec8bd2dcb21a7c7f56ad34bb7a85fe9943826",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/trade_duplicate_sensitivity_sample.csv",
+    "published": "artifacts/results/bursts/trade_duplicate_sensitivity_sample.csv",
+    "source_sha256": "1fe9e0f97e56266a287529707d57bc848e494a3163663e5308a27c312fa0deb5",
+    "published_sha256": "1fe9e0f97e56266a287529707d57bc848e494a3163663e5308a27c312fa0deb5",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_burst_artifacts/train_threshold_exploration.csv",
+    "published": "artifacts/results/bursts/train_threshold_exploration.csv",
+    "source_sha256": "ec75542d57fbddf58389e09f5887bf81f81f64984bef60407b60cb9a82610c36",
+    "published_sha256": "ec75542d57fbddf58389e09f5887bf81f81f64984bef60407b60cb9a82610c36",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_followthrough_artifacts/during_summary.csv",
+    "published": "artifacts/results/followthrough/during_summary.csv",
+    "source_sha256": "81e03639daaf01de50d84695cb43003451c6bb8c1a41635d8decf79fd53517f5",
+    "published_sha256": "81e03639daaf01de50d84695cb43003451c6bb8c1a41635d8decf79fd53517f5",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_followthrough_artifacts/isolation_sensitivity.csv",
+    "published": "artifacts/results/followthrough/isolation_sensitivity.csv",
+    "source_sha256": "1776b1f13fcc7204dbfbb96beecf641a94956d3fdf33f03e0d42557f04bbc35d",
+    "published_sha256": "1776b1f13fcc7204dbfbb96beecf641a94956d3fdf33f03e0d42557f04bbc35d",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_followthrough_artifacts/outcome_coverage.csv",
+    "published": "artifacts/results/followthrough/outcome_coverage.csv",
+    "source_sha256": "a767ac13d45c018ced3a6776d3945f49680e722a932c342117794f392fefba0e",
+    "published_sha256": "a767ac13d45c018ced3a6776d3945f49680e722a932c342117794f392fefba0e",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_followthrough_artifacts/price_summary.csv",
+    "published": "artifacts/results/followthrough/price_summary.csv",
+    "source_sha256": "e481055a241885e74c4ba281a145f7c103a2737c2a75f0b78f529a21fe382a8b",
+    "published_sha256": "e481055a241885e74c4ba281a145f7c103a2737c2a75f0b78f529a21fe382a8b",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_followthrough_artifacts/raw_bbo_reconciliation.csv",
+    "published": "artifacts/results/followthrough/raw_bbo_reconciliation.csv",
+    "source_sha256": "d0c9ea870850fe9ad034ed536b0c4a363314109421d56eb0b2914480c1abc743",
+    "published_sha256": "d0c9ea870850fe9ad034ed536b0c4a363314109421d56eb0b2914480c1abc743",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_followthrough_artifacts/venue_summary.csv",
+    "published": "artifacts/results/followthrough/venue_summary.csv",
+    "source_sha256": "cbf1c167747122ee749d5d68df0cefdce7e70e3624173753db89a7c837a9e96c",
+    "published_sha256": "cbf1c167747122ee749d5d68df0cefdce7e70e3624173753db89a7c837a9e96c",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_followthrough_artifacts/volatility_summary.csv",
+    "published": "artifacts/results/followthrough/volatility_summary.csv",
+    "source_sha256": "633b5077d8bd43061a540930181b825eb0c4e79b595305ee12b0eefce140c7de",
+    "published_sha256": "633b5077d8bd43061a540930181b825eb0c4e79b595305ee12b0eefce140c7de",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/calendar_split.csv",
+    "published": "artifacts/results/early_warning/calendar_split.csv",
+    "source_sha256": "f205c521bf8fa27bc8a4da606982612f80a0fe5381fd20c1817cf023f8c1f218",
+    "published_sha256": "f205c521bf8fa27bc8a4da606982612f80a0fe5381fd20c1817cf023f8c1f218",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/daily_metrics.csv",
+    "published": "artifacts/results/early_warning/daily_metrics.csv",
+    "source_sha256": "df0ec6277d8d826206acb1f62396f4b4aa80af9ec801985072a2ddb2ea42a026",
+    "published_sha256": "df0ec6277d8d826206acb1f62396f4b4aa80af9ec801985072a2ddb2ea42a026",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/environment.json",
+    "published": "artifacts/results/early_warning/environment.json",
+    "source_sha256": "02f7ac0e1bc4c20549f40a9ff125ed1d675f8ae11d56f9e5205dc251f1b6a8f4",
+    "published_sha256": "02f7ac0e1bc4c20549f40a9ff125ed1d675f8ae11d56f9e5205dc251f1b6a8f4",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/experiment_specification.json",
+    "published": "artifacts/results/early_warning/experiment_specification.json",
+    "source_sha256": "bf34d5ad39bc531ad06ffe3e606d7aafe4cd4ded3f92d84b4ca5223d164d5263",
+    "published_sha256": "bf34d5ad39bc531ad06ffe3e606d7aafe4cd4ded3f92d84b4ca5223d164d5263",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/feature_build_summary.csv",
+    "published": "artifacts/results/early_warning/feature_build_summary.csv",
+    "source_sha256": "1238b41ab99cd207fb1c772fcf05e1e4418a683d07290c0622e12aef916f0c45",
+    "published_sha256": "1238b41ab99cd207fb1c772fcf05e1e4418a683d07290c0622e12aef916f0c45",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/feature_columns.json",
+    "published": "artifacts/results/early_warning/feature_columns.json",
+    "source_sha256": "b4a2be0cc7a70da9d5a14f8c4d45622322b6b0d9f83fed52089b5d7f9e571608",
+    "published_sha256": "b4a2be0cc7a70da9d5a14f8c4d45622322b6b0d9f83fed52089b5d7f9e571608",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/feature_importance.csv",
+    "published": "artifacts/results/early_warning/feature_importance.csv",
+    "source_sha256": "8557ee04591aea840b2e39c6aa4a380c40376a8a2b3aa524ab79247826e2049c",
+    "published_sha256": "8557ee04591aea840b2e39c6aa4a380c40376a8a2b3aa524ab79247826e2049c",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/frozen_models.json",
+    "published": "artifacts/results/early_warning/frozen_models.json",
+    "source_sha256": "bbf2c762000194d8f0e6ac64b9d62622b4d005242a7f8669a81a4194d66be234",
+    "published_sha256": "bbf2c762000194d8f0e6ac64b9d62622b4d005242a7f8669a81a4194d66be234",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/model_metrics.csv",
+    "published": "artifacts/results/early_warning/model_metrics.csv",
+    "source_sha256": "8d22573e53f603f8921d94932f8c71440273b53d49e6336d645273b45655096e",
+    "published_sha256": "8d22573e53f603f8921d94932f8c71440273b53d49e6336d645273b45655096e",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/paired_day_bootstrap.csv",
+    "published": "artifacts/results/early_warning/paired_day_bootstrap.csv",
+    "source_sha256": "49cddd6df269896b24b3e8b361cb6f94a020f07937c36074e7455c31a677fcc4",
+    "published_sha256": "49cddd6df269896b24b3e8b361cb6f94a020f07937c36074e7455c31a677fcc4",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/population_attrition.csv",
+    "published": "artifacts/results/early_warning/population_attrition.csv",
+    "source_sha256": "c8182acae7cc98c29259a7d69578bd93e10fcd269907143e401018c4586e32fd",
+    "published_sha256": "c8182acae7cc98c29259a7d69578bd93e10fcd269907143e401018c4586e32fd",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/probability_calibration.csv",
+    "published": "artifacts/results/early_warning/probability_calibration.csv",
+    "source_sha256": "811043cf00be875fc1a96674ca39ebea1ef44753ac10b47fd66d5bccf468b734",
+    "published_sha256": "811043cf00be875fc1a96674ca39ebea1ef44753ac10b47fd66d5bccf468b734",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/training_population.csv",
+    "published": "artifacts/results/early_warning/training_population.csv",
+    "source_sha256": "e7b65f578c08045d7fd9b1fb0be45ed5421a7aa76c1e269a35928650f25a2e55",
+    "published_sha256": "e7b65f578c08045d7fd9b1fb0be45ed5421a7aa76c1e269a35928650f25a2e55",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/transition_matrix_btcusdt.csv",
+    "published": "artifacts/results/early_warning/transition_matrix_btcusdt.csv",
+    "source_sha256": "c8a0751e19d017af96fa4205690c92fd98a65058ee7b218c1223521e91e2d499",
+    "published_sha256": "c8a0751e19d017af96fa4205690c92fd98a65058ee7b218c1223521e91e2d499",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_early_warning_artifacts/transition_matrix_ethusdt.csv",
+    "published": "artifacts/results/early_warning/transition_matrix_ethusdt.csv",
+    "source_sha256": "8107b965c4320206c84451007c83876de1a71839d0070e6d24258a6adc492c1f",
+    "published_sha256": "8107b965c4320206c84451007c83876de1a71839d0070e6d24258a6adc492c1f",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_validation_artifacts/return_by_side_validation.csv",
+    "published": "artifacts/results/statistics/return_by_side_validation.csv",
+    "source_sha256": "4de0b16b6dcc38ee744cc725f9d755e48aede98b3936963120d488a76325e70e",
+    "published_sha256": "4de0b16b6dcc38ee744cc725f9d755e48aede98b3936963120d488a76325e70e",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_validation_artifacts/return_robustness_validation.csv",
+    "published": "artifacts/results/statistics/return_robustness_validation.csv",
+    "source_sha256": "c0423f00c802cfcc29bc494ff291a5ee77ad08430b150d17c21933bb18266c9f",
+    "published_sha256": "c0423f00c802cfcc29bc494ff291a5ee77ad08430b150d17c21933bb18266c9f",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_validation_artifacts/statistical_daily_aggregates.csv",
+    "published": "artifacts/results/statistics/statistical_daily_aggregates.csv",
+    "source_sha256": "336353d5f9022f9f202bbacc03f733ceac1c44bdebe6a249adca8a3f6741ecee",
+    "published_sha256": "336353d5f9022f9f202bbacc03f733ceac1c44bdebe6a249adca8a3f6741ecee",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "liquidation_validation_artifacts/statistical_tests_validation.csv",
+    "published": "artifacts/results/statistics/statistical_tests_validation.csv",
+    "source_sha256": "c77b08fe73147ecdb15afa0c17452aa2faa09b81b15c90951e93d872e61f6bfe",
+    "published_sha256": "c77b08fe73147ecdb15afa0c17452aa2faa09b81b15c90951e93d872e61f6bfe",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/attrition_development.csv",
+    "published": "artifacts/results/evt/modeling/attrition_development.csv",
+    "source_sha256": "e92e039b05ea57cee0252d8f446e172e3ac00cdd0d2bfd9d66d1d4a488826604",
+    "published_sha256": "e92e039b05ea57cee0252d8f446e172e3ac00cdd0d2bfd9d66d1d4a488826604",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/attrition_test.csv",
+    "published": "artifacts/results/evt/modeling/attrition_test.csv",
+    "source_sha256": "c404dae5735721ea2865ed79b4fe390be87d2e88ec4379e9b53fc0d87fcc973b",
+    "published_sha256": "c404dae5735721ea2865ed79b4fe390be87d2e88ec4379e9b53fc0d87fcc973b",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/daily_squared_errors.csv",
+    "published": "artifacts/results/evt/modeling/daily_squared_errors.csv",
+    "source_sha256": "04c8bb96962f931da5bb552373c7b9c0932ce6d94fee226ecdd2ce05041db24b",
+    "published_sha256": "04c8bb96962f931da5bb552373c7b9c0932ce6d94fee226ecdd2ce05041db24b",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/development_population.csv",
+    "published": "artifacts/results/evt/modeling/development_population.csv",
+    "source_sha256": "193b0a9f0d156adcc4bff9babb0f69db9130ff7a9cac05e8a750c3af1f8b8047",
+    "published_sha256": "193b0a9f0d156adcc4bff9babb0f69db9130ff7a9cac05e8a750c3af1f8b8047",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/frozen_selection.json",
+    "published": "artifacts/results/evt/modeling/frozen_selection.json",
+    "source_sha256": "36b30e5a9712a98b39bedd7b6198563c319abb36241016a210efbef69a4b332d",
+    "published_sha256": "36b30e5a9712a98b39bedd7b6198563c319abb36241016a210efbef69a4b332d",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/inspection_5s/lightgbm_feature_importance_5s.csv",
+    "published": "artifacts/results/evt/modeling/inspection_5s/lightgbm_feature_importance_5s.csv",
+    "source_sha256": "b81bd39bcaff2110ec57c662d2d1c77678a1c50cdcf31b1d2d6969a354ba6e07",
+    "published_sha256": "b81bd39bcaff2110ec57c662d2d1c77678a1c50cdcf31b1d2d6969a354ba6e07",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/inspection_5s/lightgbm_leaf_values_5s.csv",
+    "published": "artifacts/results/evt/modeling/inspection_5s/lightgbm_leaf_values_5s.csv",
+    "source_sha256": "905ff95fc1f4ec6851d41e56b0dc19da0101db351a0c737b07b39569adcaf9c9",
+    "published_sha256": "905ff95fc1f4ec6851d41e56b0dc19da0101db351a0c737b07b39569adcaf9c9",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/inspection_5s/lightgbm_splits_5s.csv",
+    "published": "artifacts/results/evt/modeling/inspection_5s/lightgbm_splits_5s.csv",
+    "source_sha256": "7b8af51f6e1a23e0fe397503fe2df12d8717c5f7ee871ae6fa9dcff4a13e1779",
+    "published_sha256": "7b8af51f6e1a23e0fe397503fe2df12d8717c5f7ee871ae6fa9dcff4a13e1779",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/inspection_5s/logistic_coefficients_5s.csv",
+    "published": "artifacts/results/evt/modeling/inspection_5s/logistic_coefficients_5s.csv",
+    "source_sha256": "6a882f9f407fd2c01efa76037c91690e2a66a0f4324d12edd5fb473644803f5c",
+    "published_sha256": "6a882f9f407fd2c01efa76037c91690e2a66a0f4324d12edd5fb473644803f5c",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/paired_day_mse_intervals.csv",
+    "published": "artifacts/results/evt/modeling/paired_day_mse_intervals.csv",
+    "source_sha256": "74e8aa15d66915694e3a77a29eb8d5c167afd9fa401c1eb9c0f3866a88d826aa",
+    "published_sha256": "74e8aa15d66915694e3a77a29eb8d5c167afd9fa401c1eb9c0f3866a88d826aa",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/probability_calibration.csv",
+    "published": "artifacts/results/evt/modeling/probability_calibration.csv",
+    "source_sha256": "4c5c3fa66b06b4cc10e1998955e86744b5c7da115ba8044626b889746502c4b5",
+    "published_sha256": "4c5c3fa66b06b4cc10e1998955e86744b5c7da115ba8044626b889746502c4b5",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/search_specification.json",
+    "published": "artifacts/results/evt/modeling/search_specification.json",
+    "source_sha256": "4beec737e3acd58126a0509c063856c8723a8a6f0203c1810c07953f0e1c4239",
+    "published_sha256": "4beec737e3acd58126a0509c063856c8723a8a6f0203c1810c07953f0e1c4239",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/selected_parameters.csv",
+    "published": "artifacts/results/evt/modeling/selected_parameters.csv",
+    "source_sha256": "795ee0df3a3c8cedfbb0186a262e3b1618ec70e64f3c810fa4ef328016c35169",
+    "published_sha256": "795ee0df3a3c8cedfbb0186a262e3b1618ec70e64f3c810fa4ef328016c35169",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/test_metrics.csv",
+    "published": "artifacts/results/evt/modeling/test_metrics.csv",
+    "source_sha256": "bfd0ba73b607199857d83de0cfc70fe59fcaa49da1542a9b443cb12a1b0856bc",
+    "published_sha256": "bfd0ba73b607199857d83de0cfc70fe59fcaa49da1542a9b443cb12a1b0856bc",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/validation_metrics.csv",
+    "published": "artifacts/results/evt/modeling/validation_metrics.csv",
+    "source_sha256": "a38fc409ec2cc56f6acd654840a3bd10929e9b4494dfe018e34dc7eaa6171fcb",
+    "published_sha256": "a38fc409ec2cc56f6acd654840a3bd10929e9b4494dfe018e34dc7eaa6171fcb",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/modeling/validation_search.csv",
+    "published": "artifacts/results/evt/modeling/validation_search.csv",
+    "source_sha256": "c3e6093762ccba88d17cf2afae837826c2c56c12342928c907141eea929acbd4",
+    "published_sha256": "c3e6093762ccba88d17cf2afae837826c2c56c12342928c907141eea929acbd4",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/reduced_5s/metrics.csv",
+    "published": "artifacts/results/evt/reduced_5s/metrics.csv",
+    "source_sha256": "629ffcbd7bb1b375967352f03e20cb4a72a1e4d3543b10b8ad08860781ae10f6",
+    "published_sha256": "629ffcbd7bb1b375967352f03e20cb4a72a1e4d3543b10b8ad08860781ae10f6",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/reduced_5s/parameters.json",
+    "published": "artifacts/results/evt/reduced_5s/parameters.json",
+    "source_sha256": "0e368530cd39df735b7a48826086db376bdd36fb3805c2321b342dc9a78d03f6",
+    "published_sha256": "0e368530cd39df735b7a48826086db376bdd36fb3805c2321b342dc9a78d03f6",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/reduced_5s/test_evaluation/calibration/calibration_bins.csv",
+    "published": "artifacts/results/evt/reduced_5s/test_evaluation/calibration/calibration_bins.csv",
+    "source_sha256": "d5486142c9bad25f4dfde061a6874585e3f5c418c6fd7a6854ae0c26f3837dab",
+    "published_sha256": "d5486142c9bad25f4dfde061a6874585e3f5c418c6fd7a6854ae0c26f3837dab",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/reduced_5s/test_evaluation/calibration/calibration_metrics.csv",
+    "published": "artifacts/results/evt/reduced_5s/test_evaluation/calibration/calibration_metrics.csv",
+    "source_sha256": "f4c461f345e33ef2338e4bb369d3ea89606ac257064c248e82f3f796adede7e1",
+    "published_sha256": "f4c461f345e33ef2338e4bb369d3ea89606ac257064c248e82f3f796adede7e1",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/reduced_5s/test_evaluation/calibration/method.json",
+    "published": "artifacts/results/evt/reduced_5s/test_evaluation/calibration/method.json",
+    "source_sha256": "70537272b376e0f47aeb502dff94b5d96af6c22c2670efe693a9ed8f399031de",
+    "published_sha256": "70537272b376e0f47aeb502dff94b5d96af6c22c2670efe693a9ed8f399031de",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/reduced_5s/test_evaluation/comparison_by_split.csv",
+    "published": "artifacts/results/evt/reduced_5s/test_evaluation/comparison_by_split.csv",
+    "source_sha256": "cf5f38b80b97c024c6570a9d63a45a780948de06b8413f71c987d138bc5e4217",
+    "published_sha256": "cf5f38b80b97c024c6570a9d63a45a780948de06b8413f71c987d138bc5e4217",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/reduced_5s/test_evaluation/frozen_evaluation.json",
+    "published": "artifacts/results/evt/reduced_5s/test_evaluation/frozen_evaluation.json",
+    "source_sha256": "e100dc630de54c59608dbd7f03e250163fa1c782e6a51b7a09a5e232d3c1c187",
+    "published_sha256": "bcdd7bdd3b46e60648b09c9546efc482c57829c857552c83b3c65836195f67c6",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/reduced_5s/test_evaluation/paired_day_mse_intervals.csv",
+    "published": "artifacts/results/evt/reduced_5s/test_evaluation/paired_day_mse_intervals.csv",
+    "source_sha256": "271e4f724f18c4e0b6ce6914b189252a8c61f792eb3040046bb4b80ae0843d53",
+    "published_sha256": "271e4f724f18c4e0b6ce6914b189252a8c61f792eb3040046bb4b80ae0843d53",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/reduced_5s/test_evaluation/test_metrics.csv",
+    "published": "artifacts/results/evt/reduced_5s/test_evaluation/test_metrics.csv",
+    "source_sha256": "8320e6ea1ef12de2ef6829ac8d4ce3c13f8786a5a0383dad2526087afc5a1372",
+    "published_sha256": "8320e6ea1ef12de2ef6829ac8d4ce3c13f8786a5a0383dad2526087afc5a1372",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/source_split_rows.csv",
+    "published": "artifacts/results/evt/source_split_rows.csv",
+    "source_sha256": "99e7bb53bbd430bda1aaab5a6c1a5a8ff0cd137efeb798a3c36b6fc9f852a77a",
+    "published_sha256": "99e7bb53bbd430bda1aaab5a6c1a5a8ff0cd137efeb798a3c36b6fc9f852a77a",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/split_calendar.csv",
+    "published": "artifacts/results/evt/split_calendar.csv",
+    "source_sha256": "aa5a0909e3eb83aec71091c4054fe2a56efd0531ec007334c76854a15c55ddf2",
+    "published_sha256": "aa5a0909e3eb83aec71091c4054fe2a56efd0531ec007334c76854a15c55ddf2",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/split_specification.json",
+    "published": "artifacts/results/evt/split_specification.json",
+    "source_sha256": "c73b362278898567eb713bf94ffb9a452e68bb3f63d3c0e8474f2901293f3e45",
+    "published_sha256": "c73b362278898567eb713bf94ffb9a452e68bb3f63d3c0e8474f2901293f3e45",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "evt_log_cond_artifacts/split_summary.csv",
+    "published": "artifacts/results/evt/split_summary.csv",
+    "source_sha256": "e5b9c66d715a3ce6336543496b1a436e4c37aab423384f635308a37de5227f1e",
+    "published_sha256": "e5b9c66d715a3ce6336543496b1a436e4c37aab423384f635308a37de5227f1e",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/all_validation_results.csv",
+    "published": "artifacts/results/maker/all_validation_results.csv",
+    "source_sha256": "24aac484738c689f5c648019ba215dd4b5f530f03c135bf407e8a097d86300ab",
+    "published_sha256": "24aac484738c689f5c648019ba215dd4b5f530f03c135bf407e8a097d86300ab",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/baseline60_daily.csv",
+    "published": "artifacts/results/maker/baseline60_daily.csv",
+    "source_sha256": "384018c1e3a95763619432da49a5447b124a9b2060cd8a4e4e7ad0bcd68770ed",
+    "published_sha256": "384018c1e3a95763619432da49a5447b124a9b2060cd8a4e4e7ad0bcd68770ed",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/baseline60_policies.json",
+    "published": "artifacts/results/maker/baseline60_policies.json",
+    "source_sha256": "f0c48768984df953b3cf35f1f8d8bff1cc3ffa0d09024d56770f2d2760316ab4",
+    "published_sha256": "f0c48768984df953b3cf35f1f8d8bff1cc3ffa0d09024d56770f2d2760316ab4",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/baseline60_report.csv",
+    "published": "artifacts/results/maker/baseline60_report.csv",
+    "source_sha256": "fc78e5384e0f63afc5c9ba0a6ccb4bd6473a6cdeae40ef907b091745739fbb90",
+    "published_sha256": "fc78e5384e0f63afc5c9ba0a6ccb4bd6473a6cdeae40ef907b091745739fbb90",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/baseline_daily.csv",
+    "published": "artifacts/results/maker/baseline_daily.csv",
+    "source_sha256": "3a33ee4d71efdbb912840faba9088b3f91c8a0930bfd2a7ef28ba7abebe5eb77",
+    "published_sha256": "3a33ee4d71efdbb912840faba9088b3f91c8a0930bfd2a7ef28ba7abebe5eb77",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/baseline_summary.csv",
+    "published": "artifacts/results/maker/baseline_summary.csv",
+    "source_sha256": "192b7a2a658f913474d8f1966720e2fe8a56ba95c78e7821db8d75d5f5e27796",
+    "published_sha256": "192b7a2a658f913474d8f1966720e2fe8a56ba95c78e7821db8d75d5f5e27796",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/bbo_gap_daily.csv",
+    "published": "artifacts/results/maker/bbo_gap_daily.csv",
+    "source_sha256": "3c6869950bd1307c9633ca697484bb337fddd1201996575bbdab69faa597f8f5",
+    "published_sha256": "3c6869950bd1307c9633ca697484bb337fddd1201996575bbdab69faa597f8f5",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/budget_policies.json",
+    "published": "artifacts/results/maker/budget_policies.json",
+    "source_sha256": "bac2bea2762d261c0220a90f50faa52c258c878ffade3b42d57c10c6b228b25e",
+    "published_sha256": "bac2bea2762d261c0220a90f50faa52c258c878ffade3b42d57c10c6b228b25e",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/distribution_sample_diagnostics.csv",
+    "published": "artifacts/results/maker/distribution_sample_diagnostics.csv",
+    "source_sha256": "8b242f00b45ed0beaff8314b4c97d22e2fa94072297b3eb88b07c41dc3a6a347",
+    "published_sha256": "8b242f00b45ed0beaff8314b4c97d22e2fa94072297b3eb88b07c41dc3a6a347",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/evaluation_complete.json",
+    "published": "artifacts/results/maker/evaluation_complete.json",
+    "source_sha256": "551e22252861ca4b1562bf12bfa847e94d635809a5e2ff3bcbc09cbd8d819395",
+    "published_sha256": "551e22252861ca4b1562bf12bfa847e94d635809a5e2ff3bcbc09cbd8d819395",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/expanded_paired_comparisons.csv",
+    "published": "artifacts/results/maker/expanded_paired_comparisons.csv",
+    "source_sha256": "4f7eb5ea28e9e8b9a4ce6b42a8e56f8177c8ce4adbc88718fe8c5e5f32d6be59",
+    "published_sha256": "4f7eb5ea28e9e8b9a4ce6b42a8e56f8177c8ce4adbc88718fe8c5e5f32d6be59",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/experiment_matrix.csv",
+    "published": "artifacts/results/maker/experiment_matrix.csv",
+    "source_sha256": "4c8016a10ce690538a13f7c5799f3db947b80e020f139325c84b8b3bcd625647",
+    "published_sha256": "4c8016a10ce690538a13f7c5799f3db947b80e020f139325c84b8b3bcd625647",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/experiment_specification.json",
+    "published": "artifacts/results/maker/experiment_specification.json",
+    "source_sha256": "fcc8a48173f0dea4daa4a51c9a2a5623f5936679cc020f2cc1c75dcf5a289774",
+    "published_sha256": "fcc8a48173f0dea4daa4a51c9a2a5623f5936679cc020f2cc1c75dcf5a289774",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/feature_family_importance.csv",
+    "published": "artifacts/results/maker/feature_family_importance.csv",
+    "source_sha256": "73b6cd342fa3f55906be690851a7dc4e72704bbead2b29983e4a658a111adb79",
+    "published_sha256": "73b6cd342fa3f55906be690851a7dc4e72704bbead2b29983e4a658a111adb79",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/feature_importance.csv",
+    "published": "artifacts/results/maker/feature_importance.csv",
+    "source_sha256": "091145c67b30a1b807469c491c521bd0dde7195641fbd334c0fe6c02ba944260",
+    "published_sha256": "091145c67b30a1b807469c491c521bd0dde7195641fbd334c0fe6c02ba944260",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/feature_schema.json",
+    "published": "artifacts/results/maker/feature_schema.json",
+    "source_sha256": "69d26ff4260786762d9f256e2e1fde7f70131450f9666755b8f96f45a59534c1",
+    "published_sha256": "69d26ff4260786762d9f256e2e1fde7f70131450f9666755b8f96f45a59534c1",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/high_feature_correlations.csv",
+    "published": "artifacts/results/maker/high_feature_correlations.csv",
+    "source_sha256": "e44dd554d6921ccc15add153ad080f44a23ed4ba5cce307c7a781badd10d2f08",
+    "published_sha256": "e44dd554d6921ccc15add153ad080f44a23ed4ba5cce307c7a781badd10d2f08",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/hybrid_config.json",
+    "published": "artifacts/results/maker/hybrid_config.json",
+    "source_sha256": "ec636483ac89b19db939b32ef6d21d0f26e5516217fe21f3d0f00c9e1f4d76e6",
+    "published_sha256": "ec636483ac89b19db939b32ef6d21d0f26e5516217fe21f3d0f00c9e1f4d76e6",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/keep_with60_config.json",
+    "published": "artifacts/results/maker/keep_with60_config.json",
+    "source_sha256": "2719f8d1361c99b37d3fb2538a1ab122c4d8f6960a3b931d647ab89ddf16e798",
+    "published_sha256": "2719f8d1361c99b37d3fb2538a1ab122c4d8f6960a3b931d647ab89ddf16e798",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/keep_with60_ranked_config.json",
+    "published": "artifacts/results/maker/keep_with60_ranked_config.json",
+    "source_sha256": "9ac70dfc7a9d6cbe43f3694fd3c241cebc9ed9279bbc0e2d39e58e8d5102d1dc",
+    "published_sha256": "9ac70dfc7a9d6cbe43f3694fd3c241cebc9ed9279bbc0e2d39e58e8d5102d1dc",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/liquidation_price_audit.csv",
+    "published": "artifacts/results/maker/liquidation_price_audit.csv",
+    "source_sha256": "158c8991671f4743c9f24f057b96c5a62f3076f331ed304461bd2adb4ce84091",
+    "published_sha256": "158c8991671f4743c9f24f057b96c5a62f3076f331ed304461bd2adb4ce84091",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/lr_brier_comparison.csv",
+    "published": "artifacts/results/maker/lr_brier_comparison.csv",
+    "source_sha256": "a233489e5da24a7fbe174d2a1c524de883c215a438c09ba97d10daab7dec3af4",
+    "published_sha256": "a233489e5da24a7fbe174d2a1c524de883c215a438c09ba97d10daab7dec3af4",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/lr_calibration_bins.csv",
+    "published": "artifacts/results/maker/lr_calibration_bins.csv",
+    "source_sha256": "3dc7baab4f6d878b6878aef71f9edce666ac5f699c9b1c81abaf80e9f8d5f3e2",
+    "published_sha256": "3dc7baab4f6d878b6878aef71f9edce666ac5f699c9b1c81abaf80e9f8d5f3e2",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/lr_complete.json",
+    "published": "artifacts/results/maker/lr_complete.json",
+    "source_sha256": "e69c834ed73cf6890f95e2e1269a9d37765148bee8fb73d3f66d4b158b20bdef",
+    "published_sha256": "e69c834ed73cf6890f95e2e1269a9d37765148bee8fb73d3f66d4b158b20bdef",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/lr_upper_probability_bins.csv",
+    "published": "artifacts/results/maker/lr_upper_probability_bins.csv",
+    "source_sha256": "c330c9e83bcfe3da998e69d8252f0caf44b42b5df2974cc35433713ac23a8b89",
+    "published_sha256": "c330c9e83bcfe3da998e69d8252f0caf44b42b5df2974cc35433713ac23a8b89",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/lr_validation_metrics.csv",
+    "published": "artifacts/results/maker/lr_validation_metrics.csv",
+    "source_sha256": "5375e04f266642f8c46b1979ee852be234835724779c3b284c8107ac7dd4002d",
+    "published_sha256": "5375e04f266642f8c46b1979ee852be234835724779c3b284c8107ac7dd4002d",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/paired_comparisons.csv",
+    "published": "artifacts/results/maker/paired_comparisons.csv",
+    "source_sha256": "514fefc26770b6745ff70d8f00c0b5cc6e8015f3c37769eb564694b1934ad009",
+    "published_sha256": "514fefc26770b6745ff70d8f00c0b5cc6e8015f3c37769eb564694b1934ad009",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/policy_daily.csv",
+    "published": "artifacts/results/maker/policy_daily.csv",
+    "source_sha256": "92633f0608ea8eed2925920da1328325e05457f08304cba1e7a177025fd388a3",
+    "published_sha256": "92633f0608ea8eed2925920da1328325e05457f08304cba1e7a177025fd388a3",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/preprocessing_state.json",
+    "published": "artifacts/results/maker/preprocessing_state.json",
+    "source_sha256": "8e25cb66a0ad819c5680ccad927d6214990c4f29ec9cbcb03d24a83bbb1b670c",
+    "published_sha256": "8e25cb66a0ad819c5680ccad927d6214990c4f29ec9cbcb03d24a83bbb1b670c",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/price_cleaning_sensitivity_deltas.csv",
+    "published": "artifacts/results/maker/price_cleaning_sensitivity_deltas.csv",
+    "source_sha256": "40bf9f632c1072b68afa0e1b3db65ba16074351cc1c166cae0c14058ba0cd34a",
+    "published_sha256": "40bf9f632c1072b68afa0e1b3db65ba16074351cc1c166cae0c14058ba0cd34a",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/price_cleaning_sensitivity_summary.csv",
+    "published": "artifacts/results/maker/price_cleaning_sensitivity_summary.csv",
+    "source_sha256": "c2c8bfeb425e0e7989f7382c73301f862e1a936358d48351d36a6b3c24f75b43",
+    "published_sha256": "c2c8bfeb425e0e7989f7382c73301f862e1a936358d48351d36a6b3c24f75b43",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/regime_cutoffs.json",
+    "published": "artifacts/results/maker/regime_cutoffs.json",
+    "source_sha256": "f64348c9dee5b7f6dc13e83bc2c0c1393f5c29d9279f4854ebc87edaf7fc47bd",
+    "published_sha256": "f64348c9dee5b7f6dc13e83bc2c0c1393f5c29d9279f4854ebc87edaf7fc47bd",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/regime_scores.csv",
+    "published": "artifacts/results/maker/regime_scores.csv",
+    "source_sha256": "971344681e9c9d5e0616a92289c82ea07ffd93a4beb76eed049087ddf39073c7",
+    "published_sha256": "971344681e9c9d5e0616a92289c82ea07ffd93a4beb76eed049087ddf39073c7",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/regression_error_diagnostics.csv",
+    "published": "artifacts/results/maker/regression_error_diagnostics.csv",
+    "source_sha256": "f232bcb3377c4491da41395fbcd0d7c2b851026163b7f915d1dd4c3f87a66c72",
+    "published_sha256": "f232bcb3377c4491da41395fbcd0d7c2b851026163b7f915d1dd4c3f87a66c72",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/regressor_parameters.json",
+    "published": "artifacts/results/maker/regressor_parameters.json",
+    "source_sha256": "addcf072229548f3ffe911aa5f64bb02bdb97183f685c39d4833a62c2d830754",
+    "published_sha256": "addcf072229548f3ffe911aa5f64bb02bdb97183f685c39d4833a62c2d830754",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/regressors_complete.json",
+    "published": "artifacts/results/maker/regressors_complete.json",
+    "source_sha256": "c0a02556c6503cdd3896c623190206f8edec70afdf9a1a7c4beb46fcd5b3f96b",
+    "published_sha256": "c0a02556c6503cdd3896c623190206f8edec70afdf9a1a7c4beb46fcd5b3f96b",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/submission_config.json",
+    "published": "artifacts/results/maker/submission_config.json",
+    "source_sha256": "9ac70dfc7a9d6cbe43f3694fd3c241cebc9ed9279bbc0e2d39e58e8d5102d1dc",
+    "published_sha256": "9ac70dfc7a9d6cbe43f3694fd3c241cebc9ed9279bbc0e2d39e58e8d5102d1dc",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/threshold_transfer_daily.csv",
+    "published": "artifacts/results/maker/threshold_transfer_daily.csv",
+    "source_sha256": "b0ecb40975d3e0f27c428f6ec4ee2e2ed9e0eb0223312ee453db4e984af28a47",
+    "published_sha256": "b0ecb40975d3e0f27c428f6ec4ee2e2ed9e0eb0223312ee453db4e984af28a47",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/threshold_transfer_report.csv",
+    "published": "artifacts/results/maker/threshold_transfer_report.csv",
+    "source_sha256": "d89d3141ea8f319d4b55e85cf258713bbfb782f31f6307faa45fcc641ccff8c4",
+    "published_sha256": "d89d3141ea8f319d4b55e85cf258713bbfb782f31f6307faa45fcc641ccff8c4",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/validation_report.csv",
+    "published": "artifacts/results/maker/validation_report.csv",
+    "source_sha256": "0c00e83b3f840632faed56b914015a690ed56a2cddaebae13e14f9da92fa2c3e",
+    "published_sha256": "0c00e83b3f840632faed56b914015a690ed56a2cddaebae13e14f9da92fa2c3e",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_artifacts/weekly_scores.csv",
+    "published": "artifacts/results/maker/weekly_scores.csv",
+    "source_sha256": "76cb8a8cd8e93295198c4f301632763d199280efe484de94cf480bfb279208a9",
+    "published_sha256": "76cb8a8cd8e93295198c4f301632763d199280efe484de94cf480bfb279208a9",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/budget_policies.json",
+    "published": "artifacts/results/catboost/v1/budget_policies.json",
+    "source_sha256": "fc6aaa0c842dfd85e14d1ce000f0e7d6bdef007618bdc432ecd33eeb8175f394",
+    "published_sha256": "fc6aaa0c842dfd85e14d1ce000f0e7d6bdef007618bdc432ecd33eeb8175f394",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/catboost_config.json",
+    "published": "artifacts/results/catboost/v1/catboost_config.json",
+    "source_sha256": "71b3ba9e3a0016f130bddf2e8d7e8f91e75e932083b0678626b7108ccabe4e44",
+    "published_sha256": "71b3ba9e3a0016f130bddf2e8d7e8f91e75e932083b0678626b7108ccabe4e44",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/comparison_report.csv",
+    "published": "artifacts/results/catboost/v1/comparison_report.csv",
+    "source_sha256": "f477d0b69769adb7518628c64964e7f6ed97c5192020ca8d59d6fc4f265e6048",
+    "published_sha256": "f477d0b69769adb7518628c64964e7f6ed97c5192020ca8d59d6fc4f265e6048",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/evaluation_complete.json",
+    "published": "artifacts/results/catboost/v1/evaluation_complete.json",
+    "source_sha256": "8664ee35fe745633418c5aacf952c3dc7b16ec1bce15d9e9a4a117598de5bb0f",
+    "published_sha256": "8664ee35fe745633418c5aacf952c3dc7b16ec1bce15d9e9a4a117598de5bb0f",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/experiment_specification.json",
+    "published": "artifacts/results/catboost/v1/experiment_specification.json",
+    "source_sha256": "359e72b1afe175fdd8052fcf27c56b2bedadc2b4e89358f91ef2b56b4e6aa115",
+    "published_sha256": "359e72b1afe175fdd8052fcf27c56b2bedadc2b4e89358f91ef2b56b4e6aa115",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/feature_importance.csv",
+    "published": "artifacts/results/catboost/v1/feature_importance.csv",
+    "source_sha256": "7d4d118211ebfdb8075f8ada5ba8771558d4e47e1603587c50f1e6a6412848d3",
+    "published_sha256": "7d4d118211ebfdb8075f8ada5ba8771558d4e47e1603587c50f1e6a6412848d3",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/paired_e9_e3.csv",
+    "published": "artifacts/results/catboost/v1/paired_e9_e3.csv",
+    "source_sha256": "7535cbdc8a4bac95bf30d268a559c63ed0ca38a55b53d1e6f8331c317a315aa1",
+    "published_sha256": "7535cbdc8a4bac95bf30d268a559c63ed0ca38a55b53d1e6f8331c317a315aa1",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/policy_daily.csv",
+    "published": "artifacts/results/catboost/v1/policy_daily.csv",
+    "source_sha256": "00ea9c5181d226f6bee2c340be2e4f25d48191da8f13e637c8c8e8dc73692c92",
+    "published_sha256": "00ea9c5181d226f6bee2c340be2e4f25d48191da8f13e637c8c8e8dc73692c92",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/regression_error_diagnostics.csv",
+    "published": "artifacts/results/catboost/v1/regression_error_diagnostics.csv",
+    "source_sha256": "a2cacabb4fc197bf1726b11b8fdab782e679ca37c63f22aebb63f21fadf8fa12",
+    "published_sha256": "a2cacabb4fc197bf1726b11b8fdab782e679ca37c63f22aebb63f21fadf8fa12",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/runtime_versions.json",
+    "published": "artifacts/results/catboost/v1/runtime_versions.json",
+    "source_sha256": "d17416c1782f2222178cef90e55112c334e6247f8d2bee0f1d129f2f88ccfe55",
+    "published_sha256": "d17416c1782f2222178cef90e55112c334e6247f8d2bee0f1d129f2f88ccfe55",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/threshold_transfer_daily.csv",
+    "published": "artifacts/results/catboost/v1/threshold_transfer_daily.csv",
+    "source_sha256": "f0d27c48599d133aef7a51e907cfc99e0092db4170fde3b0325b58f88b521ddc",
+    "published_sha256": "f0d27c48599d133aef7a51e907cfc99e0092db4170fde3b0325b58f88b521ddc",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/threshold_transfer_report.csv",
+    "published": "artifacts/results/catboost/v1/threshold_transfer_report.csv",
+    "source_sha256": "04ed7c8fffbc0805507eae337a4cd1c91d61e02fc4561dbbfb5b87fdf67db5f6",
+    "published_sha256": "04ed7c8fffbc0805507eae337a4cd1c91d61e02fc4561dbbfb5b87fdf67db5f6",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/training_complete.json",
+    "published": "artifacts/results/catboost/v1/training_complete.json",
+    "source_sha256": "e5f8a0f7059f7c403d637e1398884339e652f3d0595844d5ffa528943eb85bd7",
+    "published_sha256": "e5f8a0f7059f7c403d637e1398884339e652f3d0595844d5ffa528943eb85bd7",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/validation_report.csv",
+    "published": "artifacts/results/catboost/v1/validation_report.csv",
+    "source_sha256": "68330c72f74c6a3d67ffa2271303ede85542534d299f8f08b7753b96fef5193a",
+    "published_sha256": "68330c72f74c6a3d67ffa2271303ede85542534d299f8f08b7753b96fef5193a",
+    "kind": "frozen aggregate or configuration; path strings normalized"
+  },
+  {
+    "source": "tests/test_evt_log_cond_calibration.py",
+    "published": "tests/test_evt_log_cond_calibration.py",
+    "source_sha256": "5ffa4e3f07d2dbd74b1293c1ba40b6efbe7548db7b501c5a1d83a9624232479f",
+    "published_sha256": "5ffa4e3f07d2dbd74b1293c1ba40b6efbe7548db7b501c5a1d83a9624232479f",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "tests/test_maker_catboost.py",
+    "published": "tests/test_maker_catboost.py",
+    "source_sha256": "aa726eb4ff9f23b8df21adc80ceae3bf63bdfeb0dd45c6ccf0ea9d51e3722ed0",
+    "published_sha256": "8ecbb69d7d0d2a189e24e46b6f1c4879a06e6a88b925c2a1a46092f49273668d",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "tests/test_followthrough_properties.py",
+    "published": "tests/test_followthrough_properties.py",
+    "source_sha256": "532935b1f1561682587b2b88120995fa6114f28a29aa91404a6e00d183ab94dd",
+    "published_sha256": "532935b1f1561682587b2b88120995fa6114f28a29aa91404a6e00d183ab94dd",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "tests/test_maker_hybrid.py",
+    "published": "tests/test_maker_hybrid.py",
+    "source_sha256": "46b90b20d00d48ef1fc4027ab3d435f41458548a7b586ea762341456a2e89475",
+    "published_sha256": "24ccaa75655128c9c9e371161c55242d947b5747443f8ea8da9712000a4118f1",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "tests/test_evt_log_cond.py",
+    "published": "tests/test_evt_log_cond.py",
+    "source_sha256": "66d0d5f9b358937d68b26f9a1a0e09728fda2467f71ca1dac7b4a54a510de4c8",
+    "published_sha256": "66d0d5f9b358937d68b26f9a1a0e09728fda2467f71ca1dac7b4a54a510de4c8",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "tests/test_evt_log_cond_reduced_test.py",
+    "published": "tests/test_evt_log_cond_reduced_test.py",
+    "source_sha256": "d68f3b5e9e2d0746ddceb0e45209bee5fe465a6fb8986d0628903de893e2e0f7",
+    "published_sha256": "9097a4c42d799ccc3615dd4682397fa5a60c770c746912db5a6939820c0b28b1",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "tests/test_evt_log_cond_reduced_5s.py",
+    "published": "tests/test_evt_log_cond_reduced_5s.py",
+    "source_sha256": "90f6fc661d7686c15c9fe9be4ea9ad49b74f09ac6fd7bba7498ed40f10d43757",
+    "published_sha256": "95013f6b1db3983492c8fba18e523d0535b93dd716ee7454d99d706e2eeb56e3",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "tests/test_statistical_validation.py",
+    "published": "tests/test_statistical_validation.py",
+    "source_sha256": "35bd8755edf9ee096bef557cd1b602451f70449643aea108c799e26ec58bbdfb",
+    "published_sha256": "35bd8755edf9ee096bef557cd1b602451f70449643aea108c799e26ec58bbdfb",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "tests/test_followthrough_artifacts.py",
+    "published": "tests/test_followthrough_artifacts.py",
+    "source_sha256": "409148ecb1ea0826e0c5474c13b70de0855bebb8539f76e6425ed9ace03ee376",
+    "published_sha256": "9d97bdb427fd68a0e35c7b35ab30251177d6bf73fe7392b27a89d8bab429f4a4",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "tests/test_early_warning.py",
+    "published": "tests/test_early_warning.py",
+    "source_sha256": "8f3ff6e55cc3e813057e6041fc90cfef64543b43cb95b1bd5d1c5a77863d3091",
+    "published_sha256": "8f3ff6e55cc3e813057e6041fc90cfef64543b43cb95b1bd5d1c5a77863d3091",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "tests/test_liquidation_episode_catalog.py",
+    "published": "tests/test_liquidation_episode_catalog.py",
+    "source_sha256": "083d0e25b62c7d7cebb21a5e8c0b487ec806160f8b188ce27236fb1d358464a7",
+    "published_sha256": "083d0e25b62c7d7cebb21a5e8c0b487ec806160f8b188ce27236fb1d358464a7",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "tests/test_early_warning_artifacts.py",
+    "published": "tests/test_early_warning_artifacts.py",
+    "source_sha256": "5713cb212b7b13260c07705223c03094ec446f2a562280ed04f6d9b18491035e",
+    "published_sha256": "5713cb212b7b13260c07705223c03094ec446f2a562280ed04f6d9b18491035e",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "test_liquidation_followthrough.py",
+    "published": "tests/test_liquidation_followthrough.py",
+    "source_sha256": "94df042eb343f069badb46221ba0e04bbe959fc43e4ef31afdd78947128040b0",
+    "published_sha256": "94df042eb343f069badb46221ba0e04bbe959fc43e4ef31afdd78947128040b0",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "test_liquidation_bursts.py",
+    "published": "tests/test_liquidation_bursts.py",
+    "source_sha256": "7c1c36bd3be9b9fc59d8f1a8503a993a4cbc031db4c6a7e0b3c9dff663dd45ea",
+    "published_sha256": "7c1c36bd3be9b9fc59d8f1a8503a993a4cbc031db4c6a7e0b3c9dff663dd45ea",
+    "kind": "original tests; publication markers added separately"
+  },
+  {
+    "source": "data_quality_artifacts/data__binance_booktickers__perp_btcusdt/result.pkl",
+    "source_sha256": "3137910f2ab18a78e0141c5e4a0e655f301229fcc35b750bba49a7c64a787a3c",
+    "published": "artifacts/results/quality/distribution_histograms.csv",
+    "kind": "exact histogram and quantile aggregate extraction only"
+  },
+  {
+    "source": "data_quality_artifacts/data__binance_booktickers__perp_ethusdt/result.pkl",
+    "source_sha256": "d585dfc0978003f78f6371aa856c1ff3475db1e3c9abc6d2df256bfac8cf703c",
+    "published": "artifacts/results/quality/distribution_histograms.csv",
+    "kind": "exact histogram and quantile aggregate extraction only"
+  },
+  {
+    "source": "data_quality_artifacts/data__binance_liquidations__perp_btcusdt/result.pkl",
+    "source_sha256": "56f31f15a838d255d5da434f038af5eaccdd751e7fffcfc1594a403fcc31c14d",
+    "published": "artifacts/results/quality/distribution_histograms.csv",
+    "kind": "exact histogram and quantile aggregate extraction only"
+  },
+  {
+    "source": "data_quality_artifacts/data__binance_liquidations__perp_ethusdt/result.pkl",
+    "source_sha256": "e8e8f186a034ca91ff11c4b2e175e151d39ffbbaa616bfcb6c6a70b24121d2ea",
+    "published": "artifacts/results/quality/distribution_histograms.csv",
+    "kind": "exact histogram and quantile aggregate extraction only"
+  },
+  {
+    "source": "data_quality_artifacts/data__binance_trades__perp_btcusdt/result.pkl",
+    "source_sha256": "e6d5c92d78d6871eece06eec692c071b6a99c04a1fbb320edab8787e59f93aef",
+    "published": "artifacts/results/quality/distribution_histograms.csv",
+    "kind": "exact histogram and quantile aggregate extraction only"
+  },
+  {
+    "source": "data_quality_artifacts/data__binance_trades__perp_ethusdt/result.pkl",
+    "source_sha256": "b1d3033140749aef99333271e122b7cee2746d0b61ec80ed9da3f6a642cd90b5",
+    "published": "artifacts/results/quality/distribution_histograms.csv",
+    "kind": "exact histogram and quantile aggregate extraction only"
+  },
+  {
+    "source": "data_quality_artifacts/data__bybit_liquidations__btcusdt/result.pkl",
+    "source_sha256": "349627ae9c267b26e36345fa7ba6d1039de95e40162997ef8345e380383326a4",
+    "published": "artifacts/results/quality/distribution_histograms.csv",
+    "kind": "exact histogram and quantile aggregate extraction only"
+  },
+  {
+    "source": "data_quality_artifacts/data__bybit_liquidations__ethusdt/result.pkl",
+    "source_sha256": "709bfa92fb2c2df25e40bdf9fa6a6bdf8f1d54deb80c53bd941263819788ad2a",
+    "published": "artifacts/results/quality/distribution_histograms.csv",
+    "kind": "exact histogram and quantile aggregate extraction only"
+  },
+  {
+    "source": "maker_hybrid/release.py",
+    "published": "src/maker_hybrid/release.py",
+    "source_sha256": "7b73a001bea8eda66932ccf7546d535264cb383f06a63243de5578b168e51102",
+    "kind": "original inference configuration exporter",
+    "published_sha256": "7b73a001bea8eda66932ccf7546d535264cb383f06a63243de5578b168e51102"
+  }
+]

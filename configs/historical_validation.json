@@ -1,0 +1,18 @@
+[
+  {
+    "source": "maker_hybrid_artifacts/validation_status.json",
+    "source_sha256": "81c21c40988fc3ef613372c9ad477ffcb426fa230baa4f563d18c0bcdd8c6af8",
+    "historical_test_count": 147,
+    "failures": 0,
+    "errors": 0,
+    "scope": "Historical workspace receipt; not a new execution of the full-data suite"
+  },
+  {
+    "source": "maker_hybrid_e9_artifacts/v1/validation_status.json",
+    "source_sha256": "0db28a4448ae06998a1b9e69fe8f7200f3e05cf322f61f76d81c79d8fadec8dc",
+    "historical_test_count": 156,
+    "failures": 0,
+    "errors": 0,
+    "scope": "Historical workspace receipt; not a new execution of the full-data suite"
+  }
+]
